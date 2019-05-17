@@ -7,16 +7,13 @@ from collections import defaultdict
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("in_conll")
-parser.add_argument("out_file")
+parser.add_argument("in_conll", nargs='?', type=argparse.FileType('r'), default=sys.stdin)
+parser.add_argument("out_file", nargs='?', type=argparse.FileType('w'), default=sys.stdout)
 parser.add_argument("--tag_type", default='upos', help='ud tag to use.  upos or deprel')
 parser.add_argument("--freq_filter", type=int, default=0, help='frequency filter for word appearance')
 parser.add_argument("--topN", type=int, default=None, help='retain only topN most frequent words')
 parser.add_argument("--verbose", action='store_true')
 args = parser.parse_args()
-
-
-conllfile = args.in_conll
 
 tab = re.compile('^(?:[^\t]+\t){9}[^\t]+$')
 fine_deprel = re.compile(':\w+$')
@@ -25,9 +22,9 @@ freqfilter=args.freq_filter
 topN = args.topN
 
 if args.verbose:
-    print('reading from', conllfile)
+    print('reading from', args.in_conll, file=sys.stderr)
 
-rus=open(conllfile)
+rus=args.in_conll
 #Step 1: Get frequency and tag distributions of words
 words = {}
 for line in rus:
@@ -49,7 +46,7 @@ for line in rus:
 rus.close()
 
 if args.verbose:
-    print('read all words from file')
+    print('read all words from file',file=sys.stderr)
 
 #Step 2: Filter by frequency (optional)
 words = {k:v for k,v in words.items() if words[k]['freq'] >= freqfilter}
@@ -65,10 +62,9 @@ for w in words:
         words[w]['tags'][t] = words[w]['tags'][t] / tagsum
 
 #Step 5: Print to file
-with open(args.out_file,'w') as output:
-    for w in sorted(words):
-        print(w, json.dumps(words[w]['tags']), sep='\t', file =output)
+for w in sorted(words):
+    print(w, json.dumps(words[w]['tags']), sep='\t', file =args.out_file)
 
 if args.verbose:
-    print('finished {}'.format(time.ctime()))
+    print('finished {}'.format(time.ctime()), file=sys.stderr)
     
