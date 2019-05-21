@@ -1,0 +1,1286 @@
+!	{"ud.punct": 1.0}
+"	{"ud.punct": 1.0}
+'	{"ud.punct": 1.0}
+(	{"ud.punct": 1.0}
+)	{"ud.punct": 1.0}
+,	{"ud.punct": 1.0}
+-	{"ud.punct": 1.0}
+.	{"ud.punct": 1.0}
+...	{"ud.punct": 1.0}
+/	{"ud.punct": 1.0}
+0	{"ud.num": 1.0}
+10	{"ud.num": 1.0}
+100	{"ud.num": 1.0}
+11	{"ud.num": 1.0}
+12	{"ud.num": 1.0}
+130	{"ud.num": 1.0}
+14	{"ud.num": 1.0}
+16	{"ud.num": 1.0}
+1998ko	{"ud.num": 1.0}
+1999ko	{"ud.num": 1.0}
+2.	{"ud.num": 1.0}
+20	{"ud.num": 1.0}
+200	{"ud.num": 1.0}
+2001.	{"ud.num": 1.0}
+22an	{"ud.num": 1.0}
+25	{"ud.num": 1.0}
+30	{"ud.num": 1.0}
+60	{"ud.num": 1.0}
+8	{"ud.num": 1.0}
+:	{"ud.punct": 1.0}
+;	{"ud.punct": 1.0}
+?	{"ud.punct": 1.0}
+abenduaren	{"ud.noun": 1.0}
+abertzaleen	{"ud.noun": 1.0}
+abiatu	{"ud.verb": 1.0}
+adibide	{"ud.noun": 1.0}
+adibidez	{"ud.adv": 1.0}
+adierazi	{"ud.verb": 1.0}
+adierazten	{"ud.verb": 1.0}
+agerian	{"ud.adv": 1.0}
+agertu	{"ud.verb": 1.0}
+agertzen	{"ud.verb": 1.0}
+agian	{"ud.adv": 1.0}
+agindu	{"ud.verb": 1.0}
+agintariak	{"ud.noun": 1.0}
+agintarien	{"ud.noun": 1.0}
+agintea	{"ud.noun": 1.0}
+agurra	{"ud.noun": 1.0}
+ahal	{"ud.noun": 1.0}
+ahala	{"ud.adv": 1.0}
+ahaleginak	{"ud.noun": 1.0}
+ahalmena	{"ud.noun": 1.0}
+aipatu	{"ud.verb": 1.0}
+aipatzen	{"ud.verb": 1.0}
+aitor	{"ud.propn": 1.0}
+aitortu	{"ud.verb": 1.0}
+aitzinean	{"ud.noun": 0.6666666666666666, "ud.adp": 0.3333333333333333}
+akordioak	{"ud.noun": 1.0}
+akordioaren	{"ud.noun": 1.0}
+akusatuta	{"ud.verb": 1.0}
+alavesek	{"ud.propn": 1.0}
+alavesen	{"ud.propn": 1.0}
+albokari	{"ud.noun": 1.0}
+aldaketa	{"ud.noun": 1.0}
+aldaketak	{"ud.noun": 1.0}
+aldarrikatu	{"ud.verb": 1.0}
+aldatu	{"ud.verb": 1.0}
+aldatzen	{"ud.verb": 1.0}
+alde	{"ud.noun": 0.8, "ud.adp": 0.2}
+aldea	{"ud.noun": 1.0}
+aldeko	{"ud.adp": 1.0}
+aldera	{"ud.noun": 0.16666666666666666, "ud.adp": 0.8333333333333334}
+alderdi	{"ud.noun": 1.0}
+aldi	{"ud.noun": 1.0}
+aldiz	{"ud.noun": 0.5384615384615384, "ud.cconj": 0.46153846153846156}
+alegia	{"ud.cconj": 1.0}
+alemaniako	{"ud.propn": 1.0}
+alta	{"ud.cconj": 0.75, "ud.noun": 0.25}
+amaiera	{"ud.noun": 1.0}
+amaitu	{"ud.verb": 1.0}
+amaituta	{"ud.verb": 1.0}
+amaitzeko	{"ud.verb": 1.0}
+amaren	{"ud.noun": 1.0}
+amerikako	{"ud.propn": 1.0}
+amia	{"ud.noun": 1.0}
+andoni	{"ud.propn": 1.0}
+andres	{"ud.propn": 1.0}
+annikak	{"ud.propn": 1.0}
+antolatu	{"ud.verb": 1.0}
+antolatzen	{"ud.verb": 1.0}
+antonio	{"ud.propn": 1.0}
+apur	{"ud.noun": 1.0}
+arabera	{"ud.adp": 1.0}
+araudia	{"ud.noun": 1.0}
+arazo	{"ud.noun": 1.0}
+arazoak	{"ud.noun": 1.0}
+ardura	{"ud.noun": 1.0}
+argentinako	{"ud.propn": 1.0}
+argi	{"ud.noun": 0.1, "ud.adv": 0.7, "ud.adj": 0.2}
+argia	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+argitu	{"ud.verb": 1.0}
+ari	{"ud.aux": 1.0}
+ariko	{"ud.verb": 1.0}
+aritu	{"ud.verb": 1.0}
+aritzea	{"ud.verb": 1.0}
+arlo	{"ud.noun": 1.0}
+armadako	{"ud.noun": 1.0}
+armak	{"ud.noun": 1.0}
+arrantzale	{"ud.noun": 1.0}
+arratsaldeko	{"ud.noun": 1.0}
+arren	{"ud.cconj": 1.0}
+arreta	{"ud.noun": 1.0}
+arriskua	{"ud.noun": 1.0}
+arte	{"ud.noun": 0.25, "ud.adp": 0.75}
+artean	{"ud.noun": 0.03125, "ud.adp": 0.96875}
+arteko	{"ud.adp": 1.0}
+askatasuna	{"ud.noun": 1.0}
+aske	{"ud.adv": 1.0}
+aski	{"ud.adv": 1.0}
+asko	{"ud.adv": 0.6, "ud.det": 0.4}
+askotako	{"ud.det": 1.0}
+askotan	{"ud.adv": 0.6666666666666666, "ud.det": 0.3333333333333333}
+asmatu	{"ud.verb": 1.0}
+asmo	{"ud.noun": 1.0}
+asmoa	{"ud.noun": 1.0}
+aste	{"ud.noun": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+asteartean	{"ud.noun": 1.0}
+asteazkenean	{"ud.noun": 1.0}
+astelehenean	{"ud.noun": 1.0}
+ate	{"ud.noun": 1.0}
+atean	{"ud.noun": 1.0}
+atera	{"ud.verb": 1.0}
+athleticek	{"ud.propn": 1.0}
+athleticeko	{"ud.propn": 1.0}
+atxilotu	{"ud.verb": 1.0}
+atzean	{"ud.noun": 0.42857142857142855, "ud.adp": 0.5714285714285714}
+atzera	{"ud.adv": 1.0}
+atzeratu	{"ud.verb": 1.0}
+atzetik	{"ud.adp": 1.0}
+atzo	{"ud.adv": 1.0}
+atzoko	{"ud.adv": 1.0}
+atzokoa	{"ud.adv": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+atzokoan	{"ud.noun": 1.0}
+aukera	{"ud.noun": 1.0}
+aukerarik	{"ud.noun": 1.0}
+aukeratu	{"ud.verb": 1.0}
+aukeratzen	{"ud.verb": 1.0}
+aurka	{"ud.noun": 0.041666666666666664, "ud.adp": 0.9583333333333334}
+aurkako	{"ud.adp": 0.875, "ud.noun": 0.125}
+aurkari	{"ud.noun": 1.0}
+aurkeztu	{"ud.verb": 1.0}
+aurkeztuko	{"ud.verb": 1.0}
+aurkitu	{"ud.verb": 1.0}
+aurkitzen	{"ud.verb": 1.0}
+aurpegia	{"ud.noun": 1.0}
+aurre	{"ud.noun": 1.0}
+aurrean	{"ud.noun": 0.15384615384615385, "ud.adp": 0.8461538461538461}
+aurreikusita	{"ud.verb": 1.0}
+aurreko	{"ud.noun": 0.6666666666666666, "ud.adp": 0.3333333333333333}
+aurrena	{"ud.num": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+aurrera	{"ud.noun": 0.75, "ud.adp": 0.25}
+aurretik	{"ud.noun": 0.5294117647058824, "ud.adp": 0.47058823529411764}
+aurrez	{"ud.adv": 1.0}
+aurten	{"ud.adv": 1.0}
+aurtengo	{"ud.adj": 1.0}
+autoa	{"ud.noun": 1.0}
+autonomia	{"ud.noun": 1.0}
+auzi	{"ud.noun": 1.0}
+auzoan	{"ud.noun": 1.0}
+azaldu	{"ud.verb": 1.0}
+azaltzen	{"ud.verb": 1.0}
+azaroan	{"ud.noun": 1.0}
+azken	{"ud.num": 1.0}
+azkena	{"ud.num": 1.0}
+azkenean	{"ud.adv": 1.0}
+azkenik	{"ud.adv": 1.0}
+azpimarratu	{"ud.verb": 1.0}
+azpimarratzekoa	{"ud.verb": 1.0}
+azterketa	{"ud.noun": 1.0}
+aztertu	{"ud.verb": 1.0}
+aztertzen	{"ud.verb": 1.0}
+b	{"ud.noun": 1.0}
+bada	{"ud.verb": 0.3333333333333333, "ud.aux": 0.5, "ud.cconj": 0.16666666666666666}
+badago	{"ud.verb": 0.75, "ud.aux": 0.25}
+badira	{"ud.aux": 0.75, "ud.verb": 0.25}
+badu	{"ud.aux": 0.2, "ud.verb": 0.8}
+badugu	{"ud.verb": 0.42857142857142855, "ud.aux": 0.5714285714285714}
+baduzu	{"ud.verb": 0.5, "ud.aux": 0.5}
+bai	{"ud.part": 1.0}
+baimena	{"ud.noun": 1.0}
+baina	{"ud.cconj": 1.0}
+baino	{"ud.x": 0.875, "ud.cconj": 0.125}
+baita	{"ud.aux": 0.6666666666666666, "ud.verb": 0.16666666666666666, "ud.cconj": 0.16666666666666666}
+baititu	{"ud.aux": 1.0}
+baitu	{"ud.aux": 1.0}
+baitzen	{"ud.aux": 1.0}
+baitzuen	{"ud.verb": 0.25, "ud.aux": 0.75}
+baizik	{"ud.cconj": 1.0}
+bakarra	{"ud.adj": 1.0}
+bakarrik	{"ud.adv": 1.0}
+bake	{"ud.noun": 1.0}
+bakoitzak	{"ud.adj": 1.0}
+baliatu	{"ud.verb": 1.0}
+baliteke	{"ud.aux": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+baloia	{"ud.noun": 1.0}
+baltasar	{"ud.propn": 1.0}
+barak	{"ud.propn": 1.0}
+barne	{"ud.noun": 0.8571428571428571, "ud.adj": 0.14285714285714285}
+barruan	{"ud.noun": 0.4, "ud.adp": 0.6}
+barruko	{"ud.noun": 1.0}
+bat	{"ud.num": 1.0}
+bat-batean	{"ud.adv": 1.0}
+batasunak	{"ud.noun": 1.0}
+batasunaren	{"ud.noun": 1.0}
+batean	{"ud.num": 1.0}
+batek	{"ud.num": 1.0}
+batekin	{"ud.num": 1.0}
+bateko	{"ud.num": 1.0}
+baten	{"ud.num": 1.0}
+batera	{"ud.num": 0.4166666666666667, "ud.adp": 0.5833333333333334}
+baterako	{"ud.num": 1.0}
+batere	{"ud.adv": 0.3333333333333333, "ud.det": 0.6666666666666666}
+batez	{"ud.num": 1.0}
+bati	{"ud.num": 1.0}
+batuetako	{"ud.adj": 1.0}
+batzar	{"ud.noun": 1.0}
+batzorde	{"ud.noun": 1.0}
+batzordeak	{"ud.noun": 1.0}
+batzuek	{"ud.det": 1.0}
+batzuekin	{"ud.det": 1.0}
+batzuetan	{"ud.det": 0.75, "ud.adv": 0.25}
+batzuk	{"ud.det": 1.0}
+bederatzi	{"ud.num": 1.0}
+begi	{"ud.noun": 1.0}
+begiak	{"ud.noun": 1.0}
+begira	{"ud.adp": 1.0}
+begiratu	{"ud.verb": 1.0}
+behar	{"ud.noun": 0.9672131147540983, "ud.adj": 0.03278688524590164}
+beharbada	{"ud.adv": 1.0}
+beharko	{"ud.verb": 1.0}
+beharra	{"ud.noun": 1.0}
+behera	{"ud.noun": 1.0}
+behin	{"ud.adv": 1.0}
+behintzat	{"ud.cconj": 1.0}
+beldurra	{"ud.noun": 1.0}
+benetako	{"ud.adj": 1.0}
+benetan	{"ud.adv": 1.0}
+bera	{"ud.det": 1.0}
+beraiek	{"ud.pron": 1.0}
+beraien	{"ud.pron": 1.0}
+berak	{"ud.det": 1.0}
+beraz	{"ud.cconj": 1.0}
+bere	{"ud.det": 1.0}
+berean	{"ud.det": 1.0}
+bereganatu	{"ud.verb": 1.0}
+berehala	{"ud.adv": 1.0}
+beren	{"ud.det": 1.0}
+berezia	{"ud.adj": 1.0}
+bereziak	{"ud.adj": 1.0}
+bereziki	{"ud.adv": 1.0}
+bermeon	{"ud.propn": 1.0}
+berretsi	{"ud.verb": 1.0}
+berri	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+berria	{"ud.adj": 0.8181818181818182, "ud.noun": 0.18181818181818182}
+berriak	{"ud.adj": 1.0}
+berriro	{"ud.adv": 1.0}
+berriz	{"ud.cconj": 0.84, "ud.adv": 0.16}
+bertan	{"ud.adv": 1.0}
+bestalde	{"ud.cconj": 1.0}
+beste	{"ud.det": 1.0}
+besterik	{"ud.det": 1.0}
+bestetik	{"ud.det": 1.0}
+bete	{"ud.verb": 1.0}
+beti	{"ud.adv": 1.0}
+betiko	{"ud.adv": 1.0}
+betirako	{"ud.adv": 1.0}
+bezala	{"ud.adv": 0.52, "ud.adp": 0.48}
+bezalako	{"ud.adp": 1.0}
+bi	{"ud.num": 1.0}
+biak	{"ud.num": 1.0}
+bidali	{"ud.verb": 1.0}
+bide	{"ud.noun": 1.0}
+bidea	{"ud.noun": 1.0}
+bidez	{"ud.adp": 1.0}
+bien	{"ud.num": 1.0}
+bigarren	{"ud.num": 1.0}
+bihar	{"ud.adv": 1.0}
+bihurtu	{"ud.verb": 1.0}
+bihurtzen	{"ud.verb": 1.0}
+bikaina	{"ud.adj": 1.0}
+bila	{"ud.adp": 1.0}
+bilatzen	{"ud.verb": 1.0}
+bildu	{"ud.verb": 1.0}
+bilera	{"ud.noun": 1.0}
+biltzen	{"ud.verb": 1.0}
+biolentzia	{"ud.noun": 1.0}
+bistan	{"ud.noun": 1.0}
+bitartean	{"ud.noun": 0.25, "ud.adp": 0.625, "ud.adv": 0.125}
+bitartez	{"ud.adp": 1.0}
+bizi	{"ud.noun": 0.5, "ud.adj": 0.5}
+bizia	{"ud.noun": 1.0}
+bizkaiko	{"ud.propn": 1.0}
+borroka	{"ud.noun": 1.0}
+bost	{"ud.num": 1.0}
+bota	{"ud.verb": 1.0}
+boto	{"ud.noun": 1.0}
+botoa	{"ud.noun": 1.0}
+bueltatu	{"ud.verb": 1.0}
+buenos	{"ud.propn": 1.0}
+bukatu	{"ud.verb": 1.0}
+burua	{"ud.noun": 1.0}
+buruak	{"ud.noun": 1.0}
+buruan	{"ud.noun": 0.6666666666666666, "ud.adp": 0.3333333333333333}
+buruz	{"ud.adp": 1.0}
+buruzagi	{"ud.noun": 1.0}
+buruzko	{"ud.adp": 1.0}
+carlos	{"ud.propn": 1.0}
+da	{"ud.aux": 0.8778877887788779, "ud.verb": 0.12211221122112212}
+dabil	{"ud.aux": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+dadin	{"ud.aux": 1.0}
+dago	{"ud.verb": 0.7297297297297297, "ud.aux": 0.2702702702702703}
+dagoela	{"ud.aux": 0.3, "ud.verb": 0.7}
+dagoenean	{"ud.aux": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+dagokienez	{"ud.verb": 1.0}
+dagokionez	{"ud.verb": 1.0}
+daiteke	{"ud.aux": 1.0}
+daitezke	{"ud.aux": 1.0}
+datorren	{"ud.verb": 1.0}
+datozen	{"ud.verb": 1.0}
+daude	{"ud.aux": 0.2916666666666667, "ud.verb": 0.7083333333333334}
+dauden	{"ud.verb": 1.0}
+dauka	{"ud.verb": 1.0}
+daukate	{"ud.verb": 1.0}
+de	{"ud.x": 1.0}
+debekatzen	{"ud.verb": 1.0}
+defentsa	{"ud.noun": 1.0}
+deitu	{"ud.verb": 1.0}
+deitzen	{"ud.verb": 1.0}
+dela	{"ud.verb": 0.3392857142857143, "ud.aux": 0.6607142857142857}
+delako	{"ud.aux": 0.8, "ud.verb": 0.2}
+demokratek	{"ud.noun": 1.0}
+den	{"ud.aux": 0.8936170212765957, "ud.verb": 0.10638297872340426}
+dena	{"ud.det": 0.5555555555555556, "ud.aux": 0.4444444444444444}
+denak	{"ud.det": 1.0}
+denbora	{"ud.noun": 1.0}
+denboraldi	{"ud.noun": 1.0}
+denboraldi-aurreko	{"ud.noun": 1.0}
+denboraldian	{"ud.noun": 1.0}
+denboraldietan	{"ud.noun": 1.0}
+denean	{"ud.aux": 1.0}
+denez	{"ud.verb": 0.4, "ud.aux": 0.6}
+derbian	{"ud.noun": 1.0}
+desagertu	{"ud.verb": 1.0}
+dezake	{"ud.aux": 1.0}
+dezakete	{"ud.aux": 1.0}
+die	{"ud.aux": 0.875, "ud.verb": 0.125}
+diete	{"ud.aux": 1.0}
+digu	{"ud.aux": 1.0}
+digute	{"ud.aux": 0.75, "ud.verb": 0.25}
+dio	{"ud.verb": 0.34375, "ud.aux": 0.65625}
+diogu	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+diote	{"ud.aux": 0.8823529411764706, "ud.verb": 0.11764705882352941}
+dira	{"ud.aux": 0.9191176470588235, "ud.verb": 0.08088235294117647}
+direla	{"ud.aux": 0.7586206896551724, "ud.verb": 0.2413793103448276}
+diren	{"ud.aux": 0.8076923076923077, "ud.verb": 0.19230769230769232}
+diru	{"ud.noun": 1.0}
+dirudi	{"ud.verb": 1.0}
+ditu	{"ud.aux": 0.8035714285714286, "ud.verb": 0.19642857142857142}
+dituela	{"ud.verb": 0.16666666666666666, "ud.aux": 0.8333333333333334}
+dituen	{"ud.aux": 0.8125, "ud.verb": 0.1875}
+dituena	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+ditugu	{"ud.aux": 0.6363636363636364, "ud.verb": 0.36363636363636365}
+ditugun	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+ditut	{"ud.aux": 1.0}
+dituzte	{"ud.verb": 0.08695652173913043, "ud.aux": 0.9130434782608695}
+dituztela	{"ud.aux": 1.0}
+dituzten	{"ud.verb": 0.2, "ud.aux": 0.8}
+dituzu	{"ud.aux": 1.0}
+dizute	{"ud.aux": 1.0}
+domina	{"ud.noun": 1.0}
+dos	{"ud.propn": 1.0}
+du	{"ud.aux": 0.8238095238095238, "ud.verb": 0.1761904761904762}
+duela	{"ud.aux": 0.6129032258064516, "ud.verb": 0.3870967741935484}
+duelako	{"ud.aux": 0.5, "ud.verb": 0.5}
+duen	{"ud.aux": 0.8285714285714286, "ud.verb": 0.17142857142857143}
+duenean	{"ud.aux": 0.75, "ud.verb": 0.25}
+duenez	{"ud.aux": 1.0}
+dugu	{"ud.verb": 0.2571428571428571, "ud.aux": 0.7428571428571429}
+dugula	{"ud.aux": 1.0}
+dugun	{"ud.verb": 0.5714285714285714, "ud.aux": 0.42857142857142855}
+dut	{"ud.verb": 0.29411764705882354, "ud.aux": 0.7058823529411765}
+dute	{"ud.aux": 0.7474747474747475, "ud.verb": 0.25252525252525254}
+dutela	{"ud.verb": 0.4444444444444444, "ud.aux": 0.5555555555555556}
+duten	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+dutenak	{"ud.verb": 0.4, "ud.aux": 0.6}
+duzu	{"ud.aux": 0.9230769230769231, "ud.verb": 0.07692307692307693}
+duzue	{"ud.aux": 1.0}
+ea	{"ud.intj": 0.25, "ud.x": 0.75}
+eaeko	{"ud.propn": 1.0}
+eajk	{"ud.propn": 1.0}
+ebakuntza	{"ud.noun": 1.0}
+edo	{"ud.cconj": 1.0}
+edozein	{"ud.det": 1.0}
+eduki	{"ud.verb": 1.0}
+eebbek	{"ud.propn": 1.0}
+eebbetako	{"ud.propn": 1.0}
+egin	{"ud.verb": 1.0}
+egindako	{"ud.verb": 1.0}
+eginen	{"ud.verb": 1.0}
+eginez	{"ud.verb": 1.0}
+egingo	{"ud.verb": 1.0}
+eginiko	{"ud.verb": 1.0}
+egitea	{"ud.verb": 1.0}
+egiteak	{"ud.verb": 1.0}
+egiteko	{"ud.verb": 0.95, "ud.noun": 0.05}
+egiten	{"ud.verb": 1.0}
+egoera	{"ud.noun": 1.0}
+egoitza	{"ud.noun": 1.0}
+egon	{"ud.verb": 0.9230769230769231, "ud.aux": 0.07692307692307693}
+egongo	{"ud.verb": 0.6363636363636364, "ud.aux": 0.36363636363636365}
+egotea	{"ud.verb": 0.875, "ud.aux": 0.125}
+egoteko	{"ud.verb": 1.0}
+egoten	{"ud.verb": 0.6666666666666666, "ud.aux": 0.3333333333333333}
+egun	{"ud.noun": 0.6774193548387096, "ud.adv": 0.3225806451612903}
+eguna	{"ud.noun": 1.0}
+egunean	{"ud.noun": 1.0}
+egunetik	{"ud.noun": 1.0}
+egungo	{"ud.adj": 0.3333333333333333, "ud.adv": 0.6666666666666666}
+ehko	{"ud.propn": 1.0}
+ekainaren	{"ud.noun": 1.0}
+ekarri	{"ud.verb": 1.0}
+ekialde	{"ud.noun": 1.0}
+ekin	{"ud.verb": 1.0}
+ekintza	{"ud.noun": 1.0}
+ekitaldia	{"ud.noun": 1.0}
+ekonomiko	{"ud.adj": 1.0}
+elkarbizitza	{"ud.noun": 1.0}
+elkarrekin	{"ud.pron": 1.0}
+elkartasuna	{"ud.noun": 1.0}
+elkarte	{"ud.noun": 1.0}
+elkartu	{"ud.verb": 1.0}
+emaitza	{"ud.noun": 1.0}
+emaitzak	{"ud.noun": 1.0}
+eman	{"ud.verb": 1.0}
+emango	{"ud.verb": 1.0}
+ematea	{"ud.verb": 1.0}
+emateko	{"ud.verb": 1.0}
+ematen	{"ud.verb": 1.0}
+energia	{"ud.noun": 1.0}
+enpresak	{"ud.noun": 1.0}
+entrenamendu	{"ud.noun": 1.0}
+entrenatu	{"ud.verb": 1.0}
+entrenatzaileak	{"ud.noun": 1.0}
+entzun	{"ud.verb": 1.0}
+entzutegi	{"ud.noun": 1.0}
+entzuten	{"ud.verb": 1.0}
+epaile	{"ud.noun": 1.0}
+epe	{"ud.noun": 1.0}
+era	{"ud.noun": 0.8181818181818182, "ud.verb": 0.09090909090909091, "ud.cconj": 0.09090909090909091}
+erabaki	{"ud.verb": 0.6363636363636364, "ud.noun": 0.36363636363636365}
+erabili	{"ud.verb": 1.0}
+erabiltzen	{"ud.verb": 1.0}
+eragin	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+eragina	{"ud.noun": 1.0}
+eragiten	{"ud.verb": 1.0}
+eraikitzen	{"ud.verb": 1.0}
+erakundeak	{"ud.noun": 1.0}
+erakutsi	{"ud.verb": 1.0}
+eraman	{"ud.verb": 1.0}
+erantsi	{"ud.verb": 1.0}
+erantzukizun	{"ud.noun": 1.0}
+erantzun	{"ud.verb": 1.0}
+eraso	{"ud.verb": 0.6, "ud.noun": 0.4}
+erasoa	{"ud.noun": 1.0}
+erasoan	{"ud.noun": 1.0}
+erdian	{"ud.noun": 0.7142857142857143, "ud.adp": 0.2857142857142857}
+erdietsi	{"ud.verb": 1.0}
+erdiko	{"ud.noun": 1.0}
+ere	{"ud.cconj": 1.0}
+eredu	{"ud.noun": 1.0}
+eremu	{"ud.noun": 1.0}
+erraz	{"ud.adj": 0.5, "ud.adv": 0.5}
+erraza	{"ud.adj": 1.0}
+erreforma	{"ud.noun": 1.0}
+errudun	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+errusiar	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+esan	{"ud.verb": 1.0}
+esango	{"ud.verb": 1.0}
+esate	{"ud.noun": 1.0}
+eserita	{"ud.verb": 1.0}
+eskaini	{"ud.verb": 1.0}
+eskatu	{"ud.verb": 1.0}
+eskatzeko	{"ud.verb": 1.0}
+eskatzen	{"ud.verb": 1.0}
+esker	{"ud.adp": 1.0}
+eskola	{"ud.noun": 1.0}
+esku	{"ud.noun": 0.75, "ud.adp": 0.25}
+eskua	{"ud.noun": 1.0}
+eskubide	{"ud.noun": 1.0}
+eskubidea	{"ud.noun": 1.0}
+eskubideen	{"ud.noun": 1.0}
+eskuratu	{"ud.verb": 1.0}
+espainiako	{"ud.propn": 1.0}
+esperientzia	{"ud.noun": 1.0}
+espero	{"ud.noun": 1.0}
+esprintean	{"ud.noun": 1.0}
+estatu	{"ud.noun": 1.0}
+estropada	{"ud.noun": 1.0}
+eta	{"ud.cconj": 0.9986431478968792, "ud.propn": 0.0013568521031207597}
+etapa	{"ud.noun": 1.0}
+etaren	{"ud.propn": 1.0}
+etorkizuneko	{"ud.noun": 1.0}
+etorri	{"ud.verb": 1.0}
+etxe	{"ud.noun": 1.0}
+etxean	{"ud.noun": 1.0}
+etxeko	{"ud.noun": 1.0}
+euren	{"ud.pron": 1.0}
+euroaren	{"ud.noun": 1.0}
+europa	{"ud.propn": 1.0}
+europako	{"ud.propn": 1.0}
+euskal	{"ud.noun": 0.8529411764705882, "ud.propn": 0.14705882352941177}
+euskaldun	{"ud.adj": 0.5, "ud.noun": 0.5}
+euskara	{"ud.noun": 1.0}
+euskaraz	{"ud.noun": 1.0}
+eutsi	{"ud.verb": 1.0}
+ez	{"ud.part": 0.9963768115942029, "ud.noun": 0.0036231884057971015}
+ezagutzen	{"ud.verb": 1.0}
+ezarri	{"ud.verb": 1.0}
+ezaugarriak	{"ud.noun": 1.0}
+ezberdinak	{"ud.adj": 1.0}
+ezer	{"ud.pron": 1.0}
+ezezkoa	{"ud.noun": 1.0}
+ezik	{"ud.cconj": 1.0}
+ezin	{"ud.noun": 0.9285714285714286, "ud.verb": 0.07142857142857142}
+ezinbestekoa	{"ud.adj": 1.0}
+ezinezkoa	{"ud.adj": 1.0}
+ezker	{"ud.noun": 0.5, "ud.adj": 0.5}
+eztabaida	{"ud.noun": 1.0}
+eztabaidatzeko	{"ud.verb": 1.0}
+faborito	{"ud.adj": 1.0}
+falta	{"ud.verb": 0.25, "ud.noun": 0.75}
+familia	{"ud.noun": 1.0}
+filipinetako	{"ud.propn": 1.0}
+finala	{"ud.noun": 1.0}
+finalean	{"ud.noun": 1.0}
+fitxatu	{"ud.verb": 1.0}
+francisco	{"ud.propn": 1.0}
+frantziak	{"ud.propn": 1.0}
+frantziako	{"ud.propn": 1.0}
+futbolean	{"ud.noun": 1.0}
+gabe	{"ud.adv": 0.42857142857142855, "ud.adp": 0.5714285714285714}
+gai	{"ud.noun": 1.0}
+gaiak	{"ud.noun": 1.0}
+gain	{"ud.noun": 0.2727272727272727, "ud.adp": 0.7272727272727273}
+gainean	{"ud.adv": 0.125, "ud.noun": 0.125, "ud.adp": 0.75}
+gainera	{"ud.cconj": 0.7692307692307693, "ud.adv": 0.07692307692307693, "ud.adp": 0.15384615384615385}
+gainetik	{"ud.adp": 1.0}
+galdera	{"ud.noun": 1.0}
+galdetu	{"ud.verb": 1.0}
+galdu	{"ud.verb": 1.0}
+galdua	{"ud.verb": 1.0}
+galtzen	{"ud.verb": 1.0}
+gara	{"ud.aux": 1.0}
+garai	{"ud.noun": 1.0}
+garaian	{"ud.noun": 1.0}
+garaipen	{"ud.noun": 1.0}
+garaipena	{"ud.noun": 1.0}
+garbi	{"ud.adv": 0.875, "ud.adj": 0.125}
+garrantzitsua	{"ud.adj": 1.0}
+gasteizko	{"ud.propn": 1.0}
+gaude	{"ud.verb": 1.0}
+gauean	{"ud.noun": 1.0}
+gaur	{"ud.adv": 1.0}
+gaurko	{"ud.adj": 0.42857142857142855, "ud.adv": 0.5714285714285714}
+gauza	{"ud.noun": 1.0}
+gauzak	{"ud.noun": 1.0}
+gazte	{"ud.noun": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+gazteak	{"ud.noun": 0.5, "ud.adj": 0.5}
+gehiago	{"ud.det": 0.9473684210526315, "ud.noun": 0.05263157894736842}
+gehien	{"ud.adv": 0.6666666666666666, "ud.det": 0.3333333333333333}
+gehienak	{"ud.det": 1.0}
+gehienetan	{"ud.adv": 0.6666666666666666, "ud.det": 0.3333333333333333}
+gelditu	{"ud.verb": 1.0}
+genuen	{"ud.verb": 0.15789473684210525, "ud.aux": 0.8421052631578947}
+geratu	{"ud.verb": 0.9333333333333333, "ud.aux": 0.06666666666666667}
+geratzen	{"ud.verb": 0.6666666666666666, "ud.aux": 0.3333333333333333}
+gero	{"ud.adv": 1.0}
+geroztik	{"ud.adv": 0.25, "ud.adp": 0.75}
+gerra	{"ud.noun": 1.0}
+gerta	{"ud.verb": 1.0}
+gertatu	{"ud.verb": 1.0}
+gertatzen	{"ud.verb": 1.0}
+ginen	{"ud.aux": 1.0}
+giro	{"ud.noun": 1.0}
+giroa	{"ud.noun": 1.0}
+gisa	{"ud.adp": 0.8181818181818182, "ud.noun": 0.18181818181818182}
+giza	{"ud.noun": 1.0}
+gobernu	{"ud.noun": 1.0}
+gobernua	{"ud.noun": 1.0}
+gobernuak	{"ud.noun": 1.0}
+gobernuaren	{"ud.noun": 1.0}
+gobernuari	{"ud.noun": 1.0}
+gogo	{"ud.noun": 1.0}
+gogor	{"ud.adv": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+gogoratu	{"ud.verb": 1.0}
+gogorra	{"ud.adj": 1.0}
+gogorrak	{"ud.adj": 1.0}
+goi	{"ud.adj": 0.625, "ud.noun": 0.375}
+goiz	{"ud.adv": 0.5, "ud.noun": 0.5}
+goizean	{"ud.noun": 1.0}
+goizeko	{"ud.noun": 1.0}
+gol	{"ud.noun": 1.0}
+gonzalez	{"ud.propn": 1.0}
+gora	{"ud.adv": 0.3333333333333333, "ud.adp": 0.6666666666666666}
+gorantz	{"ud.adv": 1.0}
+gorpua	{"ud.noun": 1.0}
+gozatu	{"ud.verb": 1.0}
+gris	{"ud.adj": 1.0}
+guk	{"ud.pron": 1.0}
+gure	{"ud.pron": 1.0}
+gustuko	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+gustura	{"ud.adv": 1.0}
+gutxi	{"ud.adv": 0.4, "ud.det": 0.6}
+gutxiago	{"ud.det": 1.0}
+gutxienez	{"ud.adv": 1.0}
+guzti	{"ud.det": 1.0}
+guztia	{"ud.det": 1.0}
+guztiak	{"ud.det": 1.0}
+guztiek	{"ud.det": 1.0}
+guztien	{"ud.det": 1.0}
+guztietara	{"ud.det": 1.0}
+guztiz	{"ud.adv": 1.0}
+haien	{"ud.det": 1.0}
+hain	{"ud.adv": 1.0}
+hainbat	{"ud.det": 1.0}
+hainbeste	{"ud.det": 1.0}
+haize	{"ud.noun": 1.0}
+hala	{"ud.adv": 1.0}
+halaber	{"ud.cconj": 1.0}
+halako	{"ud.adj": 1.0}
+halakorik	{"ud.adj": 1.0}
+hamaikakoan	{"ud.noun": 1.0}
+hamar	{"ud.num": 1.0}
+han	{"ud.adv": 1.0}
+handi	{"ud.adj": 1.0}
+handia	{"ud.adj": 1.0}
+handiagoa	{"ud.adj": 1.0}
+handien	{"ud.adj": 1.0}
+handik	{"ud.adv": 1.0}
+handiko	{"ud.adj": 1.0}
+handirik	{"ud.adj": 1.0}
+handitu	{"ud.verb": 1.0}
+handiz	{"ud.adj": 1.0}
+haren	{"ud.det": 1.0}
+harremanak	{"ud.noun": 1.0}
+hartan	{"ud.adv": 0.3333333333333333, "ud.det": 0.6666666666666666}
+hartu	{"ud.verb": 1.0}
+hartuko	{"ud.verb": 1.0}
+hartuta	{"ud.verb": 1.0}
+hartzeko	{"ud.verb": 1.0}
+hartzen	{"ud.verb": 1.0}
+hasi	{"ud.verb": 1.0}
+hasia	{"ud.verb": 1.0}
+hasiera	{"ud.noun": 1.0}
+hasieran	{"ud.noun": 1.0}
+hasieratik	{"ud.noun": 1.0}
+hasiko	{"ud.verb": 1.0}
+hasteko	{"ud.verb": 0.8, "ud.noun": 0.2}
+hau	{"ud.det": 1.0}
+hauei	{"ud.det": 1.0}
+hauek	{"ud.det": 1.0}
+hauen	{"ud.det": 1.0}
+hauetan	{"ud.det": 1.0}
+haurrak	{"ud.noun": 1.0}
+hautagai	{"ud.noun": 1.0}
+hautagaiak	{"ud.noun": 1.0}
+hauteskundeak	{"ud.noun": 1.0}
+hautsi	{"ud.verb": 1.0}
+hego	{"ud.noun": 0.9166666666666666, "ud.propn": 0.08333333333333333}
+helburu	{"ud.noun": 1.0}
+helburua	{"ud.noun": 1.0}
+heldu	{"ud.verb": 1.0}
+hemen	{"ud.adv": 1.0}
+herenegun	{"ud.adv": 1.0}
+herri	{"ud.noun": 1.0}
+herriak	{"ud.noun": 1.0}
+herrialde	{"ud.noun": 1.0}
+herrian	{"ud.noun": 1.0}
+herriaren	{"ud.noun": 1.0}
+herriko	{"ud.noun": 1.0}
+herritar	{"ud.noun": 1.0}
+herritarrek	{"ud.noun": 1.0}
+herritarren	{"ud.noun": 1.0}
+hil	{"ud.verb": 1.0}
+hilabete	{"ud.noun": 1.0}
+hilabeteetan	{"ud.noun": 1.0}
+hilaren	{"ud.noun": 1.0}
+hileta	{"ud.noun": 1.0}
+hiri	{"ud.noun": 1.0}
+hirian	{"ud.noun": 1.0}
+hiriburuan	{"ud.noun": 1.0}
+hiru	{"ud.num": 1.0}
+hirugarren	{"ud.num": 1.0}
+hirugarrena	{"ud.num": 1.0}
+historian	{"ud.noun": 1.0}
+hitzak	{"ud.noun": 1.0}
+hizkuntza	{"ud.noun": 1.0}
+hizpide	{"ud.noun": 1.0}
+hobe	{"ud.adj": 1.0}
+hobea	{"ud.adj": 1.0}
+hobeak	{"ud.adj": 1.0}
+hobeto	{"ud.adv": 1.0}
+honako	{"ud.adj": 1.0}
+hondamendia	{"ud.noun": 1.0}
+honek	{"ud.det": 1.0}
+honela	{"ud.adv": 1.0}
+honen	{"ud.det": 1.0}
+honetan	{"ud.det": 1.0}
+honi	{"ud.det": 1.0}
+hor	{"ud.adv": 1.0}
+hori	{"ud.det": 1.0}
+horiek	{"ud.det": 1.0}
+horien	{"ud.det": 1.0}
+horietako	{"ud.det": 1.0}
+horietan	{"ud.det": 1.0}
+horixe	{"ud.det": 1.0}
+horregatik	{"ud.adv": 0.8181818181818182, "ud.det": 0.18181818181818182}
+horrek	{"ud.det": 1.0}
+horrekin	{"ud.det": 1.0}
+horrela	{"ud.adv": 1.0}
+horrelako	{"ud.adj": 1.0}
+horren	{"ud.adv": 0.10526315789473684, "ud.det": 0.8947368421052632}
+horrenbestez	{"ud.cconj": 1.0}
+horretako	{"ud.det": 1.0}
+horretan	{"ud.det": 1.0}
+horretara	{"ud.det": 1.0}
+horretarako	{"ud.det": 1.0}
+horretatik	{"ud.det": 1.0}
+horri	{"ud.det": 1.0}
+hortaz	{"ud.cconj": 1.0}
+hots	{"ud.cconj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+hugo	{"ud.propn": 1.0}
+hura	{"ud.det": 1.0}
+hurbil	{"ud.verb": 0.3333333333333333, "ud.adv": 0.3333333333333333, "ud.adp": 0.3333333333333333}
+hurbildu	{"ud.verb": 1.0}
+hurrengo	{"ud.adj": 0.8888888888888888, "ud.adv": 0.1111111111111111}
+ia	{"ud.adv": 1.0}
+iaz	{"ud.adv": 1.0}
+ibarretxe	{"ud.propn": 1.0}
+ibilbide	{"ud.noun": 1.0}
+idatzi	{"ud.verb": 1.0}
+idazkari	{"ud.noun": 1.0}
+ideia	{"ud.noun": 1.0}
+igande	{"ud.noun": 1.0}
+igandean	{"ud.noun": 1.0}
+igandeko	{"ud.noun": 1.0}
+igo	{"ud.verb": 1.0}
+ihes	{"ud.noun": 1.0}
+ihesaldi	{"ud.noun": 1.0}
+ikertzen	{"ud.verb": 1.0}
+ikus	{"ud.verb": 1.0}
+ikusgarria	{"ud.adj": 1.0}
+ikusi	{"ud.verb": 1.0}
+ikusiko	{"ud.verb": 1.0}
+ikusita	{"ud.verb": 1.0}
+ikusten	{"ud.verb": 1.0}
+ildo	{"ud.noun": 1.0}
+ilusioa	{"ud.noun": 1.0}
+indar	{"ud.noun": 1.0}
+indarra	{"ud.noun": 1.0}
+indarrak	{"ud.noun": 1.0}
+indarrean	{"ud.adv": 1.0}
+indartsu	{"ud.adj": 1.0}
+indartsua	{"ud.adj": 1.0}
+indonesiako	{"ud.propn": 1.0}
+informazioa	{"ud.noun": 1.0}
+inguruan	{"ud.adp": 1.0}
+inguruko	{"ud.noun": 0.4, "ud.adp": 0.6}
+inoiz	{"ud.adv": 1.0}
+inolako	{"ud.adj": 1.0}
+inork	{"ud.pron": 1.0}
+ipar	{"ud.noun": 1.0}
+iparraldean	{"ud.noun": 1.0}
+irabazi	{"ud.verb": 0.9047619047619048, "ud.noun": 0.09523809523809523}
+irabaztea	{"ud.verb": 1.0}
+irabazteko	{"ud.verb": 1.0}
+iragan	{"ud.verb": 0.8333333333333334, "ud.noun": 0.16666666666666666}
+iragarri	{"ud.verb": 1.0}
+irailaren	{"ud.noun": 1.0}
+irailean	{"ud.noun": 1.0}
+irakurri	{"ud.verb": 1.0}
+iraun	{"ud.verb": 1.0}
+iristeko	{"ud.verb": 1.0}
+iritsi	{"ud.verb": 1.0}
+iritzia	{"ud.noun": 1.0}
+irlandako	{"ud.propn": 1.0}
+irteera	{"ud.noun": 1.0}
+irten	{"ud.verb": 1.0}
+irtenbide	{"ud.noun": 1.0}
+irudi	{"ud.noun": 1.0}
+iruditzen	{"ud.verb": 1.0}
+israelgo	{"ud.propn": 1.0}
+istripu	{"ud.noun": 1.0}
+italiako	{"ud.propn": 1.0}
+itsas	{"ud.noun": 1.0}
+itxura	{"ud.noun": 1.0}
+itzela	{"ud.adj": 1.0}
+itziar	{"ud.propn": 1.0}
+itzuli	{"ud.verb": 0.8333333333333334, "ud.noun": 0.16666666666666666}
+itzulia	{"ud.noun": 1.0}
+itzuliko	{"ud.verb": 1.0}
+izaera	{"ud.noun": 1.0}
+izan	{"ud.verb": 0.5291005291005291, "ud.aux": 0.4708994708994709}
+izana	{"ud.verb": 0.8, "ud.aux": 0.2}
+izandako	{"ud.verb": 1.0}
+izanen	{"ud.verb": 0.8333333333333334, "ud.aux": 0.16666666666666666}
+izango	{"ud.aux": 0.4605263157894737, "ud.verb": 0.5394736842105263}
+izatea	{"ud.verb": 0.4166666666666667, "ud.aux": 0.5833333333333334}
+izateak	{"ud.aux": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+izateko	{"ud.verb": 0.7, "ud.aux": 0.3}
+izaten	{"ud.verb": 0.7857142857142857, "ud.aux": 0.21428571428571427}
+izatera	{"ud.verb": 0.25, "ud.aux": 0.75}
+izena	{"ud.noun": 1.0}
+izendatu	{"ud.verb": 1.0}
+izeneko	{"ud.noun": 1.0}
+izugarri	{"ud.adj": 0.5, "ud.adv": 0.5}
+izugarrizko	{"ud.adj": 1.0}
+iñaki	{"ud.propn": 1.0}
+iñigo	{"ud.propn": 1.0}
+jada	{"ud.adv": 1.0}
+jadanik	{"ud.adv": 1.0}
+jaiki	{"ud.verb": 1.0}
+jaio	{"ud.verb": 1.0}
+jakin	{"ud.verb": 0.8, "ud.adj": 0.2}
+jakinarazi	{"ud.verb": 1.0}
+jardun	{"ud.verb": 1.0}
+jardunaldiko	{"ud.noun": 1.0}
+jarraian	{"ud.adv": 1.0}
+jarraitu	{"ud.verb": 1.0}
+jarraitzen	{"ud.verb": 1.0}
+jarrera	{"ud.noun": 1.0}
+jarri	{"ud.verb": 1.0}
+jarriz	{"ud.verb": 1.0}
+jartzea	{"ud.verb": 1.0}
+jasan	{"ud.verb": 1.0}
+jaso	{"ud.verb": 1.0}
+jasoko	{"ud.verb": 1.0}
+jasotzen	{"ud.verb": 1.0}
+jaurlaritzak	{"ud.noun": 1.0}
+javier	{"ud.propn": 1.0}
+jean	{"ud.propn": 1.0}
+jendea	{"ud.noun": 1.0}
+jo	{"ud.verb": 0.9473684210526315, "ud.propn": 0.05263157894736842}
+joan	{"ud.verb": 1.0}
+joanen	{"ud.verb": 1.0}
+joango	{"ud.verb": 1.0}
+joaten	{"ud.verb": 1.0}
+joera	{"ud.noun": 1.0}
+jokalari	{"ud.noun": 1.0}
+jokalaria	{"ud.noun": 1.0}
+jokalariak	{"ud.noun": 0.8, "ud.adj": 0.2}
+jokalariek	{"ud.noun": 0.875, "ud.adj": 0.125}
+jokatu	{"ud.verb": 1.0}
+jokatuko	{"ud.verb": 1.0}
+jokatutako	{"ud.verb": 1.0}
+jokatzeko	{"ud.verb": 1.0}
+jokatzen	{"ud.verb": 1.0}
+jokatzera	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+joko	{"ud.verb": 0.25, "ud.noun": 0.75}
+jokoa	{"ud.noun": 1.0}
+jokoak	{"ud.noun": 1.0}
+jokoan	{"ud.noun": 1.0}
+jokoetan	{"ud.noun": 1.0}
+joku	{"ud.noun": 1.0}
+jolasten	{"ud.verb": 1.0}
+jontxu	{"ud.propn": 1.0}
+jose	{"ud.propn": 1.0}
+joseba	{"ud.propn": 1.0}
+jotzen	{"ud.verb": 1.0}
+juan	{"ud.propn": 1.0}
+jugoslaviako	{"ud.propn": 1.0}
+kanpo	{"ud.adp": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+kanpoan	{"ud.noun": 1.0}
+kanpora	{"ud.noun": 0.5, "ud.adp": 0.5}
+kasu	{"ud.noun": 1.0}
+kendu	{"ud.verb": 1.0}
+kezka	{"ud.noun": 1.0}
+kezkatzen	{"ud.verb": 1.0}
+kide	{"ud.noun": 1.0}
+kideek	{"ud.noun": 1.0}
+kilometro	{"ud.noun": 1.0}
+kirol	{"ud.noun": 1.0}
+kontra	{"ud.adp": 0.8888888888888888, "ud.adv": 0.1111111111111111}
+kontrako	{"ud.adp": 1.0}
+kontrakoa	{"ud.noun": 0.75, "ud.adv": 0.25}
+kontuan	{"ud.noun": 1.0}
+kontzertu	{"ud.noun": 1.0}
+kopa	{"ud.noun": 1.0}
+kopuru	{"ud.noun": 1.0}
+kopurua	{"ud.noun": 1.0}
+koreako	{"ud.propn": 1.0}
+korritzeko	{"ud.verb": 1.0}
+kostunicak	{"ud.propn": 1.0}
+kultura	{"ud.noun": 1.0}
+la	{"ud.propn": 0.3333333333333333, "ud.noun": 0.3333333333333333, "ud.x": 0.3333333333333333}
+lagun	{"ud.noun": 1.0}
+laguntza	{"ud.noun": 1.0}
+lan	{"ud.noun": 1.0}
+lana	{"ud.noun": 1.0}
+lanak	{"ud.noun": 1.0}
+landarea	{"ud.noun": 1.0}
+lanean	{"ud.noun": 1.0}
+lanerako	{"ud.noun": 1.0}
+larunbatean	{"ud.noun": 1.0}
+lasai	{"ud.adj": 0.25, "ud.adv": 0.75}
+laster	{"ud.adv": 1.0}
+lasterketa	{"ud.noun": 1.0}
+latz	{"ud.adj": 1.0}
+latza	{"ud.adj": 1.0}
+lau	{"ud.num": 1.0}
+laugarren	{"ud.num": 1.0}
+lege	{"ud.noun": 1.0}
+legea	{"ud.noun": 1.0}
+legeak	{"ud.noun": 1.0}
+legebiltzarrean	{"ud.noun": 1.0}
+lehen	{"ud.adv": 0.11666666666666667, "ud.num": 0.8833333333333333}
+lehena	{"ud.num": 1.0}
+lehenago	{"ud.adv": 1.0}
+lehendakari	{"ud.noun": 1.0}
+lehendakariak	{"ud.noun": 1.0}
+lehendakariaren	{"ud.noun": 1.0}
+lehenengo	{"ud.num": 0.8666666666666667, "ud.adv": 0.13333333333333333}
+lehenik	{"ud.adv": 1.0}
+lehia	{"ud.noun": 1.0}
+lehian	{"ud.noun": 1.0}
+lehiatuko	{"ud.verb": 1.0}
+leku	{"ud.noun": 1.0}
+lekuan	{"ud.noun": 0.5, "ud.adp": 0.5}
+lekukoa	{"ud.noun": 1.0}
+leporatu	{"ud.verb": 1.0}
+libre	{"ud.adv": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+lider	{"ud.noun": 1.0}
+liga	{"ud.noun": 1.0}
+ligako	{"ud.noun": 1.0}
+ligan	{"ud.noun": 1.0}
+liteke	{"ud.aux": 1.0}
+litzateke	{"ud.aux": 1.0}
+lortu	{"ud.verb": 1.0}
+lortutako	{"ud.verb": 1.0}
+lortzea	{"ud.verb": 1.0}
+lortzeko	{"ud.verb": 1.0}
+lortzen	{"ud.verb": 1.0}
+lotinak	{"ud.propn": 1.0}
+lotura	{"ud.noun": 1.0}
+luis	{"ud.propn": 1.0}
+luke	{"ud.aux": 0.5, "ud.verb": 0.5}
+lur	{"ud.noun": 1.0}
+luzatu	{"ud.verb": 1.0}
+luze	{"ud.adj": 0.5, "ud.adv": 0.5}
+madrilek	{"ud.propn": 1.0}
+madrilen	{"ud.propn": 1.0}
+madrilgo	{"ud.propn": 1.0}
+maila	{"ud.noun": 1.0}
+mailako	{"ud.noun": 1.0}
+mailan	{"ud.noun": 1.0}
+maiz	{"ud.adv": 1.0}
+mari	{"ud.noun": 0.25, "ud.propn": 0.75}
+marka	{"ud.noun": 1.0}
+martin	{"ud.propn": 1.0}
+materia	{"ud.noun": 1.0}
+mendean	{"ud.noun": 0.6, "ud.adv": 0.4}
+mendiko	{"ud.noun": 1.0}
+metro	{"ud.noun": 1.0}
+metroetako	{"ud.noun": 1.0}
+metroetan	{"ud.noun": 1.0}
+mezua	{"ud.noun": 1.0}
+miarritzek	{"ud.propn": 1.0}
+miarritzen	{"ud.propn": 1.0}
+mikel	{"ud.propn": 1.0}
+milaka	{"ud.det": 0.8571428571428571, "ud.adv": 0.14285714285714285}
+milioi	{"ud.noun": 1.0}
+militar	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+milosevic	{"ud.propn": 1.0}
+min	{"ud.noun": 1.0}
+ministro	{"ud.noun": 1.0}
+ministroa	{"ud.noun": 1.0}
+ministroak	{"ud.noun": 1.0}
+mintzatu	{"ud.verb": 1.0}
+minutu	{"ud.noun": 1.0}
+minutuetan	{"ud.noun": 1.0}
+minutuko	{"ud.noun": 1.0}
+modua	{"ud.noun": 1.0}
+moduan	{"ud.noun": 1.0}
+mota	{"ud.noun": 1.0}
+mugitzen	{"ud.verb": 1.0}
+mundu	{"ud.noun": 1.0}
+munduko	{"ud.noun": 1.0}
+murrizketa	{"ud.noun": 1.0}
+musika	{"ud.noun": 1.0}
+nabarmendu	{"ud.verb": 1.0}
+nafarroako	{"ud.propn": 1.0}
+nago	{"ud.aux": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+nagusi	{"ud.noun": 0.2857142857142857, "ud.adj": 0.7142857142857143}
+nagusia	{"ud.adj": 1.0}
+nagusiak	{"ud.adj": 1.0}
+nagusitu	{"ud.verb": 1.0}
+nahi	{"ud.noun": 0.975, "ud.verb": 0.025}
+nahikoa	{"ud.adv": 0.6666666666666666, "ud.det": 0.3333333333333333}
+nahiz	{"ud.cconj": 1.0}
+naiz	{"ud.aux": 0.9230769230769231, "ud.verb": 0.07692307692307693}
+nau	{"ud.aux": 1.0}
+nazio	{"ud.noun": 1.0}
+nazioarteko	{"ud.adj": 0.875, "ud.noun": 0.125}
+nazionalaren	{"ud.adj": 1.0}
+nazionaleko	{"ud.adj": 1.0}
+nbeko	{"ud.propn": 1.0}
+negoziazio	{"ud.noun": 1.0}
+nekatuta	{"ud.verb": 1.0}
+neurri	{"ud.noun": 1.0}
+ni	{"ud.pron": 1.0}
+nicolas	{"ud.propn": 1.0}
+nik	{"ud.pron": 1.0}
+nintzen	{"ud.aux": 1.0}
+nion	{"ud.aux": 1.0}
+nire	{"ud.pron": 1.0}
+niri	{"ud.pron": 1.0}
+noiz	{"ud.adv": 1.0}
+nola	{"ud.adv": 1.0}
+norbait	{"ud.pron": 1.0}
+nork	{"ud.pron": 1.0}
+nuen	{"ud.aux": 0.9090909090909091, "ud.verb": 0.09090909090909091}
+nuke	{"ud.verb": 0.25, "ud.aux": 0.75}
+ohartarazi	{"ud.verb": 1.0}
+ohiak	{"ud.adj": 1.0}
+oinarritu	{"ud.verb": 1.0}
+okertu	{"ud.verb": 1.0}
+olanok	{"ud.propn": 1.0}
+olinpiar	{"ud.noun": 0.2222222222222222, "ud.adj": 0.7777777777777778}
+ona	{"ud.adj": 1.0}
+onak	{"ud.adj": 1.0}
+onartu	{"ud.verb": 1.0}
+onartzea	{"ud.verb": 1.0}
+ondo	{"ud.adv": 1.0}
+ondoren	{"ud.adv": 0.9583333333333334, "ud.adp": 0.041666666666666664}
+ondorengo	{"ud.adj": 0.6666666666666666, "ud.adp": 0.3333333333333333}
+ondorio	{"ud.noun": 1.0}
+ondorioz	{"ud.noun": 1.0}
+ondotik	{"ud.adp": 0.75, "ud.adv": 0.25}
+onena	{"ud.adj": 1.0}
+ongi	{"ud.adv": 1.0}
+oposizioak	{"ud.noun": 1.0}
+orain	{"ud.adv": 1.0}
+oraindik	{"ud.adv": 1.0}
+oraingo	{"ud.adv": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+oraingoan	{"ud.adv": 1.0}
+ordea	{"ud.cconj": 1.0}
+ordez	{"ud.adv": 0.25, "ud.adp": 0.75}
+ordezkariak	{"ud.noun": 1.0}
+ordezkaritza	{"ud.noun": 1.0}
+orduan	{"ud.adv": 0.42857142857142855, "ud.noun": 0.21428571428571427, "ud.cconj": 0.35714285714285715}
+orduko	{"ud.noun": 0.5, "ud.adj": 0.3333333333333333, "ud.adv": 0.16666666666666666}
+ordurako	{"ud.adv": 0.75, "ud.noun": 0.25}
+orokorra	{"ud.adj": 1.0}
+osasunak	{"ud.propn": 1.0}
+osasunaren	{"ud.propn": 1.0}
+osatu	{"ud.verb": 1.0}
+osatzeko	{"ud.verb": 1.0}
+oso	{"ud.adv": 1.0}
+osoa	{"ud.adj": 1.0}
+osoan	{"ud.adj": 1.0}
+ostean	{"ud.noun": 0.7727272727272727, "ud.adv": 0.09090909090909091, "ud.adp": 0.13636363636363635}
+ostiralean	{"ud.noun": 1.0}
+pablo	{"ud.propn": 1.0}
+pairatu	{"ud.verb": 1.0}
+palestinarren	{"ud.noun": 1.0}
+parte-hartzea	{"ud.noun": 1.0}
+partida	{"ud.noun": 1.0}
+partidu	{"ud.noun": 1.0}
+partidua	{"ud.noun": 1.0}
+partiduak	{"ud.noun": 1.0}
+partiduan	{"ud.noun": 1.0}
+partiduetan	{"ud.noun": 1.0}
+pasa	{"ud.verb": 1.0}
+pasatu	{"ud.verb": 1.0}
+patxi	{"ud.propn": 1.0}
+pedro	{"ud.propn": 1.0}
+pentsa	{"ud.verb": 1.0}
+pentsatzen	{"ud.verb": 1.0}
+pertsona	{"ud.noun": 1.0}
+pezeta	{"ud.noun": 1.0}
+pisu	{"ud.noun": 1.0}
+pittin	{"ud.noun": 1.0}
+plazan	{"ud.noun": 1.0}
+polita	{"ud.adj": 1.0}
+politika	{"ud.noun": 1.0}
+politiko	{"ud.adj": 1.0}
+politikoa	{"ud.adj": 1.0}
+politikoak	{"ud.adj": 1.0}
+polizia	{"ud.noun": 1.0}
+postuan	{"ud.noun": 1.0}
+pozik	{"ud.adv": 1.0}
+presidente	{"ud.noun": 1.0}
+presidentea	{"ud.noun": 1.0}
+presidenteak	{"ud.noun": 1.0}
+presidentearen	{"ud.noun": 1.0}
+presio	{"ud.noun": 1.0}
+presioa	{"ud.noun": 1.0}
+preso	{"ud.noun": 0.8888888888888888, "ud.adv": 0.1111111111111111}
+presoak	{"ud.noun": 1.0}
+prest	{"ud.adv": 1.0}
+prestatu	{"ud.verb": 1.0}
+prestatzeko	{"ud.verb": 1.0}
+proba	{"ud.noun": 1.0}
+profesionaletan	{"ud.noun": 1.0}
+programa	{"ud.noun": 1.0}
+proiektu	{"ud.noun": 1.0}
+proiektua	{"ud.noun": 1.0}
+proposatu	{"ud.verb": 1.0}
+prozesu	{"ud.noun": 1.0}
+prozesua	{"ud.noun": 1.0}
+puntu	{"ud.noun": 1.0}
+puntuak	{"ud.noun": 1.0}
+querol	{"ud.propn": 1.0}
+real	{"ud.propn": 1.0}
+realak	{"ud.propn": 1.0}
+rojok	{"ud.propn": 1.0}
+rojoren	{"ud.propn": 1.0}
+ruiz	{"ud.propn": 1.0}
+saiatu	{"ud.verb": 1.0}
+saiatuko	{"ud.verb": 1.0}
+sailkapeneko	{"ud.noun": 1.0}
+sailkatu	{"ud.verb": 1.0}
+sailkatuta	{"ud.verb": 1.0}
+saio	{"ud.noun": 1.0}
+saioa	{"ud.noun": 1.0}
+saioan	{"ud.noun": 1.0}
+salatu	{"ud.verb": 1.0}
+san	{"ud.noun": 0.8666666666666667, "ud.propn": 0.06666666666666667, "ud.adj": 0.06666666666666667}
+sari	{"ud.noun": 1.0}
+saria	{"ud.noun": 1.0}
+sarritan	{"ud.adv": 1.0}
+sartu	{"ud.verb": 1.0}
+sartzea	{"ud.verb": 1.0}
+sartzen	{"ud.verb": 1.0}
+sasoi	{"ud.noun": 1.0}
+segundo	{"ud.noun": 1.0}
+segundoko	{"ud.noun": 1.0}
+segundora	{"ud.noun": 1.0}
+segurtasun	{"ud.noun": 1.0}
+sei	{"ud.num": 1.0}
+sekula	{"ud.adv": 1.0}
+seme	{"ud.noun": 1.0}
+sendo	{"ud.adj": 1.0}
+sentitu	{"ud.verb": 1.0}
+sentitzen	{"ud.verb": 1.0}
+serbiako	{"ud.propn": 1.0}
+sindikatuak	{"ud.noun": 1.0}
+sindikatuko	{"ud.noun": 1.0}
+sistema	{"ud.noun": 1.0}
+soberan	{"ud.adj": 1.0}
+soilik	{"ud.adv": 1.0}
+soldadu	{"ud.noun": 1.0}
+sor	{"ud.verb": 1.0}
+sortu	{"ud.verb": 1.0}
+sortutako	{"ud.verb": 1.0}
+sortzea	{"ud.verb": 1.0}
+sortzen	{"ud.verb": 1.0}
+suetena	{"ud.noun": 1.0}
+sydneyn	{"ud.propn": 1.0}
+talde	{"ud.noun": 1.0}
+taldea	{"ud.noun": 1.0}
+taldeak	{"ud.noun": 1.0}
+taldean	{"ud.noun": 1.0}
+taldearekin	{"ud.noun": 1.0}
+taldearen	{"ud.noun": 1.0}
+taldekako	{"ud.adv": 1.0}
+taldeko	{"ud.noun": 1.0}
+tartea	{"ud.noun": 1.0}
+titular	{"ud.noun": 1.0}
+toki	{"ud.noun": 1.0}
+tokitan	{"ud.noun": 1.0}
+tresna	{"ud.noun": 1.0}
+txandan	{"ud.noun": 1.0}
+txapelketa	{"ud.noun": 1.0}
+txapelketako	{"ud.noun": 1.0}
+txartela	{"ud.noun": 1.0}
+txetxeniako	{"ud.propn": 1.0}
+txiki	{"ud.adj": 1.0}
+txileko	{"ud.propn": 1.0}
+txirrindulari	{"ud.noun": 1.0}
+txosten	{"ud.noun": 1.0}
+uefako	{"ud.propn": 1.0}
+ugari	{"ud.det": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+uko	{"ud.noun": 1.0}
+ulertzeko	{"ud.verb": 1.0}
+une	{"ud.noun": 1.0}
+ur	{"ud.noun": 0.8, "ud.propn": 0.2}
+urrezko	{"ud.noun": 0.4, "ud.adj": 0.6}
+urte	{"ud.noun": 1.0}
+urtea	{"ud.noun": 1.0}
+urtean	{"ud.noun": 1.0}
+urteetan	{"ud.noun": 1.0}
+urteko	{"ud.noun": 1.0}
+urteotan	{"ud.noun": 1.0}
+urterako	{"ud.noun": 1.0}
+urterekin	{"ud.noun": 1.0}
+urtetan	{"ud.noun": 1.0}
+urtez	{"ud.noun": 1.0}
+uste	{"ud.noun": 1.0}
+ustez	{"ud.noun": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+utzi	{"ud.verb": 1.0}
+utzita	{"ud.verb": 1.0}
+uzteko	{"ud.verb": 1.0}
+uzten	{"ud.verb": 1.0}
+xedea	{"ud.noun": 1.0}
+xehetasun	{"ud.noun": 1.0}
+zabaldu	{"ud.verb": 1.0}
+zaie	{"ud.aux": 1.0}
+zaila	{"ud.adj": 1.0}
+zain	{"ud.adv": 0.2, "ud.adp": 0.8}
+zaio	{"ud.aux": 0.875, "ud.verb": 0.125}
+zait	{"ud.verb": 0.14285714285714285, "ud.aux": 0.8571428571428571}
+zaitu	{"ud.aux": 1.0}
+zaizkion	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+zalantza	{"ud.noun": 1.0}
+zaleei	{"ud.adj": 1.0}
+zapuztu	{"ud.verb": 1.0}
+zara	{"ud.aux": 1.0}
+zarata	{"ud.noun": 1.0}
+zati	{"ud.noun": 1.0}
+zatian	{"ud.noun": 1.0}
+zauritu	{"ud.verb": 1.0}
+zeberio	{"ud.propn": 1.0}
+zegoela	{"ud.verb": 1.0}
+zegoen	{"ud.verb": 0.6, "ud.aux": 0.4}
+zehar	{"ud.adp": 1.0}
+zeharo	{"ud.adv": 1.0}
+zein	{"ud.cconj": 0.5, "ud.det": 0.5}
+zela	{"ud.verb": 0.14285714285714285, "ud.aux": 0.8571428571428571}
+zelairatu	{"ud.verb": 1.0}
+zelako	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+zelarik	{"ud.aux": 1.0}
+zen	{"ud.aux": 0.967032967032967, "ud.verb": 0.03296703296703297}
+zenbait	{"ud.det": 1.0}
+zenean	{"ud.aux": 1.0}
+zer	{"ud.det": 1.0}
+zera	{"ud.noun": 1.0}
+zerbait	{"ud.pron": 1.0}
+zeuden	{"ud.verb": 0.6153846153846154, "ud.aux": 0.38461538461538464}
+zeukan	{"ud.verb": 1.0}
+zidan	{"ud.aux": 1.0}
+zien	{"ud.aux": 1.0}
+zigor	{"ud.noun": 1.0}
+zigun	{"ud.aux": 1.0}
+zinegotziek	{"ud.noun": 1.0}
+zioen	{"ud.verb": 1.0}
+zion	{"ud.aux": 1.0}
+zioten	{"ud.aux": 0.9285714285714286, "ud.verb": 0.07142857142857142}
+zirela	{"ud.aux": 0.9, "ud.verb": 0.1}
+ziren	{"ud.aux": 0.9333333333333333, "ud.verb": 0.06666666666666667}
+zirkuituan	{"ud.noun": 1.0}
+zitekeen	{"ud.aux": 1.0}
+zituela	{"ud.aux": 0.8, "ud.verb": 0.2}
+zituen	{"ud.aux": 0.9555555555555556, "ud.verb": 0.044444444444444446}
+zituztela	{"ud.aux": 0.6, "ud.verb": 0.4}
+zituzten	{"ud.aux": 0.9523809523809523, "ud.verb": 0.047619047619047616}
+zitzaidan	{"ud.aux": 1.0}
+zitzaion	{"ud.verb": 0.1, "ud.aux": 0.9}
+ziur	{"ud.adj": 1.0}
+ziurtatu	{"ud.verb": 1.0}
+zizkion	{"ud.verb": 0.3333333333333333, "ud.aux": 0.6666666666666666}
+zortzi	{"ud.num": 1.0}
+zu	{"ud.pron": 1.0}
+zuela	{"ud.verb": 0.45454545454545453, "ud.aux": 0.5454545454545454}
+zuelako	{"ud.aux": 1.0}
+zuen	{"ud.aux": 0.9288702928870293, "ud.verb": 0.06276150627615062, "ud.pron": 0.008368200836820083}
+zuenean	{"ud.aux": 1.0}
+zuenez	{"ud.aux": 1.0}
+zumaia	{"ud.propn": 1.0}
+zure	{"ud.pron": 1.0}
+zutela	{"ud.aux": 1.0}
+zuten	{"ud.aux": 0.9259259259259259, "ud.verb": 0.07407407407407407}
+zuzen	{"ud.adj": 1.0}
+zuzentzen	{"ud.verb": 1.0}
+«	{"ud.punct": 1.0}
+»	{"ud.punct": 1.0}

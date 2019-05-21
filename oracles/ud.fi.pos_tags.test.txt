@@ -1,0 +1,1108 @@
+!	{"ud.punct": 1.0}
+"	{"ud.punct": 1.0}
+%	{"ud.sym": 1.0}
+(	{"ud.punct": 1.0}
+)	{"ud.punct": 1.0}
+*	{"ud.punct": 1.0}
++	{"ud.sym": 1.0}
+,	{"ud.punct": 1.0}
+-	{"ud.punct": 1.0}
+.	{"ud.punct": 1.0}
+...	{"ud.punct": 1.0}
+/	{"ud.punct": 1.0}
+1	{"ud.num": 1.0}
+1.	{"ud.adj": 1.0}
+10	{"ud.num": 1.0}
+11	{"ud.num": 1.0}
+13	{"ud.num": 1.0}
+14	{"ud.num": 1.0}
+15	{"ud.num": 1.0}
+15.00	{"ud.num": 1.0}
+19	{"ud.num": 1.0}
+1995	{"ud.num": 1.0}
+1997	{"ud.num": 1.0}
+1998	{"ud.num": 1.0}
+1–0	{"ud.num": 1.0}
+2	{"ud.num": 1.0}
+2.	{"ud.adj": 1.0}
+20	{"ud.num": 1.0}
+2001	{"ud.num": 1.0}
+2002	{"ud.num": 1.0}
+2005	{"ud.num": 1.0}
+2006	{"ud.num": 1.0}
+2007	{"ud.num": 1.0}
+2008	{"ud.num": 1.0}
+2009	{"ud.num": 1.0}
+2011	{"ud.num": 1.0}
+2131/93	{"ud.num": 1.0}
+22	{"ud.num": 1.0}
+26	{"ud.num": 1.0}
+27	{"ud.num": 1.0}
+28	{"ud.num": 1.0}
+29	{"ud.num": 1.0}
+3	{"ud.num": 1.0}
+3.	{"ud.adj": 1.0}
+31	{"ud.num": 1.0}
+3:n	{"ud.num": 1.0}
+4	{"ud.num": 1.0}
+4.	{"ud.adj": 1.0}
+400	{"ud.num": 1.0}
+5	{"ud.num": 1.0}
+5.	{"ud.adj": 1.0}
+6	{"ud.num": 1.0}
+7	{"ud.num": 1.0}
+70	{"ud.num": 1.0}
+8	{"ud.num": 1.0}
+9	{"ud.num": 1.0}
+91/628/ety	{"ud.num": 1.0}
+:	{"ud.punct": 1.0}
+;	{"ud.punct": 1.0}
+=	{"ud.sym": 1.0}
+?	{"ud.punct": 1.0}
+a	{"ud.noun": 0.8, "ud.x": 0.2}
+a.	{"ud.propn": 0.9166666666666666, "ud.noun": 0.08333333333333333}
+aamu	{"ud.noun": 1.0}
+aasia	{"ud.propn": 1.0}
+aasian	{"ud.propn": 1.0}
+aasiassa	{"ud.propn": 1.0}
+agricolan	{"ud.propn": 1.0}
+aiemmin	{"ud.adv": 1.0}
+aiempaa	{"ud.adj": 1.0}
+aiheellista	{"ud.adj": 1.0}
+aihetta	{"ud.noun": 1.0}
+aiheuttaa	{"ud.verb": 1.0}
+aika	{"ud.adv": 0.75, "ud.noun": 0.25}
+aikaa	{"ud.noun": 1.0}
+aikaan	{"ud.adv": 0.25, "ud.noun": 0.75}
+aikaisemmin	{"ud.adv": 1.0}
+aikana	{"ud.noun": 1.0}
+aikuinen	{"ud.noun": 1.0}
+aina	{"ud.adv": 1.0}
+ainakin	{"ud.adv": 1.0}
+ainoastaan	{"ud.adv": 1.0}
+aion	{"ud.aux": 1.0}
+ajan	{"ud.noun": 1.0}
+ajattelin	{"ud.verb": 1.0}
+al-zaidi	{"ud.propn": 1.0}
+alalla	{"ud.noun": 1.0}
+algeriassa	{"ud.propn": 1.0}
+alkaa	{"ud.verb": 1.0}
+alkaen	{"ud.adp": 1.0}
+alkanut	{"ud.verb": 1.0}
+alkoi	{"ud.verb": 1.0}
+alla	{"ud.adp": 1.0}
+alle	{"ud.adp": 0.42857142857142855, "ud.adv": 0.5714285714285714}
+alueella	{"ud.noun": 1.0}
+alueen	{"ud.noun": 1.0}
+alueiden	{"ud.noun": 1.0}
+alussa	{"ud.noun": 1.0}
+ampumahiihtäjä	{"ud.noun": 1.0}
+annetaan	{"ud.verb": 1.0}
+annettiin	{"ud.verb": 1.0}
+annettu	{"ud.verb": 1.0}
+annetun	{"ud.verb": 1.0}
+annetussa	{"ud.verb": 1.0}
+ansiosta	{"ud.noun": 1.0}
+antaa	{"ud.verb": 1.0}
+antamaan	{"ud.verb": 1.0}
+antanut	{"ud.verb": 1.0}
+antoi	{"ud.verb": 1.0}
+arsenalin	{"ud.propn": 1.0}
+artikla	{"ud.noun": 1.0}
+artiklan	{"ud.noun": 1.0}
+arvoisa	{"ud.adj": 1.0}
+as	{"ud.propn": 1.0}
+asetuksen	{"ud.noun": 1.0}
+asetuksessa	{"ud.noun": 1.0}
+asetus	{"ud.noun": 1.0}
+asetusta	{"ud.noun": 1.0}
+asia	{"ud.noun": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+asiaa	{"ud.noun": 1.0}
+asiaan	{"ud.noun": 1.0}
+asian	{"ud.noun": 1.0}
+asianmukaista	{"ud.adj": 1.0}
+asianomaisille	{"ud.adj": 1.0}
+asiassa	{"ud.noun": 1.0}
+asiasta	{"ud.noun": 1.0}
+asioita	{"ud.noun": 1.0}
+asti	{"ud.adp": 1.0}
+asuu	{"ud.verb": 1.0}
+auki	{"ud.adv": 1.0}
+auringon	{"ud.noun": 1.0}
+avaa	{"ud.verb": 1.0}
+avaan	{"ud.verb": 1.0}
+avautumisvaihe	{"ud.noun": 1.0}
+avoimilla	{"ud.adj": 1.0}
+avulla	{"ud.noun": 1.0}
+b	{"ud.noun": 1.0}
+balille	{"ud.propn": 1.0}
+biotekniikan	{"ud.noun": 1.0}
+bourg	{"ud.propn": 1.0}
+brysselin	{"ud.propn": 1.0}
+bussi	{"ud.noun": 1.0}
+bédard	{"ud.propn": 1.0}
+carter	{"ud.propn": 1.0}
+carterin	{"ud.propn": 1.0}
+ce-merkintä	{"ud.noun": 1.0}
+ce-merkintää	{"ud.noun": 1.0}
+direktiivin	{"ud.noun": 1.0}
+e	{"ud.noun": 1.0}
+edelleen	{"ud.adv": 1.0}
+edellä	{"ud.adv": 0.8333333333333334, "ud.adp": 0.16666666666666666}
+edes	{"ud.adv": 1.0}
+edessä	{"ud.adv": 0.75, "ud.adp": 0.25}
+edun	{"ud.noun": 1.0}
+edustaja	{"ud.noun": 1.0}
+ehdotuksia	{"ud.noun": 1.0}
+ehkä	{"ud.adv": 1.0}
+ei	{"ud.aux": 0.9615384615384616, "ud.verb": 0.03205128205128205, "ud.adv": 0.00641025641025641}
+eikä	{"ud.aux": 1.0}
+eikö	{"ud.verb": 0.5, "ud.aux": 0.5}
+eivät	{"ud.aux": 1.0}
+eli	{"ud.cconj": 1.0}
+elokuva	{"ud.noun": 1.0}
+eläimiä	{"ud.noun": 1.0}
+eläinkuljettajien	{"ud.noun": 1.0}
+eläinten	{"ud.noun": 1.0}
+elävien	{"ud.adj": 1.0}
+elää	{"ud.verb": 1.0}
+emmä	{"ud._": 1.0}
+en	{"ud.aux": 0.9354838709677419, "ud.noun": 0.03225806451612903, "ud.verb": 0.03225806451612903}
+enemmän	{"ud.adv": 1.0}
+enkä	{"ud.aux": 1.0}
+ennen	{"ud.adv": 0.1111111111111111, "ud.adp": 0.8888888888888888}
+ensimmäinen	{"ud.adj": 0.8333333333333334, "ud.noun": 0.16666666666666666}
+ensimmäisen	{"ud.adj": 1.0}
+ensin	{"ud.adv": 1.0}
+entistä	{"ud.adj": 1.0}
+enää	{"ud.adv": 1.0}
+eri	{"ud.adj": 1.0}
+erilaisia	{"ud.adj": 1.0}
+erittäin	{"ud.adv": 1.0}
+erityisesti	{"ud.adv": 1.0}
+eräs	{"ud.pron": 1.0}
+esiin	{"ud.adv": 1.0}
+esille	{"ud.adv": 1.0}
+esim.	{"ud.adv": 1.0}
+esimerkiksi	{"ud.adv": 1.0}
+esitti	{"ud.verb": 1.0}
+esivaalien	{"ud.noun": 1.0}
+et	{"ud.aux": 0.23809523809523808, "ud.sconj": 0.7619047619047619}
+ettei	{"ud._": 1.0}
+että	{"ud.cconj": 0.027932960893854747, "ud.sconj": 0.9720670391061452}
+ety	{"ud.noun": 1.0}
+eu:n	{"ud.propn": 1.0}
+euroopan	{"ud.propn": 1.0}
+euroopassa	{"ud.propn": 1.0}
+eurooppalainen	{"ud.adj": 1.0}
+evira	{"ud.propn": 1.0}
+eviran	{"ud.propn": 1.0}
+ey	{"ud.propn": 1.0}
+hallituksen	{"ud.noun": 1.0}
+hallitus	{"ud.noun": 1.0}
+hallussa	{"ud.adv": 1.0}
+halpa	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+halua	{"ud.verb": 0.8, "ud.noun": 0.2}
+haluaa	{"ud.verb": 1.0}
+haluaisin	{"ud.verb": 1.0}
+haluan	{"ud.verb": 1.0}
+halusi	{"ud.verb": 1.0}
+harvemmin	{"ud.adv": 1.0}
+harvoin	{"ud.adv": 1.0}
+havaitaan	{"ud.verb": 1.0}
+he	{"ud.pron": 1.0}
+heidän	{"ud.pron": 1.0}
+heikki	{"ud.propn": 1.0}
+heillä	{"ud.pron": 1.0}
+helposti	{"ud.adv": 1.0}
+helppoa	{"ud.adj": 1.0}
+helsingin	{"ud.propn": 1.0}
+herkkyys	{"ud.noun": 1.0}
+heti	{"ud.adv": 1.0}
+hetkeksi	{"ud.noun": 1.0}
+hieman	{"ud.adv": 1.0}
+hinta	{"ud.noun": 1.0}
+historian	{"ud.noun": 1.0}
+hk	{"ud.noun": 1.0}
+hoitamaan	{"ud.verb": 1.0}
+huolehtia	{"ud.verb": 1.0}
+huolimatta	{"ud.adp": 1.0}
+huomattavasti	{"ud.adv": 1.0}
+huomioon	{"ud.noun": 1.0}
+huonommin	{"ud.adv": 1.0}
+hyvin	{"ud.adv": 1.0}
+hyvinvoinnin	{"ud.noun": 1.0}
+hyvinvoinnista	{"ud.noun": 1.0}
+hyvinvointia	{"ud.noun": 1.0}
+hyvinvointiin	{"ud.noun": 1.0}
+hyviä	{"ud.adj": 1.0}
+hyvä	{"ud.adj": 1.0}
+hyväksi	{"ud.adj": 1.0}
+hyvät	{"ud.adj": 1.0}
+hyvää	{"ud.adj": 1.0}
+häkkinen	{"ud.propn": 1.0}
+häkkisen	{"ud.propn": 1.0}
+hän	{"ud.pron": 1.0}
+hänelle	{"ud.pron": 1.0}
+hänellä	{"ud.pron": 1.0}
+hänen	{"ud.pron": 1.0}
+hänestä	{"ud.pron": 1.0}
+hänet	{"ud.pron": 1.0}
+häntä	{"ud.pron": 1.0}
+i	{"ud.propn": 0.25, "ud.adj": 0.75}
+ihan	{"ud.adv": 1.0}
+ihmisen	{"ud.noun": 1.0}
+ihmiset	{"ud.noun": 1.0}
+ihmisiä	{"ud.noun": 1.0}
+ii	{"ud.adj": 1.0}
+ikinä	{"ud.adv": 1.0}
+ikäluokassa	{"ud.noun": 1.0}
+illan	{"ud.noun": 1.0}
+ilman	{"ud.adv": 0.25, "ud.adp": 0.75}
+ilmari	{"ud.propn": 1.0}
+ilmoitti	{"ud.verb": 1.0}
+indonesian	{"ud.propn": 0.75, "ud.noun": 0.25}
+interventioelimen	{"ud.noun": 1.0}
+irti	{"ud.adv": 1.0}
+island	{"ud.propn": 1.0}
+istui	{"ud.verb": 1.0}
+istun	{"ud.verb": 1.0}
+isä	{"ud.noun": 1.0}
+itse	{"ud.adv": 0.8125, "ud.pron": 0.1875}
+itseni	{"ud.pron": 1.0}
+itsestään	{"ud.adv": 0.6666666666666666, "ud.pron": 0.3333333333333333}
+ja	{"ud.cconj": 0.9969604863221885, "ud.adv": 0.00303951367781155}
+jakaa	{"ud.verb": 1.0}
+jalkanen	{"ud.propn": 1.0}
+jalkapallon	{"ud.noun": 1.0}
+jan	{"ud.propn": 1.0}
+jatkaa	{"ud.verb": 1.0}
+jatkuu	{"ud.verb": 1.0}
+jo	{"ud.adv": 1.0}
+johtaa	{"ud.verb": 1.0}
+johtuvat	{"ud.verb": 1.0}
+joiden	{"ud.pron": 1.0}
+joihin	{"ud.pron": 1.0}
+joilla	{"ud.pron": 1.0}
+joissa	{"ud.pron": 1.0}
+joista	{"ud.pron": 1.0}
+joita	{"ud.pron": 1.0}
+joka	{"ud.pron": 1.0}
+jokinen	{"ud.propn": 1.0}
+jokisen	{"ud.propn": 1.0}
+joko	{"ud.cconj": 1.0}
+joku	{"ud.pron": 1.0}
+jolla	{"ud.pron": 1.0}
+jolloin	{"ud.adv": 1.0}
+jonka	{"ud.pron": 1.0}
+jonkin	{"ud.pron": 1.0}
+jonkun	{"ud.pron": 1.0}
+jopa	{"ud.adv": 1.0}
+jos	{"ud.sconj": 0.9787234042553191, "ud.cconj": 0.02127659574468085}
+joskus	{"ud.adv": 1.0}
+jossa	{"ud.pron": 1.0}
+jossain	{"ud.pron": 0.8, "ud.adv": 0.2}
+jossakin	{"ud.pron": 1.0}
+jota	{"ud.pron": 1.0}
+jotain	{"ud.pron": 0.7142857142857143, "ud.adv": 0.2857142857142857}
+jotakin	{"ud.pron": 1.0}
+joten	{"ud.adv": 1.0}
+jotka	{"ud.pron": 1.0}
+jotku	{"ud.pron": 1.0}
+jotta	{"ud.sconj": 1.0}
+joukkueessa	{"ud.noun": 1.0}
+joulukuuta	{"ud.noun": 1.0}
+joutui	{"ud.aux": 0.42857142857142855, "ud.verb": 0.5714285714285714}
+julkaistiin	{"ud.verb": 1.0}
+julkaistu	{"ud.verb": 1.0}
+julkaisu	{"ud.noun": 1.0}
+juuri	{"ud.adv": 1.0}
+jälkeen	{"ud.adp": 0.9615384615384616, "ud.adv": 0.038461538461538464}
+jälleen	{"ud.adv": 1.0}
+järjestettiin	{"ud.verb": 1.0}
+jäsen	{"ud.noun": 1.0}
+jäsenet	{"ud.noun": 1.0}
+jäsenvaltioiden	{"ud.noun": 1.0}
+jäsenvaltioissa	{"ud.noun": 1.0}
+jäsenvaltiot	{"ud.noun": 1.0}
+jättämisen	{"ud.noun": 1.0}
+jättää	{"ud.verb": 1.0}
+jää	{"ud.verb": 1.0}
+kahden	{"ud.num": 1.0}
+kahteen	{"ud.num": 1.0}
+kahvi	{"ud.noun": 1.0}
+kai	{"ud.adv": 1.0}
+kaiken	{"ud.pron": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+kaikille	{"ud.pron": 1.0}
+kaikissa	{"ud.pron": 1.0}
+kaikki	{"ud.pron": 1.0}
+kaikkia	{"ud.pron": 1.0}
+kaisa	{"ud.propn": 1.0}
+kaksi	{"ud.num": 1.0}
+kannalta	{"ud.noun": 1.0}
+kans	{"ud.adp": 0.5714285714285714, "ud.adv": 0.42857142857142855}
+kansainvälisten	{"ud.adj": 1.0}
+kanssa	{"ud.adp": 1.0}
+kantasolujen	{"ud.noun": 1.0}
+karri	{"ud.propn": 1.0}
+karrin	{"ud.propn": 1.0}
+katsoi	{"ud.verb": 1.0}
+katsoo	{"ud.verb": 1.0}
+katsotaan	{"ud.verb": 1.0}
+kauan	{"ud.adv": 1.0}
+kaupungin	{"ud.noun": 1.0}
+kaupunki	{"ud.noun": 1.0}
+kautta	{"ud.adp": 1.0}
+kello	{"ud.noun": 1.0}
+kerran	{"ud.adv": 1.0}
+kerrotaan	{"ud.verb": 1.0}
+kertaa	{"ud.noun": 1.0}
+kertoi	{"ud.verb": 1.0}
+kertoo	{"ud.verb": 1.0}
+kesäkuuta	{"ud.noun": 1.0}
+kielen	{"ud.noun": 1.0}
+kiinan	{"ud.propn": 1.0}
+kiinni	{"ud.adv": 1.0}
+kiinnostus	{"ud.noun": 1.0}
+kilometriä	{"ud.noun": 1.0}
+kirja	{"ud.noun": 1.0}
+kirjakauppa	{"ud.noun": 1.0}
+kirjan	{"ud.noun": 1.0}
+kirjoittaa	{"ud.verb": 1.0}
+km	{"ud.noun": 1.0}
+kohdalla	{"ud.noun": 1.0}
+kohdan	{"ud.noun": 1.0}
+kohdun	{"ud.noun": 1.0}
+kohtaan	{"ud.adp": 1.0}
+kohti	{"ud.adp": 1.0}
+koko	{"ud.adj": 1.0}
+kokonaisen	{"ud.adj": 1.0}
+kolmannen	{"ud.adj": 1.0}
+kolmas	{"ud.adj": 1.0}
+kolme	{"ud.num": 1.0}
+kolmen	{"ud.num": 1.0}
+komissio	{"ud.noun": 1.0}
+komissiolle	{"ud.noun": 1.0}
+komission	{"ud.noun": 1.0}
+koneista	{"ud.noun": 1.0}
+konekorttelin	{"ud.noun": 1.0}
+koska	{"ud.sconj": 0.8823529411764706, "ud.adv": 0.11764705882352941}
+koskaan	{"ud.adv": 1.0}
+koskeva	{"ud.verb": 1.0}
+koskevan	{"ud.verb": 1.0}
+koskevat	{"ud.verb": 1.0}
+koskevia	{"ud.verb": 1.0}
+koskevien	{"ud.verb": 1.0}
+koskevista	{"ud.verb": 1.0}
+koski	{"ud.verb": 1.0}
+koulutuksen	{"ud.noun": 1.0}
+koulutus	{"ud.noun": 1.0}
+kousa	{"ud.propn": 1.0}
+kovaa	{"ud.adj": 1.0}
+krobs	{"ud.propn": 1.0}
+ku	{"ud.sconj": 0.9166666666666666, "ud.adv": 0.08333333333333333}
+kuin	{"ud.cconj": 0.11320754716981132, "ud.sconj": 0.8867924528301887}
+kuinka	{"ud.adv": 1.0}
+kuitenkaan	{"ud.adv": 1.0}
+kuitenkin	{"ud.adv": 1.0}
+kukaan	{"ud.pron": 1.0}
+kuljetetaan	{"ud.verb": 1.0}
+kuljetuksen	{"ud.noun": 1.0}
+kuljetukset	{"ud.noun": 1.0}
+kuljetuksiin	{"ud.noun": 1.0}
+kuljetusta	{"ud.noun": 1.0}
+kuljetusten	{"ud.noun": 1.0}
+kulttuurin	{"ud.noun": 1.0}
+kuluttua	{"ud.verb": 1.0}
+kun	{"ud.sconj": 0.9375, "ud.adv": 0.0625}
+kuten	{"ud.adv": 0.7142857142857143, "ud.sconj": 0.2857142857142857}
+kutsutaan	{"ud.verb": 1.0}
+kuukauden	{"ud.noun": 1.0}
+kuukautta	{"ud.noun": 1.0}
+kuulla	{"ud.verb": 1.0}
+kuulu	{"ud.verb": 1.0}
+kuulua	{"ud.verb": 1.0}
+kuului	{"ud.verb": 1.0}
+kuuluu	{"ud.verb": 1.0}
+kuva	{"ud.noun": 1.0}
+kuvauksen	{"ud.noun": 1.0}
+kyllä	{"ud.adv": 1.0}
+kyse	{"ud.noun": 1.0}
+kysymyksiä	{"ud.noun": 1.0}
+kysymys	{"ud.noun": 1.0}
+kärsiä	{"ud.verb": 1.0}
+käsitellään	{"ud.verb": 1.0}
+käydä	{"ud.verb": 1.0}
+käyn	{"ud.verb": 1.0}
+käyttää	{"ud.verb": 1.0}
+käyttö	{"ud.noun": 1.0}
+käyttöön	{"ud.noun": 1.0}
+käytännöllisesti	{"ud.adv": 1.0}
+käytännön	{"ud.noun": 1.0}
+käytännössä	{"ud.noun": 1.0}
+käytön	{"ud.noun": 1.0}
+käänsi	{"ud.verb": 1.0}
+kääntyi	{"ud.verb": 1.0}
+laadusta	{"ud.noun": 1.0}
+lainsäädännön	{"ud.noun": 1.0}
+lainsäädäntöä	{"ud.noun": 1.0}
+lainsäätäjä	{"ud.noun": 1.0}
+laittaa	{"ud.verb": 1.0}
+lapin	{"ud.propn": 1.0}
+lapsi	{"ud.noun": 1.0}
+lapsia	{"ud.noun": 1.0}
+laski	{"ud.verb": 1.0}
+lausunnon	{"ud.noun": 1.0}
+lelujen	{"ud.noun": 1.0}
+lelut	{"ud.noun": 1.0}
+liian	{"ud.adv": 1.0}
+liiton	{"ud.noun": 1.0}
+liitteessä	{"ud.noun": 1.0}
+liittyviä	{"ud.verb": 1.0}
+liittyvät	{"ud.verb": 1.0}
+liittyy	{"ud.verb": 1.0}
+lisäksi	{"ud.adp": 0.5, "ud.adv": 0.5}
+lisännyt	{"ud.verb": 1.0}
+lokakuuta	{"ud.noun": 1.0}
+lopettaa	{"ud.verb": 1.0}
+loppuu	{"ud.verb": 1.0}
+loppuun	{"ud.noun": 1.0}
+lopulta	{"ud.adv": 1.0}
+los	{"ud.propn": 1.0}
+luonteenpiirteet	{"ud.noun": 1.0}
+lupaa	{"ud.noun": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+luultavasti	{"ud.adv": 1.0}
+luvut	{"ud.noun": 1.0}
+lähden	{"ud.verb": 1.0}
+lähes	{"ud.adv": 1.0}
+lähtee	{"ud.verb": 1.0}
+lähti	{"ud.verb": 1.0}
+lähtien	{"ud.adp": 1.0}
+lämmin	{"ud.adj": 1.0}
+läpi	{"ud.adv": 0.75, "ud.adp": 0.25}
+löytäminen	{"ud.noun": 1.0}
+maailman	{"ud.noun": 1.0}
+maaliskuuta	{"ud.noun": 1.0}
+maan	{"ud.noun": 1.0}
+maasta	{"ud.noun": 1.0}
+mahdollista	{"ud.adj": 1.0}
+mahdollisuuden	{"ud.noun": 1.0}
+mahdollisuuksia	{"ud.noun": 1.0}
+mahdollisuus	{"ud.noun": 1.0}
+mainetta	{"ud.noun": 1.0}
+mainonnassa	{"ud.noun": 1.0}
+maks	{"ud.propn": 1.0}
+mammografiaseulonnan	{"ud.noun": 1.0}
+markkinoille	{"ud.noun": 1.0}
+marraskuuta	{"ud.noun": 1.0}
+me	{"ud.pron": 1.0}
+meidän	{"ud.pron": 1.0}
+meillä	{"ud.pron": 1.0}
+melkein	{"ud.adv": 1.0}
+melko	{"ud.adv": 1.0}
+menee	{"ud.verb": 1.0}
+menettely	{"ud.noun": 1.0}
+menettelyn	{"ud.noun": 1.0}
+mennessä	{"ud.adp": 1.0}
+mennä	{"ud.verb": 1.0}
+metrin	{"ud.noun": 1.0}
+meänteis	{"ud.propn": 1.0}
+miehen	{"ud.noun": 1.0}
+mielestä	{"ud.noun": 1.0}
+mielestäni	{"ud.noun": 1.0}
+mies	{"ud.noun": 1.0}
+miestä	{"ud.noun": 1.0}
+mikael	{"ud.propn": 1.0}
+miksi	{"ud.adv": 1.0}
+mikä	{"ud.pron": 1.0}
+minkä	{"ud.pron": 1.0}
+minua	{"ud.pron": 1.0}
+minulla	{"ud.pron": 1.0}
+minulle	{"ud.pron": 1.0}
+minulta	{"ud.pron": 1.0}
+minun	{"ud.pron": 1.0}
+minut	{"ud.pron": 1.0}
+minuutilla	{"ud.noun": 1.0}
+minä	{"ud.pron": 1.0}
+missä	{"ud.pron": 1.0}
+mistä	{"ud.pron": 1.0}
+miten	{"ud.adv": 1.0}
+mitä	{"ud.pron": 0.8181818181818182, "ud.cconj": 0.12121212121212122, "ud.adv": 0.06060606060606061}
+mitään	{"ud.pron": 1.0}
+mm.	{"ud.adv": 1.0}
+monesti	{"ud.adv": 1.0}
+monet	{"ud.pron": 1.0}
+monta	{"ud.pron": 1.0}
+mua	{"ud.pron": 1.0}
+muassa	{"ud.adv": 1.0}
+muiden	{"ud.pron": 0.8571428571428571, "ud.adv": 0.14285714285714285}
+muistuttaa	{"ud.verb": 1.0}
+muita	{"ud.pron": 1.0}
+mukaan	{"ud.adv": 0.13157894736842105, "ud.adp": 0.868421052631579}
+mukaisesti	{"ud.adv": 1.0}
+mukaista	{"ud.adj": 1.0}
+mukana	{"ud.adp": 0.875, "ud.adv": 0.125}
+mukanani	{"ud.adv": 1.0}
+mun	{"ud.pron": 1.0}
+muntadar	{"ud.propn": 1.0}
+musta	{"ud.adj": 0.6, "ud.pron": 0.4}
+mut	{"ud.cconj": 0.8260869565217391, "ud.pron": 0.17391304347826086}
+mutta	{"ud.cconj": 0.9857142857142858, "ud.adv": 0.014285714285714285}
+muun	{"ud.adv": 1.0}
+muut	{"ud.pron": 1.0}
+muuta	{"ud.pron": 1.0}
+muuten	{"ud.adv": 1.0}
+muutettava	{"ud.verb": 1.0}
+muutoksia	{"ud.noun": 1.0}
+muuttaa	{"ud.verb": 1.0}
+muuttamisesta	{"ud.noun": 1.0}
+myöhemmin	{"ud.adv": 1.0}
+myös	{"ud.adv": 1.0}
+mä	{"ud.pron": 1.0}
+määritellä	{"ud.verb": 1.0}
+määrä	{"ud.noun": 1.0}
+määräaika	{"ud.noun": 1.0}
+määräyksiä	{"ud.noun": 1.0}
+määrää	{"ud.noun": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+n:o	{"ud.noun": 1.0}
+nainen	{"ud.noun": 1.0}
+naisen	{"ud.noun": 1.0}
+naisena	{"ud.noun": 1.0}
+naiset	{"ud.noun": 1.0}
+naisilla	{"ud.noun": 1.0}
+naisille	{"ud.noun": 1.0}
+naisista	{"ud.noun": 1.0}
+naista	{"ud.noun": 1.0}
+naisten	{"ud.noun": 1.0}
+ne	{"ud.pron": 1.0}
+neste	{"ud.propn": 1.0}
+neuvosto	{"ud.noun": 1.0}
+neuvoston	{"ud.noun": 1.0}
+new	{"ud.propn": 1.0}
+nigerian	{"ud.propn": 1.0}
+nii	{"ud.sconj": 0.5, "ud.adv": 0.5}
+niiden	{"ud.pron": 1.0}
+niille	{"ud.pron": 1.0}
+niillä	{"ud.pron": 1.0}
+niin	{"ud.adv": 0.9615384615384616, "ud.cconj": 0.038461538461538464}
+niinku	{"ud.adv": 0.8, "ud.cconj": 0.2}
+niissä	{"ud.pron": 1.0}
+niistä	{"ud.pron": 1.0}
+niitä	{"ud.pron": 1.0}
+nimensä	{"ud.noun": 1.0}
+nimi	{"ud.noun": 1.0}
+nimittäin	{"ud.adv": 1.0}
+nižni	{"ud.propn": 1.0}
+no	{"ud.intj": 0.3333333333333333, "ud.adv": 0.6666666666666666}
+nobelin	{"ud.propn": 1.0}
+noin	{"ud.adv": 1.0}
+nojaan	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+nopeasti	{"ud.adv": 1.0}
+noudattaminen	{"ud.noun": 1.0}
+nousiainen	{"ud.propn": 1.0}
+nuori	{"ud.adj": 1.0}
+nykyisin	{"ud.adv": 1.0}
+nykyään	{"ud.adv": 1.0}
+nyt	{"ud.adv": 1.0}
+näiden	{"ud.pron": 1.0}
+näin	{"ud.adv": 0.9444444444444444, "ud.verb": 0.05555555555555555}
+näistä	{"ud.pron": 1.0}
+näitä	{"ud.pron": 1.0}
+näkyy	{"ud.verb": 1.0}
+nämä	{"ud.pron": 1.0}
+näytetään	{"ud.verb": 1.0}
+näyttää	{"ud.verb": 1.0}
+näyttöä	{"ud.noun": 1.0}
+näytä	{"ud.verb": 1.0}
+nään	{"ud.verb": 1.0}
+obama	{"ud.propn": 1.0}
+oikean	{"ud.adj": 1.0}
+oikeastaan	{"ud.adv": 1.0}
+oikeasti	{"ud.adv": 1.0}
+oikein	{"ud.adv": 1.0}
+oikeuden	{"ud.noun": 1.0}
+oilin	{"ud.propn": 1.0}
+ole	{"ud.aux": 0.9148936170212766, "ud.verb": 0.0851063829787234}
+olemaan	{"ud.aux": 1.0}
+olemme	{"ud.aux": 1.0}
+olen	{"ud.aux": 1.0}
+olet	{"ud.aux": 1.0}
+oleva	{"ud.verb": 1.0}
+olevaa	{"ud.verb": 1.0}
+olevan	{"ud.aux": 0.391304347826087, "ud.verb": 0.6086956521739131}
+olevat	{"ud.verb": 0.8571428571428571, "ud.noun": 0.14285714285714285}
+olevia	{"ud.verb": 1.0}
+oli	{"ud.aux": 0.9772727272727273, "ud.verb": 0.022727272727272728}
+olisi	{"ud.aux": 0.9574468085106383, "ud.verb": 0.0425531914893617}
+olisin	{"ud.aux": 1.0}
+olivat	{"ud.aux": 1.0}
+olkaa	{"ud.aux": 1.0}
+olla	{"ud.aux": 0.9655172413793104, "ud.verb": 0.034482758620689655}
+ollaan	{"ud.aux": 1.0}
+ollen	{"ud.adv": 0.8, "ud.aux": 0.2}
+ollessa	{"ud.aux": 1.0}
+ollut	{"ud.verb": 0.07142857142857142, "ud.aux": 0.9285714285714286}
+oltu	{"ud.aux": 1.0}
+oma	{"ud.adj": 1.0}
+omalta	{"ud.adj": 1.0}
+oman	{"ud.adj": 1.0}
+omat	{"ud.adj": 1.0}
+omien	{"ud.adj": 1.0}
+omin	{"ud.adj": 0.75, "ud.adv": 0.25}
+on	{"ud.aux": 0.9780876494023905, "ud.verb": 0.021912350597609563}
+ongelma	{"ud.noun": 1.0}
+ongelmat	{"ud.noun": 1.0}
+ongelmia	{"ud.noun": 1.0}
+onkin	{"ud.aux": 1.0}
+onko	{"ud.aux": 0.75, "ud.verb": 0.25}
+onneksi	{"ud.adv": 1.0}
+onnistui	{"ud.verb": 1.0}
+oo	{"ud.aux": 1.0}
+oon	{"ud.aux": 1.0}
+oppiaineen	{"ud.noun": 1.0}
+osa	{"ud.noun": 1.0}
+osaa	{"ud.noun": 0.25, "ud.verb": 0.75}
+osallistunut	{"ud.verb": 1.0}
+osalta	{"ud.noun": 1.0}
+osapuolen	{"ud.noun": 1.0}
+osat	{"ud.noun": 1.0}
+osin	{"ud.noun": 1.0}
+ostaa	{"ud.verb": 1.0}
+osuus	{"ud.noun": 1.0}
+ota	{"ud.verb": 1.0}
+otetaan	{"ud.verb": 1.0}
+ottaa	{"ud.verb": 1.0}
+ovat	{"ud.aux": 1.0}
+oy	{"ud.noun": 1.0}
+paikkaan	{"ud.noun": 1.0}
+painaa	{"ud.verb": 1.0}
+paitsi	{"ud.adp": 0.2, "ud.adv": 0.8}
+palaa	{"ud.verb": 1.0}
+paljo	{"ud.adv": 1.0}
+paljon	{"ud.adv": 1.0}
+palmuöljyn	{"ud.noun": 1.0}
+parantaa	{"ud.verb": 1.0}
+paras	{"ud.adj": 1.0}
+paremmin	{"ud.adv": 1.0}
+parempaa	{"ud.adj": 1.0}
+parempi	{"ud.adj": 1.0}
+parlamentin	{"ud.noun": 1.0}
+pekka	{"ud.propn": 1.0}
+pelaaja	{"ud.noun": 1.0}
+pelaajan	{"ud.noun": 1.0}
+pelin	{"ud.noun": 1.0}
+pelissä	{"ud.noun": 1.0}
+peliä	{"ud.noun": 1.0}
+pelätään	{"ud.verb": 1.0}
+perustamissopimuksen	{"ud.noun": 1.0}
+perusteella	{"ud.noun": 1.0}
+perustettiin	{"ud.verb": 1.0}
+peräisin	{"ud.adv": 1.0}
+pidettävä	{"ud.verb": 1.0}
+pienempi	{"ud.adj": 1.0}
+pieni	{"ud.adj": 1.0}
+piikarbidin	{"ud.noun": 1.0}
+piirrettä	{"ud.noun": 1.0}
+pirkko	{"ud.propn": 1.0}
+piti	{"ud.verb": 0.6, "ud.aux": 0.4}
+pitkiä	{"ud.adj": 1.0}
+pitkäaikaistyöttömyyttä	{"ud.noun": 1.0}
+pitkään	{"ud.adj": 0.3333333333333333, "ud.adv": 0.6666666666666666}
+pitäisi	{"ud.aux": 1.0}
+pitää	{"ud.verb": 0.7777777777777778, "ud.aux": 0.2222222222222222}
+poika	{"ud.noun": 1.0}
+pois	{"ud.adv": 1.0}
+pojan	{"ud.noun": 1.0}
+polkumyynnin	{"ud.noun": 1.0}
+presidentti	{"ud.noun": 1.0}
+professori	{"ud.noun": 1.0}
+prosenttia	{"ud.noun": 1.0}
+puhdas	{"ud.adj": 1.0}
+puheenjohtaja	{"ud.noun": 1.0}
+puhemies	{"ud.noun": 1.0}
+puhu	{"ud.verb": 1.0}
+puolelle	{"ud.noun": 1.0}
+puolesta	{"ud.adp": 0.9, "ud.noun": 0.1}
+putin	{"ud.propn": 1.0}
+pysty	{"ud.verb": 1.0}
+päivän	{"ud.noun": 1.0}
+päivänä	{"ud.noun": 1.0}
+pärjää	{"ud.verb": 1.0}
+pää	{"ud.noun": 1.0}
+päälle	{"ud.adp": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+päällä	{"ud.adp": 0.3333333333333333, "ud.adv": 0.6666666666666666}
+pään	{"ud.noun": 1.0}
+pääsi	{"ud.verb": 1.0}
+päässäni	{"ud.noun": 1.0}
+päästä	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+päätettävä	{"ud.verb": 1.0}
+päätti	{"ud.verb": 1.0}
+päättyy	{"ud.verb": 1.0}
+päättäminen	{"ud.noun": 1.0}
+päätäni	{"ud.noun": 1.0}
+päätös	{"ud.noun": 1.0}
+pöytäkirjaan	{"ud.noun": 1.0}
+rakkautta	{"ud.noun": 1.0}
+raskaana	{"ud.adv": 1.0}
+riittävä	{"ud.adj": 1.0}
+rinnan	{"ud.noun": 1.0}
+rintasyövän	{"ud.noun": 1.0}
+riski	{"ud.noun": 1.0}
+roma	{"ud.propn": 1.0}
+romaniasta	{"ud.propn": 1.0}
+ruokaa	{"ud.noun": 1.0}
+räisänen	{"ud.propn": 1.0}
+s.	{"ud.verb": 1.0}
+saa	{"ud.verb": 1.0}
+saada	{"ud.verb": 1.0}
+saanut	{"ud.verb": 1.0}
+saaret	{"ud.noun": 1.0}
+saariselän	{"ud.propn": 1.0}
+saaristo	{"ud.noun": 1.0}
+saattaa	{"ud.aux": 0.8, "ud.verb": 0.2}
+saattavat	{"ud.aux": 1.0}
+saattoi	{"ud.aux": 1.0}
+sai	{"ud.verb": 1.0}
+sama	{"ud.pron": 1.0}
+samaan	{"ud.pron": 1.0}
+samalla	{"ud.adv": 1.0}
+sanoa	{"ud.verb": 1.0}
+sanoi	{"ud.verb": 1.0}
+sanoin	{"ud.verb": 1.0}
+sanoma	{"ud.propn": 1.0}
+sanonut	{"ud.verb": 1.0}
+sanoo	{"ud.verb": 1.0}
+sanotaan	{"ud.verb": 1.0}
+schengenin	{"ud.propn": 1.0}
+se	{"ud.pron": 1.0}
+sekaan	{"ud.adp": 0.3333333333333333, "ud.adv": 0.6666666666666666}
+seksi	{"ud.noun": 1.0}
+seksillä	{"ud.noun": 1.0}
+seksin	{"ud.noun": 1.0}
+seksiä	{"ud.noun": 1.0}
+sekä	{"ud.cconj": 1.0}
+selkeästi	{"ud.adv": 1.0}
+sellanen	{"ud.adj": 1.0}
+sen	{"ud.pron": 1.0}
+sensitiivisyys	{"ud.noun": 1.0}
+seulonnan	{"ud.noun": 1.0}
+seulonta	{"ud.noun": 1.0}
+seuraamusten	{"ud.noun": 1.0}
+seuraavaa	{"ud.noun": 0.2, "ud.adj": 0.8}
+seuraavaksi	{"ud.adj": 0.25, "ud.adv": 0.75}
+seuraavana	{"ud.noun": 0.5, "ud.adj": 0.5}
+seuran	{"ud.noun": 1.0}
+sherrie	{"ud.propn": 1.0}
+siellä	{"ud.adv": 1.0}
+sieltä	{"ud.adv": 1.0}
+siihen	{"ud.pron": 1.0}
+siinä	{"ud.adv": 0.0625, "ud.pron": 0.9375}
+siis	{"ud.adv": 1.0}
+siitä	{"ud.pron": 1.0}
+sijaitsee	{"ud.verb": 1.0}
+sikiön	{"ud.noun": 1.0}
+siks	{"ud.adv": 1.0}
+siksi	{"ud.adv": 0.8888888888888888, "ud.pron": 0.1111111111111111}
+sille	{"ud.pron": 1.0}
+silloin	{"ud.adv": 1.0}
+sillä	{"ud.sconj": 0.6666666666666666, "ud.pron": 0.3333333333333333}
+silmäni	{"ud.noun": 1.0}
+silmänsä	{"ud.noun": 1.0}
+silti	{"ud.adv": 1.0}
+sim	{"ud.noun": 1.0}
+simeille	{"ud.noun": 1.0}
+simien	{"ud.noun": 0.75, "ud.propn": 0.25}
+simin	{"ud.noun": 0.9230769230769231, "ud.propn": 0.07692307692307693}
+simit	{"ud.propn": 0.1111111111111111, "ud.noun": 0.8888888888888888}
+sims	{"ud.propn": 1.0}
+sinuun	{"ud.pron": 1.0}
+sinä	{"ud.pron": 1.0}
+sirpa	{"ud.propn": 1.0}
+sis	{"ud.propn": 1.0}
+sisällä	{"ud.adp": 0.8333333333333334, "ud.adv": 0.16666666666666666}
+sisältyy	{"ud.verb": 1.0}
+sisään	{"ud.adv": 0.6666666666666666, "ud.adp": 0.3333333333333333}
+sit	{"ud.adv": 1.0}
+siten	{"ud.adv": 1.0}
+sittemmin	{"ud.adv": 1.0}
+sitten	{"ud.adv": 0.8846153846153846, "ud.adp": 0.11538461538461539}
+sitä	{"ud.pron": 0.7916666666666666, "ud.adv": 0.125, "ud.cconj": 0.08333333333333333}
+slovakian	{"ud.propn": 1.0}
+sovelletaan	{"ud.verb": 1.0}
+sovellettava	{"ud.verb": 1.0}
+stilsu	{"ud.propn": 1.0}
+suhteen	{"ud.noun": 0.75, "ud.adp": 0.25}
+suljen	{"ud.verb": 1.0}
+suojelua	{"ud.noun": 1.0}
+suojelusta	{"ud.noun": 1.0}
+suomalainen	{"ud.adj": 0.8888888888888888, "ud.propn": 0.1111111111111111}
+suomalaisen	{"ud.adj": 1.0}
+suomalaiset	{"ud.noun": 1.0}
+suomen	{"ud.propn": 0.5416666666666666, "ud.noun": 0.4583333333333333}
+suomessa	{"ud.propn": 1.0}
+suomesta	{"ud.propn": 1.0}
+suomi	{"ud.propn": 0.75, "ud.noun": 0.25}
+suoraan	{"ud.adv": 1.0}
+suuntaan	{"ud.noun": 1.0}
+suurimmat	{"ud.adj": 1.0}
+suurimpia	{"ud.adj": 1.0}
+suurin	{"ud.adj": 1.0}
+suurta	{"ud.adj": 1.0}
+sweelinck	{"ud.propn": 1.0}
+sydämiä	{"ud.noun": 1.0}
+synnytys	{"ud.noun": 1.0}
+syntyi	{"ud.verb": 1.0}
+syy	{"ud.noun": 1.0}
+syyskuuta	{"ud.noun": 1.0}
+syöpien	{"ud.noun": 1.0}
+syöpää	{"ud.noun": 1.0}
+säädetään	{"ud.verb": 1.0}
+säännöksiä	{"ud.noun": 1.0}
+säännöt	{"ud.noun": 1.0}
+sääntöjä	{"ud.noun": 1.0}
+säätää	{"ud.verb": 1.0}
+t/vuosi	{"ud.noun": 1.0}
+taapero	{"ud.noun": 1.0}
+taas	{"ud.adv": 1.0}
+taata	{"ud.verb": 1.0}
+tahansa	{"ud.adv": 1.0}
+tai	{"ud.cconj": 0.9887640449438202, "ud.adv": 0.011235955056179775}
+takaa	{"ud.verb": 0.6666666666666666, "ud.adp": 0.3333333333333333}
+takaisin	{"ud.adv": 1.0}
+takana	{"ud.adv": 0.25, "ud.adp": 0.75}
+tapahtui	{"ud.verb": 1.0}
+tapahtunut	{"ud.verb": 1.0}
+tapahtuu	{"ud.verb": 1.0}
+tapauksessa	{"ud.noun": 1.0}
+tapauksissa	{"ud.noun": 1.0}
+tarjoaa	{"ud.verb": 1.0}
+tarjoukset	{"ud.noun": 1.0}
+tarjousten	{"ud.noun": 1.0}
+tarkastuksia	{"ud.noun": 1.0}
+tarkemmin	{"ud.adv": 1.0}
+tarkoitetaan	{"ud.verb": 1.0}
+tarkoitettujen	{"ud.verb": 1.0}
+tarkoittaa	{"ud.verb": 1.0}
+tarpeeksi	{"ud.adv": 1.0}
+tartte	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+tavoitteena	{"ud.noun": 1.0}
+tehdyn	{"ud.verb": 1.0}
+tehdä	{"ud.verb": 1.0}
+tehdään	{"ud.verb": 1.0}
+teho	{"ud.noun": 1.0}
+tehty	{"ud.verb": 1.0}
+tehtävä	{"ud.noun": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+teitä	{"ud.pron": 1.0}
+tekee	{"ud.verb": 1.0}
+tekemään	{"ud.verb": 1.0}
+teltsu	{"ud.propn": 1.0}
+tem:n	{"ud.propn": 1.0}
+teoriassa	{"ud.noun": 1.0}
+the	{"ud.propn": 1.0}
+tiedeakatemian	{"ud.noun": 1.0}
+tiedepäivä	{"ud.noun": 1.0}
+tiedä	{"ud.verb": 1.0}
+tiennyt	{"ud.verb": 1.0}
+tieteen	{"ud.noun": 1.0}
+tietenkin	{"ud.adv": 1.0}
+tietojen	{"ud.noun": 1.0}
+tiettyjä	{"ud.adj": 1.0}
+tietysti	{"ud.adv": 1.0}
+tietää	{"ud.verb": 1.0}
+tilan	{"ud.noun": 1.0}
+tilanne	{"ud.noun": 1.0}
+todella	{"ud.adv": 1.0}
+todeta	{"ud.verb": 1.0}
+todettiin	{"ud.verb": 1.0}
+todistaa	{"ud.verb": 1.0}
+toimenpiteet	{"ud.noun": 1.0}
+toimenpiteistä	{"ud.noun": 1.0}
+toimenpiteitä	{"ud.noun": 1.0}
+toimia	{"ud.noun": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+toimien	{"ud.noun": 1.0}
+toimii	{"ud.verb": 1.0}
+toimivaltaisten	{"ud.adj": 1.0}
+toinen	{"ud.pron": 0.6470588235294118, "ud.adj": 0.35294117647058826}
+toisen	{"ud.pron": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+toisin	{"ud.adv": 1.0}
+toisissa	{"ud.pron": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+toki	{"ud.adv": 1.0}
+torstaina	{"ud.noun": 1.0}
+tosi	{"ud.adv": 1.0}
+tukea	{"ud.noun": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+tule	{"ud.verb": 1.0}
+tulee	{"ud.verb": 1.0}
+tulevat	{"ud.verb": 1.0}
+tuli	{"ud.verb": 1.0}
+tulisi	{"ud.verb": 1.0}
+tulla	{"ud.verb": 1.0}
+tullut	{"ud.verb": 1.0}
+tuntevat	{"ud.verb": 1.0}
+tuntua	{"ud.verb": 1.0}
+tuntuu	{"ud.verb": 1.0}
+tuo	{"ud.pron": 0.5, "ud.verb": 0.5}
+tuontia	{"ud.noun": 1.0}
+tuosta	{"ud.pron": 1.0}
+tuotanto	{"ud.noun": 1.0}
+tuottaa	{"ud.verb": 1.0}
+tuotteen	{"ud.noun": 1.0}
+turha	{"ud.adj": 1.0}
+turku	{"ud.propn": 1.0}
+turun	{"ud.propn": 1.0}
+tutkimuksessa	{"ud.noun": 1.0}
+tutkimus	{"ud.noun": 1.0}
+tykkää	{"ud.verb": 1.0}
+tyttö	{"ud.noun": 1.0}
+työllistyvät	{"ud.verb": 1.0}
+työllistämistoimet	{"ud.noun": 1.0}
+työmarkkinoilla	{"ud.noun": 1.0}
+työtä	{"ud.noun": 1.0}
+työvoimakoulutusta	{"ud.noun": 1.0}
+työvoimapolitiikan	{"ud.noun": 1.0}
+tähän	{"ud.pron": 1.0}
+tällaisen	{"ud.adj": 1.0}
+tällaiset	{"ud.adj": 1.0}
+tällä	{"ud.pron": 1.0}
+tämä	{"ud.pron": 1.0}
+tämän	{"ud.pron": 1.0}
+tänään	{"ud.adv": 1.0}
+tärkeä	{"ud.adj": 1.0}
+tärkeää	{"ud.adj": 1.0}
+tässä	{"ud.pron": 1.0}
+tästä	{"ud.pron": 1.0}
+tätä	{"ud.pron": 1.0}
+täysin	{"ud.adv": 1.0}
+täytyy	{"ud.aux": 1.0}
+tääl	{"ud.adv": 1.0}
+täällä	{"ud.adv": 1.0}
+töissä	{"ud.noun": 1.0}
+ulkomaalaiset	{"ud.noun": 1.0}
+ulos	{"ud.adv": 1.0}
+unionin	{"ud.noun": 1.0}
+urheilukanava	{"ud.propn": 1.0}
+urheilukanavan	{"ud.propn": 1.0}
+usein	{"ud.adv": 1.0}
+useita	{"ud.pron": 0.2222222222222222, "ud.adj": 0.7777777777777778}
+uudelleen	{"ud.adv": 1.0}
+uuden	{"ud.adj": 1.0}
+uudestaan	{"ud.adv": 1.0}
+uusi	{"ud.adj": 1.0}
+uusia	{"ud.adj": 1.0}
+uusien	{"ud.adj": 1.0}
+vaan	{"ud.adv": 0.4074074074074074, "ud.cconj": 0.5925925925925926}
+vaatimuksista	{"ud.noun": 1.0}
+vaatimusten	{"ud.noun": 1.0}
+vaativat	{"ud.verb": 1.0}
+vahvistaa	{"ud.verb": 1.0}
+vahvistetaan	{"ud.verb": 1.0}
+vai	{"ud.cconj": 1.0}
+vaiheessa	{"ud.noun": 1.0}
+vaihtaa	{"ud.verb": 1.0}
+vaihtoehtoja	{"ud.noun": 1.0}
+vaikea	{"ud.adj": 1.0}
+vaikeaa	{"ud.adj": 1.0}
+vaikka	{"ud.sconj": 0.8076923076923077, "ud.adv": 0.19230769230769232}
+vaikkapa	{"ud.adv": 1.0}
+vaikuttaa	{"ud.verb": 1.0}
+vain	{"ud.adv": 1.0}
+vaivatonta	{"ud.adj": 1.0}
+valita	{"ud.verb": 1.0}
+valituksen	{"ud.noun": 1.0}
+valko-venäjä	{"ud.propn": 1.0}
+valmis	{"ud.adj": 1.0}
+valmistaja	{"ud.noun": 1.0}
+valtioneuvoston	{"ud.noun": 1.0}
+vanha	{"ud.adj": 1.0}
+vanhan	{"ud.adj": 1.0}
+vapaasti	{"ud.adv": 1.0}
+varmaa	{"ud.adv": 0.2, "ud.adj": 0.8}
+varmaan	{"ud.adv": 1.0}
+varmasti	{"ud.adv": 1.0}
+varmistaa	{"ud.verb": 1.0}
+varmistetaan	{"ud.verb": 1.0}
+varmistettava	{"ud.verb": 1.0}
+varsinkin	{"ud.adv": 1.0}
+varten	{"ud.adp": 1.0}
+vasta	{"ud.adv": 1.0}
+vastaan	{"ud.adp": 1.0}
+vastaavasti	{"ud.adv": 1.0}
+vastaisen	{"ud.adj": 1.0}
+vastuu	{"ud.noun": 1.0}
+vastuulla	{"ud.noun": 1.0}
+vauva	{"ud.noun": 1.0}
+veden	{"ud.noun": 1.0}
+veistä	{"ud.noun": 1.0}
+veitsi	{"ud.noun": 1.0}
+venäjän	{"ud.propn": 1.0}
+verran	{"ud.adv": 1.0}
+verrattuna	{"ud.verb": 1.0}
+vielä	{"ud.adv": 1.0}
+viikon	{"ud.noun": 1.0}
+viime	{"ud.adj": 1.0}
+viimeinen	{"ud.adj": 1.0}
+viisi	{"ud.num": 1.0}
+virallisesti	{"ud.adv": 1.0}
+viranomaiset	{"ud.noun": 1.0}
+viranomaisten	{"ud.noun": 1.0}
+voi	{"ud.aux": 1.0}
+voidaan	{"ud.aux": 0.9375, "ud.verb": 0.0625}
+voimaan	{"ud.verb": 0.3333333333333333, "ud.adv": 0.3333333333333333, "ud.noun": 0.3333333333333333}
+voimassa	{"ud.adv": 1.0}
+voimme	{"ud.aux": 1.0}
+voin	{"ud.aux": 1.0}
+voisi	{"ud.aux": 1.0}
+voisin	{"ud.aux": 1.0}
+voisit	{"ud.aux": 1.0}
+voit	{"ud.aux": 1.0}
+voittamassa	{"ud.verb": 1.0}
+voitti	{"ud.verb": 1.0}
+voivat	{"ud.aux": 1.0}
+vuoden	{"ud.noun": 1.0}
+vuodesta	{"ud.noun": 1.0}
+vuoksi	{"ud.adp": 1.0}
+vuonna	{"ud.noun": 1.0}
+vuosittain	{"ud.adv": 1.0}
+vuoteen	{"ud.noun": 1.0}
+vuotta	{"ud.noun": 1.0}
+vähemmän	{"ud.adv": 1.0}
+vähintään	{"ud.adv": 1.0}
+vähän	{"ud.adv": 1.0}
+välein	{"ud.noun": 1.0}
+välillä	{"ud.adp": 0.7, "ud.adv": 0.3}
+välisen	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+välittömästi	{"ud.adv": 1.0}
+välttämättä	{"ud.adv": 1.0}
+yhdeksän	{"ud.num": 1.0}
+yhden	{"ud.num": 0.8571428571428571, "ud.pron": 0.14285714285714285}
+yhdessä	{"ud.adv": 0.8333333333333334, "ud.num": 0.16666666666666666}
+yhdestä	{"ud.num": 1.0}
+yhdistää	{"ud.verb": 1.0}
+yhdysvalloissa	{"ud.propn": 1.0}
+yhdysvaltain	{"ud.propn": 1.0}
+yhdysvaltalainen	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+yhdysvaltojen	{"ud.propn": 1.0}
+yhteinen	{"ud.adj": 1.0}
+yhteistyön	{"ud.noun": 1.0}
+yhteisön	{"ud.noun": 1.0}
+yhteisössä	{"ud.noun": 1.0}
+yhteisöön	{"ud.noun": 1.0}
+yhteydessä	{"ud.noun": 1.0}
+yhtä	{"ud.num": 0.2, "ud.adv": 0.7, "ud.pron": 0.1}
+yhä	{"ud.adv": 1.0}
+yks	{"ud.pron": 0.6, "ud.num": 0.4}
+yksi	{"ud.num": 0.8333333333333334, "ud.pron": 0.16666666666666666}
+yksin	{"ud.adv": 1.0}
+yleensä	{"ud.adv": 1.0}
+yli	{"ud.adv": 1.0}
+yliopiston	{"ud.noun": 1.0}
+yritysten	{"ud.noun": 1.0}
+yritän	{"ud.verb": 1.0}
+äidin	{"ud.noun": 1.0}
+äiti	{"ud.noun": 1.0}
+äkkijyrkkä	{"ud.propn": 1.0}
+älä	{"ud.aux": 1.0}
+–	{"ud.punct": 1.0}
+’	{"ud.punct": 1.0}
+“	{"ud.punct": 1.0}
+”	{"ud.punct": 1.0}
+−	{"ud.punct": 1.0}

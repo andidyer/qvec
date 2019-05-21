@@ -1,0 +1,569 @@
+!	{"ud.punct": 1.0}
+"	{"ud.punct": 1.0}
+''	{"ud.punct": 1.0}
+'s	{"ud.x": 0.75, "ud.pron": 0.25}
+(	{"ud.punct": 0.9655172413793104, "ud.x": 0.034482758620689655}
+)	{"ud.punct": 1.0}
+,	{"ud.punct": 1.0}
+-	{"ud.punct": 1.0}
+--	{"ud.punct": 1.0}
+.	{"ud.punct": 1.0}
+...	{"ud.punct": 1.0}
+/	{"ud.punct": 1.0}
+000	{"ud.num": 1.0}
+1	{"ud.num": 1.0}
+10	{"ud.num": 1.0}
+100	{"ud.num": 1.0}
+15	{"ud.num": 1.0}
+150	{"ud.num": 1.0}
+1996	{"ud.num": 1.0}
+2	{"ud.num": 1.0}
+20	{"ud.num": 1.0}
+3	{"ud.num": 1.0}
+30	{"ud.num": 1.0}
+5	{"ud.num": 1.0}
+7	{"ud.num": 1.0}
+8	{"ud.num": 1.0}
+:	{"ud.punct": 0.9166666666666666, "ud.x": 0.08333333333333333}
+?	{"ud.punct": 1.0}
+``	{"ud.punct": 1.0}
+ab	{"ud.adp": 1.0}
+abend	{"ud.noun": 1.0}
+abends	{"ud.adv": 1.0}
+aber	{"ud.cconj": 0.8048780487804879, "ud.adv": 0.1951219512195122}
+absolut	{"ud.adv": 1.0}
+acht	{"ud.num": 1.0}
+all	{"ud.det": 0.6666666666666666, "ud.pron": 0.3333333333333333}
+alle	{"ud.pron": 0.7692307692307693, "ud.noun": 0.07692307692307693, "ud.det": 0.15384615384615385}
+allem	{"ud.noun": 0.09090909090909091, "ud.pron": 0.9090909090909091}
+allerdings	{"ud.adv": 1.0}
+alles	{"ud.pron": 0.9411764705882353, "ud.adv": 0.058823529411764705}
+als	{"ud.adp": 0.6285714285714286, "ud.cconj": 0.22857142857142856, "ud.sconj": 0.08571428571428572, "ud.adv": 0.05714285714285714}
+also	{"ud.adv": 1.0}
+alte	{"ud.adj": 1.0}
+alten	{"ud.adj": 1.0}
+am	{"ud._": 1.0}
+an	{"ud.adp": 0.9880952380952381, "ud.adv": 0.011904761904761904}
+andere	{"ud.adj": 0.5, "ud.pron": 0.5}
+anderen	{"ud.adj": 0.7272727272727273, "ud.pron": 0.2727272727272727}
+anderer	{"ud.adj": 0.6666666666666666, "ud.pron": 0.3333333333333333}
+anders	{"ud.adv": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+angaben	{"ud.noun": 1.0}
+angebot	{"ud.noun": 1.0}
+ansicht	{"ud.noun": 1.0}
+arbeit	{"ud.noun": 1.0}
+arbeitsplätze	{"ud.noun": 1.0}
+arzt	{"ud.noun": 1.0}
+atmosphäre	{"ud.noun": 1.0}
+auch	{"ud.adv": 1.0}
+auf	{"ud.adp": 1.0}
+aufbau	{"ud.noun": 1.0}
+aufgrund	{"ud.adp": 1.0}
+aufpassen	{"ud.verb": 1.0}
+aufträge	{"ud.noun": 1.0}
+aus	{"ud.adp": 1.0}
+ausgesprochen	{"ud.adv": 0.25, "ud.verb": 0.75}
+ausstattung	{"ud.noun": 1.0}
+auswahl	{"ud.noun": 1.0}
+begeistert	{"ud.adj": 1.0}
+bei	{"ud.adp": 1.0}
+beim	{"ud._": 1.0}
+bekomme	{"ud.verb": 1.0}
+bekommen	{"ud.verb": 1.0}
+bekommt	{"ud.verb": 1.0}
+beraten	{"ud.verb": 0.75, "ud.adj": 0.25}
+beratung	{"ud.noun": 1.0}
+bereit	{"ud.verb": 0.2, "ud.adv": 0.2, "ud.adj": 0.6}
+bereits	{"ud.adv": 1.0}
+berichtet	{"ud.verb": 1.0}
+berlin	{"ud.propn": 1.0}
+besser	{"ud.adj": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+bestehen	{"ud.noun": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+besteht	{"ud.verb": 1.0}
+bestellt	{"ud.verb": 1.0}
+besten	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+besuch	{"ud.noun": 1.0}
+besucht	{"ud.verb": 0.75, "ud.adj": 0.25}
+betreiber	{"ud.noun": 1.0}
+bezahlt	{"ud.verb": 1.0}
+bietet	{"ud.verb": 1.0}
+bin	{"ud.aux": 0.7391304347826086, "ud.verb": 0.2608695652173913}
+bis	{"ud.sconj": 0.1875, "ud.adv": 0.1875, "ud.adp": 0.625}
+bisher	{"ud.adv": 1.0}
+bleiben	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+bleibt	{"ud.verb": 1.0}
+blick	{"ud.noun": 1.0}
+block	{"ud.propn": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+braucht	{"ud.verb": 1.0}
+bundeskanzler	{"ud.noun": 1.0}
+bundesrepublik	{"ud.noun": 0.3333333333333333, "ud.propn": 0.6666666666666666}
+burger	{"ud.noun": 1.0}
+büro	{"ud.noun": 1.0}
+ca	{"ud.adv": 1.0}
+chef	{"ud.noun": 1.0}
+choclet	{"ud.propn": 1.0}
+da	{"ud.adv": 0.6666666666666666, "ud.sconj": 0.3333333333333333}
+dabei	{"ud.adv": 1.0}
+dafür	{"ud.adv": 1.0}
+dagegen	{"ud.adv": 1.0}
+damit	{"ud.adv": 0.6666666666666666, "ud.sconj": 0.3333333333333333}
+dank	{"ud.noun": 0.6, "ud.adp": 0.4}
+dann	{"ud.adv": 1.0}
+daran	{"ud.pron": 0.25, "ud.adv": 0.75}
+darauf	{"ud.adv": 1.0}
+darüber	{"ud.adv": 1.0}
+das	{"ud.sconj": 0.02702702702702703, "ud.det": 0.7702702702702703, "ud.pron": 0.20270270270270271}
+dass	{"ud.sconj": 1.0}
+dazu	{"ud.pron": 0.2, "ud.adv": 0.8}
+daß	{"ud.sconj": 0.8, "ud.cconj": 0.2}
+dem	{"ud.det": 0.9790575916230366, "ud.pron": 0.020942408376963352}
+den	{"ud.det": 0.9819819819819819, "ud.pron": 0.018018018018018018}
+denn	{"ud.adv": 0.375, "ud.sconj": 0.5, "ud.cconj": 0.125}
+der	{"ud.det": 0.9534883720930233, "ud.pron": 0.046511627906976744}
+deren	{"ud.pron": 1.0}
+des	{"ud.det": 1.0}
+deshalb	{"ud.adv": 1.0}
+deutsche	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+deutschen	{"ud.adj": 1.0}
+deutschland	{"ud.propn": 1.0}
+dezember	{"ud.propn": 1.0}
+die	{"ud.pron": 0.10666666666666667, "ud.det": 0.8933333333333333}
+dienstag	{"ud.propn": 1.0}
+dies	{"ud.pron": 1.0}
+diese	{"ud.pron": 0.875, "ud.det": 0.125}
+diesem	{"ud.pron": 1.0}
+dieser	{"ud.pron": 1.0}
+dieses	{"ud.pron": 1.0}
+direkt	{"ud.adv": 1.0}
+doch	{"ud.adv": 0.14285714285714285, "ud.cconj": 0.7142857142857143, "ud.sconj": 0.14285714285714285}
+donnerstag	{"ud.propn": 1.0}
+dort	{"ud.adv": 1.0}
+dr.	{"ud.noun": 1.0}
+drei	{"ud.num": 1.0}
+durch	{"ud.adp": 1.0}
+durchaus	{"ud.adv": 1.0}
+e	{"ud.noun": 0.75, "ud.x": 0.25}
+echt	{"ud.adv": 1.0}
+ehemaligen	{"ud.adj": 1.0}
+eher	{"ud.adv": 1.0}
+eigentlich	{"ud.adv": 1.0}
+ein	{"ud.det": 0.8611111111111112, "ud.num": 0.013888888888888888, "ud.adv": 0.125}
+eine	{"ud.det": 0.9206349206349206, "ud.pron": 0.06349206349206349, "ud.num": 0.015873015873015872}
+einem	{"ud.det": 0.9523809523809523, "ud.pron": 0.047619047619047616}
+einen	{"ud.det": 0.9583333333333334, "ud.pron": 0.041666666666666664}
+einer	{"ud.det": 0.9444444444444444, "ud.pron": 0.05555555555555555}
+eines	{"ud.det": 1.0}
+einfach	{"ud.adv": 1.0}
+eingestellt	{"ud.verb": 1.0}
+einige	{"ud.pron": 0.7142857142857143, "ud.det": 0.2857142857142857}
+einmal	{"ud.adv": 1.0}
+einweisung	{"ud.noun": 1.0}
+empfehlen	{"ud.verb": 1.0}
+empfehlenswert	{"ud.adj": 1.0}
+ende	{"ud.noun": 1.0}
+entscheiden	{"ud.verb": 1.0}
+entsprechend	{"ud.adv": 0.3333333333333333, "ud.adj": 0.3333333333333333, "ud.adp": 0.3333333333333333}
+enttäuscht	{"ud.adj": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+er	{"ud.pron": 1.0}
+erfahrungen	{"ud.noun": 1.0}
+ergebnis	{"ud.noun": 1.0}
+erhalten	{"ud.verb": 1.0}
+erneut	{"ud.adv": 1.0}
+erst	{"ud.adv": 1.0}
+erste	{"ud.adj": 0.8571428571428571, "ud.adv": 0.14285714285714285}
+ersten	{"ud.adj": 1.0}
+es	{"ud.pron": 1.0}
+essen	{"ud.noun": 0.8, "ud.verb": 0.2}
+etwa	{"ud.adv": 1.0}
+etwas	{"ud.pron": 0.3333333333333333, "ud.adv": 0.6666666666666666}
+eu	{"ud.propn": 1.0}
+eur	{"ud.propn": 1.0}
+euro	{"ud.propn": 1.0}
+fall	{"ud.noun": 1.0}
+fand	{"ud.verb": 1.0}
+fast	{"ud.adv": 1.0}
+fest	{"ud.adv": 1.0}
+findet	{"ud.verb": 1.0}
+firma	{"ud.noun": 1.0}
+fragen	{"ud.verb": 0.25, "ud.noun": 0.75}
+frau	{"ud.noun": 1.0}
+freundlich	{"ud.adj": 0.9411764705882353, "ud.adv": 0.058823529411764705}
+frieden	{"ud.noun": 1.0}
+fünf	{"ud.num": 1.0}
+für	{"ud.adp": 1.0}
+gab	{"ud.verb": 1.0}
+ganz	{"ud.adv": 1.0}
+gast	{"ud.noun": 1.0}
+gebe	{"ud.verb": 1.0}
+geben	{"ud.verb": 1.0}
+gedauert	{"ud.verb": 1.0}
+gefällt	{"ud.verb": 1.0}
+gegeben	{"ud.verb": 1.0}
+gegen	{"ud.adp": 1.0}
+gehen	{"ud.verb": 1.0}
+geht	{"ud.verb": 1.0}
+gekauft	{"ud.verb": 1.0}
+geld	{"ud.noun": 1.0}
+gelegt	{"ud.verb": 1.0}
+gemacht	{"ud.verb": 1.0}
+gemütlich	{"ud.adj": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+genossen	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+gerade	{"ud.adv": 1.0}
+gerne	{"ud.adv": 1.0}
+geschrieben	{"ud.verb": 1.0}
+geschäft	{"ud.noun": 1.0}
+gesellschaft	{"ud.noun": 1.0}
+gibt	{"ud.verb": 1.0}
+ging	{"ud.verb": 1.0}
+gleich	{"ud.adv": 1.0}
+großen	{"ud.adj": 1.0}
+grund	{"ud.noun": 1.0}
+gruppe	{"ud.noun": 1.0}
+gut	{"ud.adj": 0.38095238095238093, "ud.adv": 0.6190476190476191}
+gute	{"ud.adj": 1.0}
+guter	{"ud.adj": 1.0}
+gutes	{"ud.adj": 0.75, "ud.noun": 0.25}
+gäste	{"ud.noun": 1.0}
+haarteil	{"ud.propn": 0.25, "ud.noun": 0.75}
+hab	{"ud.aux": 1.0}
+habe	{"ud.aux": 0.9655172413793104, "ud.verb": 0.034482758620689655}
+haben	{"ud.aux": 0.7435897435897436, "ud.verb": 0.2564102564102564}
+halten	{"ud.verb": 1.0}
+hat	{"ud.verb": 0.14285714285714285, "ud.aux": 0.8571428571428571}
+hatte	{"ud.verb": 0.28, "ud.aux": 0.72}
+hatten	{"ud.verb": 0.4444444444444444, "ud.aux": 0.5555555555555556}
+hause	{"ud.noun": 1.0}
+helmut	{"ud.propn": 1.0}
+heraus	{"ud.adv": 1.0}
+herr	{"ud.noun": 1.0}
+herrn	{"ud.noun": 1.0}
+herz	{"ud.noun": 1.0}
+heute	{"ud.adv": 1.0}
+hier	{"ud.adv": 1.0}
+hoffnung	{"ud.noun": 1.0}
+hotel	{"ud.noun": 0.9, "ud.propn": 0.1}
+hund	{"ud.noun": 1.0}
+hunde	{"ud.noun": 1.0}
+hundeschule	{"ud.noun": 1.0}
+hundezentrum	{"ud.noun": 1.0}
+hälfte	{"ud.noun": 1.0}
+hätte	{"ud.aux": 1.0}
+hätten	{"ud.aux": 1.0}
+ich	{"ud.pron": 1.0}
+ihm	{"ud.pron": 1.0}
+ihn	{"ud.pron": 1.0}
+ihr	{"ud.pron": 0.9090909090909091, "ud.det": 0.09090909090909091}
+ihre	{"ud.pron": 1.0}
+ihren	{"ud.pron": 1.0}
+im	{"ud._": 1.0}
+immer	{"ud.adv": 1.0}
+in	{"ud.adp": 1.0}
+inhaber	{"ud.noun": 1.0}
+ins	{"ud._": 1.0}
+internationalen	{"ud.adj": 1.0}
+investieren	{"ud.verb": 1.0}
+ist	{"ud.aux": 0.8620689655172413, "ud.verb": 0.13793103448275862}
+ja	{"ud.adv": 1.0}
+jahr	{"ud.noun": 1.0}
+jahre	{"ud.noun": 1.0}
+jahren	{"ud.noun": 1.0}
+jahres	{"ud.noun": 1.0}
+jeden	{"ud.pron": 1.0}
+jedoch	{"ud.adv": 0.6, "ud.cconj": 0.4}
+jetzt	{"ud.adv": 1.0}
+kam	{"ud.verb": 0.875, "ud.noun": 0.125}
+kann	{"ud.aux": 1.0}
+kaufe	{"ud.verb": 1.0}
+kaufen	{"ud.verb": 1.0}
+kaum	{"ud.adv": 1.0}
+kein	{"ud.pron": 1.0}
+keine	{"ud.pron": 1.0}
+keinen	{"ud.pron": 1.0}
+kinder	{"ud.noun": 1.0}
+klaus	{"ud.propn": 1.0}
+kleine	{"ud.adj": 1.0}
+klimmet	{"ud.propn": 1.0}
+kohl	{"ud.propn": 1.0}
+kommen	{"ud.verb": 1.0}
+kommenden	{"ud.adj": 1.0}
+kommt	{"ud.verb": 1.0}
+kompetent	{"ud.adv": 0.4, "ud.adj": 0.6}
+konnte	{"ud.aux": 1.0}
+konnten	{"ud.aux": 0.8333333333333334, "ud.verb": 0.16666666666666666}
+kosten	{"ud.noun": 0.8, "ud.verb": 0.2}
+kunden	{"ud.noun": 1.0}
+kurz	{"ud.adv": 1.0}
+können	{"ud.aux": 0.9230769230769231, "ud.noun": 0.07692307692307693}
+küche	{"ud.noun": 1.0}
+kündigte	{"ud.verb": 1.0}
+laden	{"ud.noun": 1.0}
+lag	{"ud.verb": 1.0}
+lage	{"ud.noun": 1.0}
+lange	{"ud.adv": 1.0}
+lassen	{"ud.verb": 1.0}
+laufen	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+laut	{"ud.adp": 0.6, "ud.adj": 0.4}
+lecker	{"ud.adj": 0.6, "ud.adv": 0.4}
+leckere	{"ud.adj": 1.0}
+leider	{"ud.adv": 1.0}
+leistung	{"ud.noun": 1.0}
+letzte	{"ud.adj": 1.0}
+letzten	{"ud.adj": 1.0}
+letzter	{"ud.adj": 1.0}
+leute	{"ud.noun": 1.0}
+liebe	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+lieber	{"ud.adv": 1.0}
+liefern	{"ud.verb": 1.0}
+länger	{"ud.adv": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+lösung	{"ud.noun": 1.0}
+machen	{"ud.verb": 1.0}
+macht	{"ud.verb": 0.8333333333333334, "ud.noun": 0.16666666666666666}
+mai	{"ud.propn": 1.0}
+mal	{"ud.adv": 0.46153846153846156, "ud.noun": 0.5384615384615384}
+man	{"ud.pron": 1.0}
+mann	{"ud.noun": 1.0}
+mark	{"ud.noun": 0.4, "ud.propn": 0.6}
+markt	{"ud.noun": 1.0}
+mehr	{"ud.pron": 0.23076923076923078, "ud.adv": 0.7692307692307693}
+mehrere	{"ud.pron": 0.75, "ud.det": 0.25}
+mein	{"ud.pron": 1.0}
+meine	{"ud.pron": 0.9523809523809523, "ud.verb": 0.047619047619047616}
+meinem	{"ud.pron": 1.0}
+meinen	{"ud.pron": 1.0}
+meiner	{"ud.pron": 1.0}
+meines	{"ud.pron": 1.0}
+meisten	{"ud.pron": 0.6666666666666666, "ud.det": 0.3333333333333333}
+menschen	{"ud.noun": 1.0}
+mich	{"ud.pron": 1.0}
+millionen	{"ud.noun": 1.0}
+ministerpräsident	{"ud.noun": 1.0}
+minuten	{"ud.noun": 1.0}
+mir	{"ud.pron": 1.0}
+mit	{"ud.adp": 0.9906542056074766, "ud.pron": 0.009345794392523364}
+mitarbeiter	{"ud.noun": 1.0}
+mitten	{"ud.adv": 1.0}
+mittlerweile	{"ud.adv": 1.0}
+monate	{"ud.noun": 1.0}
+montag	{"ud.propn": 1.0}
+muss	{"ud.aux": 0.8333333333333334, "ud.verb": 0.16666666666666666}
+musste	{"ud.aux": 1.0}
+muß	{"ud.aux": 1.0}
+mußten	{"ud.aux": 1.0}
+möchte	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+münchen	{"ud.propn": 1.0}
+münchner	{"ud.propn": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+müssen	{"ud.aux": 1.0}
+nach	{"ud.adp": 1.0}
+natürlich	{"ud.adv": 1.0}
+nett	{"ud.adj": 1.0}
+neu	{"ud.adv": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+neue	{"ud.adj": 1.0}
+neuen	{"ud.adj": 1.0}
+nicht	{"ud.part": 0.9894736842105263, "ud.adv": 0.010526315789473684}
+nichts	{"ud.pron": 1.0}
+nie	{"ud.adv": 1.0}
+nlp	{"ud.propn": 1.0}
+noch	{"ud.adv": 0.9142857142857143, "ud.cconj": 0.08571428571428572}
+nun	{"ud.adv": 1.0}
+nur	{"ud.adv": 1.0}
+nächsten	{"ud.adj": 1.0}
+ob	{"ud.cconj": 0.25, "ud.sconj": 0.75}
+obwohl	{"ud.sconj": 1.0}
+oder	{"ud.cconj": 1.0}
+offene	{"ud.adj": 1.0}
+ohne	{"ud.adp": 0.9411764705882353, "ud.cconj": 0.058823529411764705}
+ordentlich	{"ud.adj": 0.3333333333333333, "ud.adv": 0.6666666666666666}
+ort	{"ud.noun": 1.0}
+paar	{"ud.pron": 1.0}
+panzer	{"ud.noun": 1.0}
+parteien	{"ud.noun": 1.0}
+per	{"ud.adp": 1.0}
+personal	{"ud.noun": 1.0}
+personen	{"ud.noun": 1.0}
+platz	{"ud.noun": 1.0}
+politik	{"ud.noun": 1.0}
+polizei	{"ud.noun": 1.0}
+positiv	{"ud.adj": 0.75, "ud.adv": 0.25}
+praxis	{"ud.noun": 1.0}
+preis	{"ud.noun": 1.0}
+preise	{"ud.noun": 1.0}
+preisen	{"ud.noun": 1.0}
+problem	{"ud.noun": 1.0}
+prozent	{"ud.noun": 1.0}
+prozeß	{"ud.noun": 1.0}
+präsident	{"ud.noun": 0.75, "ud.propn": 0.25}
+qualität	{"ud.noun": 1.0}
+rauschgold	{"ud.propn": 1.0}
+regierung	{"ud.noun": 1.0}
+reparatur	{"ud.noun": 1.0}
+restaurant	{"ud.noun": 1.0}
+richtige	{"ud.adj": 1.0}
+rund	{"ud.adv": 0.7, "ud.adj": 0.3}
+sagen	{"ud.verb": 1.0}
+sagt	{"ud.verb": 1.0}
+sagte	{"ud.verb": 1.0}
+samstag	{"ud.propn": 1.0}
+sauber	{"ud.adj": 0.5, "ud.adv": 0.5}
+sauna	{"ud.noun": 1.0}
+schlecht	{"ud.adj": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+schlechter	{"ud.adj": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+schließlich	{"ud.adv": 1.0}
+schnell	{"ud.adv": 1.0}
+schon	{"ud.adv": 1.0}
+schritt	{"ud.noun": 1.0}
+schuhe	{"ud.noun": 1.0}
+schwarze	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+schwer	{"ud.adj": 0.25, "ud.adv": 0.75}
+schön	{"ud.adv": 0.5, "ud.adj": 0.5}
+schöne	{"ud.adj": 1.0}
+schönen	{"ud.adj": 1.0}
+sechs	{"ud.num": 1.0}
+sehr	{"ud.adv": 1.0}
+sei	{"ud.aux": 0.6, "ud.verb": 0.4}
+sein	{"ud.verb": 0.18181818181818182, "ud.aux": 0.45454545454545453, "ud.pron": 0.2727272727272727, "ud.det": 0.09090909090909091}
+seine	{"ud.pron": 1.0}
+seinen	{"ud.pron": 1.0}
+seiner	{"ud.pron": 1.0}
+seit	{"ud.adp": 0.9523809523809523, "ud.sconj": 0.047619047619047616}
+seite	{"ud.noun": 1.0}
+selbst	{"ud.adv": 1.0}
+service	{"ud.noun": 1.0}
+shop	{"ud.noun": 1.0}
+sich	{"ud.pron": 1.0}
+sie	{"ud.pron": 1.0}
+sieben	{"ud.propn": 0.8333333333333334, "ud.num": 0.16666666666666666}
+sieht	{"ud.verb": 1.0}
+sind	{"ud.aux": 0.9130434782608695, "ud.verb": 0.08695652173913043}
+so	{"ud.adv": 1.0}
+sofort	{"ud.adv": 1.0}
+soll	{"ud.aux": 1.0}
+sollen	{"ud.aux": 1.0}
+sollte	{"ud.aux": 1.0}
+sondern	{"ud.cconj": 1.0}
+sonst	{"ud.adv": 1.0}
+sozialdemokraten	{"ud.noun": 1.0}
+soziale	{"ud.adj": 1.0}
+spaß	{"ud.noun": 1.0}
+spd	{"ud.propn": 1.0}
+spitze	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+sprecher	{"ud.noun": 1.0}
+spricht	{"ud.verb": 1.0}
+später	{"ud.adv": 1.0}
+st.	{"ud.propn": 0.2, "ud.noun": 0.8}
+staaten	{"ud.noun": 1.0}
+statt	{"ud.adp": 0.8, "ud.adv": 0.2}
+steht	{"ud.verb": 1.0}
+stellt	{"ud.verb": 1.0}
+sterne	{"ud.noun": 1.0}
+steuern	{"ud.noun": 1.0}
+stimmen	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+studio	{"ud.noun": 1.0}
+stunde	{"ud.noun": 1.0}
+stunden	{"ud.noun": 1.0}
+suchen	{"ud.verb": 1.0}
+sucht	{"ud.verb": 1.0}
+super	{"ud.adj": 0.7142857142857143, "ud.adv": 0.2857142857142857}
+tage	{"ud.noun": 1.0}
+tagen	{"ud.noun": 1.0}
+tat	{"ud.noun": 1.0}
+team	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+teil	{"ud.noun": 1.0}
+telefon	{"ud.noun": 1.0}
+termin	{"ud.noun": 1.0}
+teuer	{"ud.adj": 1.0}
+thomann	{"ud.propn": 1.0}
+tiefer	{"ud.adv": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+ton	{"ud.noun": 1.0}
+trifft	{"ud.verb": 1.0}
+tun	{"ud.verb": 1.0}
+tv	{"ud.propn": 0.2, "ud.noun": 0.8}
+uhr	{"ud.noun": 1.0}
+um	{"ud.adp": 0.9230769230769231, "ud.cconj": 0.038461538461538464, "ud.adv": 0.038461538461538464}
+und	{"ud.cconj": 1.0}
+uns	{"ud.pron": 1.0}
+unser	{"ud.pron": 1.0}
+unsere	{"ud.pron": 1.0}
+unserem	{"ud.pron": 1.0}
+unseren	{"ud.pron": 1.0}
+unter	{"ud.adp": 0.875, "ud.adv": 0.125}
+unternehmen	{"ud.noun": 1.0}
+urteil	{"ud.noun": 1.0}
+us	{"ud.noun": 0.14285714285714285, "ud.propn": 0.8571428571428571}
+usa	{"ud.propn": 1.0}
+vater	{"ud.noun": 1.0}
+verspricht	{"ud.verb": 1.0}
+versucht	{"ud.verb": 1.0}
+vertrag	{"ud.noun": 1.0}
+viel	{"ud.det": 0.4, "ud.pron": 0.4666666666666667, "ud.verb": 0.06666666666666667, "ud.adv": 0.06666666666666667}
+viele	{"ud.det": 0.6666666666666666, "ud.pron": 0.3333333333333333}
+vielen	{"ud.det": 0.75, "ud.pron": 0.25}
+vielmehr	{"ud.adv": 1.0}
+vier	{"ud.num": 1.0}
+vom	{"ud._": 1.0}
+von	{"ud.adp": 1.0}
+vor	{"ud.adp": 1.0}
+vorsitzende	{"ud.noun": 1.0}
+völlig	{"ud.adv": 1.0}
+wahl	{"ud.noun": 1.0}
+walther	{"ud.propn": 1.0}
+war	{"ud.aux": 0.7647058823529411, "ud.verb": 0.22058823529411764, "ud.noun": 0.014705882352941176}
+ware	{"ud.noun": 1.0}
+waren	{"ud.aux": 0.8636363636363636, "ud.verb": 0.13636363636363635}
+was	{"ud.pron": 0.9444444444444444, "ud.verb": 0.05555555555555555}
+weder	{"ud.cconj": 1.0}
+weg	{"ud.adv": 0.25, "ud.noun": 0.5, "ud.adj": 0.25}
+wegen	{"ud.adp": 1.0}
+weil	{"ud.sconj": 1.0}
+weiter	{"ud.adv": 0.75, "ud.adj": 0.25}
+weitere	{"ud.adj": 0.8, "ud.adv": 0.2}
+weiterempfehlen	{"ud.verb": 1.0}
+weiterhin	{"ud.adv": 1.0}
+wenig	{"ud.adv": 0.3333333333333333, "ud.pron": 0.6666666666666666}
+wenn	{"ud.sconj": 0.95, "ud.cconj": 0.05}
+wer	{"ud.pron": 1.0}
+werde	{"ud.aux": 1.0}
+werden	{"ud.aux": 0.9230769230769231, "ud.verb": 0.07692307692307693}
+werkstatt	{"ud.noun": 1.0}
+wie	{"ud.cconj": 0.32, "ud.adv": 0.32, "ud.sconj": 0.32, "ud.adp": 0.04}
+wieder	{"ud.adv": 1.0}
+will	{"ud.verb": 0.42857142857142855, "ud.aux": 0.5714285714285714}
+wintergartenbau	{"ud.propn": 1.0}
+wir	{"ud.pron": 1.0}
+wird	{"ud.aux": 0.8636363636363636, "ud.verb": 0.13636363636363635}
+wirklich	{"ud.adv": 0.9375, "ud.adj": 0.0625}
+wirkt	{"ud.verb": 1.0}
+wissen	{"ud.verb": 0.8, "ud.noun": 0.2}
+wo	{"ud.adv": 1.0}
+woche	{"ud.noun": 1.0}
+wohl	{"ud.adv": 0.6, "ud.adj": 0.4}
+wollen	{"ud.aux": 1.0}
+wollte	{"ud.aux": 0.875, "ud.verb": 0.125}
+wollten	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+worden	{"ud.aux": 1.0}
+wunderbar	{"ud.adj": 0.75, "ud.adv": 0.25}
+wurde	{"ud.aux": 0.9285714285714286, "ud.verb": 0.07142857142857142}
+wurden	{"ud.aux": 1.0}
+während	{"ud.adp": 0.75, "ud.sconj": 0.25}
+wären	{"ud.aux": 1.0}
+würde	{"ud.aux": 1.0}
+yoga	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+zahl	{"ud.noun": 1.0}
+zahlen	{"ud.verb": 0.5, "ud.noun": 0.5}
+zeit	{"ud.noun": 1.0}
+ziel	{"ud.noun": 1.0}
+zimmer	{"ud.noun": 1.0}
+zu	{"ud.part": 0.39416058394160586, "ud.adp": 0.5620437956204379, "ud.adv": 0.043795620437956206}
+zufrieden	{"ud.adj": 0.8333333333333334, "ud.verb": 0.16666666666666666}
+zum	{"ud._": 1.0}
+zur	{"ud._": 1.0}
+zusammen	{"ud.adv": 1.0}
+zuvor	{"ud.adv": 1.0}
+zwar	{"ud.adv": 1.0}
+zwei	{"ud.num": 1.0}
+zweiten	{"ud.adj": 1.0}
+zwischen	{"ud.adp": 0.8, "ud.adv": 0.2}
+äußerte	{"ud.verb": 1.0}
+über	{"ud.adp": 0.8928571428571429, "ud.adv": 0.10714285714285714}
+überhaupt	{"ud.adv": 1.0}
+überrascht	{"ud.adj": 1.0}
+€	{"ud.sym": 0.4, "ud.x": 0.6}

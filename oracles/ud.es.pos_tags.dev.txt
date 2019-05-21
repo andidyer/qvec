@@ -1,0 +1,1516 @@
+!	{"ud.punct": 1.0}
+"	{"ud.punct": 1.0}
+$	{"ud.sym": 0.5833333333333334, "ud.noun": 0.4166666666666667}
+%	{"ud.sym": 1.0}
+&	{"ud.sym": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+'	{"ud.punct": 1.0}
+'s	{"ud.x": 1.0}
+(	{"ud.punct": 1.0}
+)	{"ud.punct": 1.0}
++	{"ud.sym": 1.0}
+,	{"ud.punct": 1.0}
+-	{"ud.punct": 1.0}
+--	{"ud.punct": 1.0}
+.	{"ud.punct": 1.0}
+...	{"ud.punct": 1.0}
+/	{"ud.punct": 0.75, "ud.sym": 0.25}
+0	{"ud.num": 1.0}
+0.43	{"ud.num": 1.0}
+0.65	{"ud.num": 1.0}
+1	{"ud.num": 1.0}
+10	{"ud.num": 1.0}
+100	{"ud.num": 1.0}
+11	{"ud.num": 1.0}
+12	{"ud.num": 1.0}
+13	{"ud.num": 1.0}
+14	{"ud.num": 1.0}
+15	{"ud.num": 1.0}
+16	{"ud.num": 1.0}
+17	{"ud.num": 1.0}
+18	{"ud.num": 1.0}
+19	{"ud.num": 1.0}
+1906	{"ud.num": 1.0}
+1916	{"ud.num": 1.0}
+1920	{"ud.num": 1.0}
+1938	{"ud.num": 1.0}
+1939	{"ud.num": 1.0}
+1943	{"ud.num": 1.0}
+1944	{"ud.num": 1.0}
+1947	{"ud.num": 1.0}
+1955	{"ud.num": 1.0}
+1960	{"ud.num": 1.0}
+1964	{"ud.num": 1.0}
+1965	{"ud.num": 1.0}
+1967	{"ud.num": 1.0}
+1974	{"ud.num": 1.0}
+1976	{"ud.num": 1.0}
+1978	{"ud.num": 1.0}
+1979	{"ud.num": 1.0}
+1980	{"ud.num": 1.0}
+1983	{"ud.num": 1.0}
+1984	{"ud.num": 1.0}
+1985	{"ud.num": 1.0}
+1990	{"ud.num": 1.0}
+1996	{"ud.num": 1.0}
+2	{"ud.num": 1.0}
+20	{"ud.num": 1.0}
+2000	{"ud.num": 0.9, "ud.noun": 0.1}
+2002	{"ud.num": 1.0}
+2004	{"ud.num": 1.0}
+2005	{"ud.num": 1.0}
+2006	{"ud.num": 1.0}
+2007	{"ud.num": 1.0}
+2008	{"ud.num": 1.0}
+2009	{"ud.num": 1.0}
+2010	{"ud.num": 1.0}
+2011	{"ud.num": 1.0}
+2012	{"ud.num": 1.0}
+21	{"ud.num": 1.0}
+22	{"ud.num": 1.0}
+23	{"ud.num": 1.0}
+24	{"ud.num": 1.0}
+25	{"ud.num": 1.0}
+27	{"ud.num": 1.0}
+28	{"ud.num": 1.0}
+29	{"ud.num": 1.0}
+3	{"ud.num": 1.0}
+30	{"ud.num": 1.0}
+300	{"ud.num": 1.0}
+3000	{"ud.num": 1.0}
+31	{"ud.num": 1.0}
+4	{"ud.num": 1.0}
+40	{"ud.num": 1.0}
+5	{"ud.num": 1.0}
+50	{"ud.num": 1.0}
+6	{"ud.num": 1.0}
+7	{"ud.num": 1.0}
+8	{"ud.num": 1.0}
+80	{"ud.num": 1.0}
+9	{"ud.num": 1.0}
+:	{"ud.punct": 1.0}
+;	{"ud.punct": 1.0}
+=	{"ud.sym": 1.0}
+?	{"ud.punct": 1.0}
+a	{"ud.adp": 0.996319018404908, "ud.propn": 0.00245398773006135, "ud.det": 0.001226993865030675}
+abandonó	{"ud.verb": 1.0}
+abril	{"ud.propn": 1.0}
+acabado	{"ud.noun": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+academia	{"ud.propn": 0.4, "ud.noun": 0.6}
+acceso	{"ud.noun": 1.0}
+acción	{"ud.noun": 0.75, "ud.propn": 0.25}
+acerca	{"ud.adv": 1.0}
+actividad	{"ud.noun": 1.0}
+activo	{"ud.adj": 1.0}
+acto	{"ud.noun": 1.0}
+actor	{"ud.noun": 1.0}
+actos	{"ud.noun": 1.0}
+actriz	{"ud.noun": 1.0}
+actual	{"ud.adj": 1.0}
+actualmente	{"ud.adv": 1.0}
+actuó	{"ud.verb": 1.0}
+acuerdo	{"ud.noun": 1.0}
+además	{"ud.adv": 1.0}
+administración	{"ud.noun": 1.0}
+afirmó	{"ud.verb": 1.0}
+afroamericanos	{"ud.noun": 0.4, "ud.adj": 0.6}
+agencia	{"ud.noun": 1.0}
+agosto	{"ud.propn": 1.0}
+agradable	{"ud.adj": 1.0}
+agricultura	{"ud.noun": 1.0}
+agua	{"ud.noun": 1.0}
+aguas	{"ud.noun": 1.0}
+ahora	{"ud.adv": 1.0}
+aire	{"ud.noun": 1.0}
+aires	{"ud.propn": 1.0}
+al	{"ud._": 0.9623655913978495, "ud.adp": 0.03763440860215054}
+alba	{"ud.propn": 1.0}
+alcalde	{"ud.noun": 1.0}
+alcohol	{"ud.noun": 1.0}
+alejandro	{"ud.propn": 1.0}
+alfonso	{"ud.propn": 1.0}
+algo	{"ud.pron": 1.0}
+alguna	{"ud.det": 1.0}
+algunas	{"ud.det": 0.75, "ud.noun": 0.125, "ud.pron": 0.125}
+algunos	{"ud.det": 0.6666666666666666, "ud.pron": 0.3333333333333333}
+alianza	{"ud.noun": 0.8, "ud.propn": 0.2}
+alimentos	{"ud.noun": 1.0}
+allen	{"ud.propn": 1.0}
+allí	{"ud.adv": 1.0}
+alrededor	{"ud.adv": 0.8, "ud.noun": 0.2}
+alta	{"ud.propn": 0.4, "ud.adj": 0.6}
+alternativa	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+alto	{"ud.adj": 0.8, "ud.propn": 0.1, "ud.noun": 0.1}
+altura	{"ud.noun": 1.0}
+ambas	{"ud.pron": 0.6666666666666666, "ud.det": 0.3333333333333333}
+amberes	{"ud.propn": 1.0}
+ambos	{"ud.pron": 0.5555555555555556, "ud.det": 0.4444444444444444}
+americana	{"ud.propn": 0.2, "ud.adj": 0.8}
+amerindios	{"ud.noun": 0.5, "ud.adj": 0.5}
+amigo	{"ud.noun": 1.0}
+amigos	{"ud.noun": 1.0}
+amor	{"ud.noun": 1.0}
+ampliación	{"ud.noun": 1.0}
+américa	{"ud.propn": 1.0}
+ancho	{"ud.noun": 0.6, "ud.adj": 0.4}
+and	{"ud.x": 0.6666666666666666, "ud.cconj": 0.3333333333333333}
+andaluza	{"ud.adj": 1.0}
+animales	{"ud.noun": 1.0}
+ante	{"ud.adp": 1.0}
+anterior	{"ud.adj": 1.0}
+anteriormente	{"ud.adv": 1.0}
+antes	{"ud.adv": 0.9285714285714286, "ud.adj": 0.07142857142857142}
+antigua	{"ud.adj": 0.8181818181818182, "ud.propn": 0.09090909090909091, "ud.noun": 0.09090909090909091}
+antiguo	{"ud.adj": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+antonio	{"ud.propn": 1.0}
+aparece	{"ud.verb": 1.0}
+aparentemente	{"ud.adv": 1.0}
+aparición	{"ud.noun": 1.0}
+aplicación	{"ud.noun": 1.0}
+apoyo	{"ud.noun": 0.8333333333333334, "ud.propn": 0.16666666666666666}
+apoyó	{"ud.verb": 1.0}
+aproximadamente	{"ud.adv": 1.0}
+aquellos	{"ud.det": 1.0}
+aquí	{"ud.adv": 1.0}
+archivos	{"ud.noun": 1.0}
+argentina	{"ud.propn": 1.0}
+argentino	{"ud.adj": 0.6, "ud.noun": 0.4}
+armas	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+arroz	{"ud.noun": 1.0}
+arte	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+artista	{"ud.noun": 1.0}
+artistas	{"ud.noun": 1.0}
+artístico	{"ud.adj": 1.0}
+asia	{"ud.propn": 1.0}
+asimismo	{"ud.adv": 1.0}
+asistencia	{"ud.noun": 1.0}
+asiáticos	{"ud.noun": 0.4, "ud.adj": 0.6}
+así	{"ud.adv": 1.0}
+atención	{"ud.noun": 1.0}
+athletic	{"ud.propn": 1.0}
+atlántico	{"ud.propn": 1.0}
+atlético	{"ud.propn": 1.0}
+aumento	{"ud.noun": 1.0}
+aun	{"ud.adv": 1.0}
+aunque	{"ud.sconj": 0.9583333333333334, "ud.cconj": 0.041666666666666664}
+australia	{"ud.propn": 1.0}
+autoridad	{"ud.noun": 0.75, "ud.propn": 0.25}
+autoridades	{"ud.noun": 1.0}
+ave	{"ud.noun": 1.0}
+avenida	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+aviones	{"ud.noun": 1.0}
+ayer	{"ud.adv": 1.0}
+ayuda	{"ud.noun": 1.0}
+ayudar	{"ud.verb": 1.0}
+año	{"ud.noun": 1.0}
+años	{"ud.noun": 0.975609756097561, "ud.propn": 0.024390243902439025}
+aún	{"ud.adv": 1.0}
+bahía	{"ud.noun": 1.0}
+bajas	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+bajista	{"ud.noun": 1.0}
+bajo	{"ud.adj": 0.23809523809523808, "ud.adv": 0.047619047619047616, "ud.adp": 0.6190476190476191, "ud.noun": 0.09523809523809523}
+banda	{"ud.noun": 1.0}
+bar	{"ud.noun": 1.0}
+barcelona	{"ud.propn": 1.0}
+bariloche	{"ud.propn": 1.0}
+barrio	{"ud.noun": 1.0}
+base	{"ud.noun": 1.0}
+bastante	{"ud.pron": 1.0}
+batalla	{"ud.noun": 0.7777777777777778, "ud.propn": 0.2222222222222222}
+belleza	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+bien	{"ud.adv": 0.8333333333333334, "ud.propn": 0.05555555555555555, "ud.noun": 0.1111111111111111}
+blanca	{"ud.propn": 0.16666666666666666, "ud.adj": 0.8333333333333334}
+blanco	{"ud.propn": 0.4, "ud.adj": 0.6}
+blancos	{"ud.noun": 0.3076923076923077, "ud.adj": 0.6923076923076923}
+bordo	{"ud.noun": 1.0}
+bosques	{"ud.noun": 1.0}
+boston	{"ud.propn": 1.0}
+botánico	{"ud.noun": 0.3333333333333333, "ud.propn": 0.3333333333333333, "ud.adj": 0.3333333333333333}
+brasil	{"ud.propn": 1.0}
+brava	{"ud.propn": 1.0}
+bretaña	{"ud.propn": 1.0}
+breve	{"ud.adj": 1.0}
+británica	{"ud.adj": 1.0}
+buen	{"ud.adj": 1.0}
+buena	{"ud.adj": 1.0}
+buenos	{"ud.propn": 0.875, "ud.adj": 0.125}
+busca	{"ud.verb": 1.0}
+c	{"ud.propn": 0.3333333333333333, "ud.x": 0.6666666666666666}
+caballero	{"ud.propn": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+caballo	{"ud.noun": 1.0}
+cabo	{"ud.noun": 0.5, "ud.propn": 0.5}
+cada	{"ud.det": 1.0}
+calidad	{"ud.noun": 1.0}
+caliente	{"ud.adj": 1.0}
+california	{"ud.propn": 1.0}
+calle	{"ud.noun": 1.0}
+calles	{"ud.noun": 1.0}
+cambiar	{"ud.verb": 1.0}
+cambio	{"ud.noun": 1.0}
+cambios	{"ud.noun": 1.0}
+camino	{"ud.noun": 0.8333333333333334, "ud.propn": 0.16666666666666666}
+campaña	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+campeonato	{"ud.propn": 0.4, "ud.noun": 0.6}
+campo	{"ud.noun": 0.5, "ud.propn": 0.5}
+canadiense	{"ud.adj": 1.0}
+canal	{"ud.noun": 0.5714285714285714, "ud.propn": 0.42857142857142855}
+canciones	{"ud.noun": 1.0}
+canción	{"ud.noun": 1.0}
+cantante	{"ud.noun": 1.0}
+cantidad	{"ud.noun": 1.0}
+canto	{"ud.noun": 1.0}
+cantón	{"ud.noun": 0.9, "ud.propn": 0.1}
+capa	{"ud.noun": 1.0}
+capacidad	{"ud.noun": 1.0}
+capital	{"ud.noun": 1.0}
+cara	{"ud.noun": 1.0}
+caracteriza	{"ud.verb": 1.0}
+característica	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+carga	{"ud.noun": 1.0}
+cargo	{"ud.noun": 1.0}
+carlos	{"ud.propn": 1.0}
+caro	{"ud.propn": 0.5, "ud.adj": 0.5}
+carrera	{"ud.propn": 0.2, "ud.noun": 0.8}
+carretera	{"ud.noun": 0.8888888888888888, "ud.adj": 0.1111111111111111}
+carreteras	{"ud.noun": 1.0}
+carta	{"ud.noun": 1.0}
+casa	{"ud.propn": 0.15384615384615385, "ud.noun": 0.7692307692307693, "ud.verb": 0.07692307692307693}
+casas	{"ud.noun": 1.0}
+casi	{"ud.adv": 1.0}
+caso	{"ud.noun": 1.0}
+castillo	{"ud.noun": 1.0}
+catalina	{"ud.propn": 1.0}
+cataluña	{"ud.propn": 1.0}
+catedral	{"ud.propn": 0.5, "ud.noun": 0.5}
+categoría	{"ud.noun": 1.0}
+causa	{"ud.noun": 1.0}
+causas	{"ud.noun": 1.0}
+celebran	{"ud.verb": 1.0}
+censo	{"ud.noun": 0.8636363636363636, "ud.propn": 0.13636363636363635}
+central	{"ud.adj": 0.5555555555555556, "ud.propn": 0.3333333333333333, "ud.noun": 0.1111111111111111}
+centro	{"ud.noun": 0.9333333333333333, "ud.propn": 0.06666666666666667}
+centros	{"ud.noun": 1.0}
+cerca	{"ud.adv": 1.0}
+cercano	{"ud.adj": 1.0}
+chica	{"ud.noun": 1.0}
+chicago	{"ud.propn": 1.0}
+chicas	{"ud.noun": 1.0}
+chile	{"ud.propn": 1.0}
+china	{"ud.propn": 1.0}
+chocolate	{"ud.noun": 1.0}
+ciclista	{"ud.noun": 0.8, "ud.adj": 0.2}
+cientos	{"ud.noun": 1.0}
+cierta	{"ud.adj": 0.5, "ud.det": 0.5}
+cierto	{"ud.det": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+cinco	{"ud.noun": 0.1, "ud.num": 0.9}
+ciudad	{"ud.propn": 0.09090909090909091, "ud.noun": 0.9090909090909091}
+ciudadano	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+ciudades	{"ud.noun": 1.0}
+claro	{"ud.adj": 1.0}
+cliente	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+clientes	{"ud.noun": 1.0}
+clima	{"ud.noun": 1.0}
+club	{"ud.noun": 0.5714285714285714, "ud.propn": 0.42857142857142855}
+clásico	{"ud.adj": 1.0}
+colección	{"ud.noun": 1.0}
+college	{"ud.propn": 1.0}
+colombia	{"ud.propn": 1.0}
+color	{"ud.noun": 1.0}
+columna	{"ud.noun": 1.0}
+comarca	{"ud.noun": 1.0}
+combate	{"ud.noun": 0.75, "ud.propn": 0.25}
+comentario	{"ud.noun": 1.0}
+comenzó	{"ud.verb": 1.0}
+comercial	{"ud.adj": 0.8, "ud.noun": 0.2}
+comerciales	{"ud.adj": 1.0}
+comercio	{"ud.propn": 0.25, "ud.noun": 0.75}
+comienza	{"ud.verb": 1.0}
+comienzan	{"ud.verb": 1.0}
+comisión	{"ud.propn": 0.2, "ud.noun": 0.8}
+comité	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+como	{"ud.sconj": 0.06077348066298342, "ud.adp": 0.8011049723756906, "ud.cconj": 0.12154696132596685, "ud.adv": 0.016574585635359115}
+compartir	{"ud.verb": 1.0}
+compañía	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+compañías	{"ud.noun": 1.0}
+competición	{"ud.noun": 1.0}
+completamente	{"ud.adv": 1.0}
+completo	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+compone	{"ud.verb": 1.0}
+componen	{"ud.verb": 1.0}
+compra	{"ud.noun": 0.5, "ud.verb": 0.5}
+comprar	{"ud.verb": 1.0}
+comprobar	{"ud.verb": 1.0}
+compuesto	{"ud.verb": 0.7777777777777778, "ud.adj": 0.2222222222222222}
+comuna	{"ud.noun": 0.9166666666666666, "ud.propn": 0.08333333333333333}
+comunicación	{"ud.noun": 0.8333333333333334, "ud.propn": 0.16666666666666666}
+comunidad	{"ud.noun": 0.5, "ud.propn": 0.5}
+con	{"ud.adp": 1.0}
+concentración	{"ud.noun": 1.0}
+concretamente	{"ud.adv": 1.0}
+concurso	{"ud.noun": 1.0}
+condado	{"ud.noun": 1.0}
+conexión	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+confianza	{"ud.noun": 1.0}
+conflicto	{"ud.noun": 1.0}
+congreso	{"ud.noun": 0.8333333333333334, "ud.propn": 0.16666666666666666}
+conjunto	{"ud.noun": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+conoce	{"ud.verb": 1.0}
+conocida	{"ud.adj": 0.4, "ud.verb": 0.6}
+conocido	{"ud.verb": 0.9090909090909091, "ud.adj": 0.09090909090909091}
+conocimiento	{"ud.noun": 1.0}
+consecuencia	{"ud.noun": 1.0}
+conseguir	{"ud.verb": 1.0}
+consejo	{"ud.propn": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+considera	{"ud.verb": 1.0}
+considerado	{"ud.verb": 1.0}
+considerar	{"ud.verb": 1.0}
+constante	{"ud.adj": 1.0}
+constitución	{"ud.noun": 0.8333333333333334, "ud.propn": 0.16666666666666666}
+construcción	{"ud.noun": 1.0}
+construyó	{"ud.verb": 1.0}
+continentales	{"ud.propn": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+contra	{"ud.adp": 0.9166666666666666, "ud.noun": 0.08333333333333333}
+control	{"ud.noun": 1.0}
+convertir	{"ud.verb": 1.0}
+convertirse	{"ud._": 1.0}
+convierte	{"ud.verb": 1.0}
+convirtió	{"ud.verb": 1.0}
+coordenadas	{"ud.noun": 1.0}
+copa	{"ud.propn": 0.8571428571428571, "ud.noun": 0.14285714285714285}
+corea	{"ud.propn": 1.0}
+corresponde	{"ud.verb": 1.0}
+corresponden	{"ud.verb": 0.8, "ud.aux": 0.2}
+corrientes	{"ud.noun": 0.3333333333333333, "ud.propn": 0.6666666666666666}
+corte	{"ud.noun": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+cosas	{"ud.noun": 1.0}
+costa	{"ud.propn": 0.5384615384615384, "ud.noun": 0.46153846153846156}
+coste	{"ud.noun": 1.0}
+creación	{"ud.noun": 1.0}
+creada	{"ud.verb": 1.0}
+creado	{"ud.verb": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+crear	{"ud.verb": 1.0}
+crecimiento	{"ud.noun": 1.0}
+cree	{"ud.verb": 1.0}
+crisis	{"ud.noun": 1.0}
+cruz	{"ud.propn": 0.875, "ud.noun": 0.125}
+cual	{"ud.pron": 1.0}
+cuales	{"ud.noun": 0.16666666666666666, "ud.pron": 0.8333333333333334}
+cualquier	{"ud.det": 1.0}
+cuando	{"ud.sconj": 0.9459459459459459, "ud.propn": 0.02702702702702703, "ud.adv": 0.02702702702702703}
+cuanto	{"ud.adv": 1.0}
+cuarto	{"ud.noun": 0.4, "ud.adj": 0.6}
+cuatro	{"ud.num": 1.0}
+cubre	{"ud.verb": 1.0}
+cuenca	{"ud.noun": 1.0}
+cuenta	{"ud.verb": 0.5384615384615384, "ud.noun": 0.46153846153846156}
+cuerpo	{"ud.noun": 1.0}
+cuerpos	{"ud.noun": 1.0}
+cultivos	{"ud.noun": 1.0}
+cultural	{"ud.adj": 0.8333333333333334, "ud.propn": 0.16666666666666666}
+cuyo	{"ud.det": 1.0}
+cámara	{"ud.propn": 0.5, "ud.noun": 0.5}
+cápita	{"ud.noun": 1.0}
+cómo	{"ud.adv": 1.0}
+d.	{"ud.propn": 1.0}
+da	{"ud.verb": 0.8181818181818182, "ud.adp": 0.09090909090909091, "ud.propn": 0.09090909090909091}
+dan	{"ud.propn": 0.5, "ud.verb": 0.5}
+dando	{"ud.verb": 1.0}
+daniel	{"ud.propn": 1.0}
+danés	{"ud.adj": 1.0}
+dar	{"ud.verb": 1.0}
+darle	{"ud._": 1.0}
+datos	{"ud.noun": 1.0}
+david	{"ud.propn": 1.0}
+de	{"ud.adp": 0.9989644459785986, "ud.propn": 0.00034518467380048324, "ud.x": 0.0006903693476009665}
+debe	{"ud.aux": 1.0}
+deben	{"ud.aux": 1.0}
+debido	{"ud.verb": 1.0}
+debía	{"ud.aux": 1.0}
+decide	{"ud.verb": 1.0}
+decidió	{"ud.verb": 1.0}
+decir	{"ud.verb": 1.0}
+decisión	{"ud.noun": 1.0}
+dedicada	{"ud.verb": 1.0}
+dedicaron	{"ud.verb": 1.0}
+dejar	{"ud.verb": 1.0}
+dejo	{"ud.verb": 1.0}
+del	{"ud._": 0.9901719901719902, "ud.adp": 0.009828009828009828}
+delano	{"ud.propn": 1.0}
+democrática	{"ud.propn": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+demás	{"ud.adj": 0.8, "ud.noun": 0.2}
+denomina	{"ud.verb": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+densidad	{"ud.noun": 1.0}
+dentro	{"ud.adv": 0.9375, "ud.adp": 0.0625}
+denuncia	{"ud.noun": 1.0}
+departamento	{"ud.noun": 0.9411764705882353, "ud.propn": 0.058823529411764705}
+derecha	{"ud.adj": 0.2, "ud.noun": 0.8}
+derecho	{"ud.adj": 0.4, "ud.noun": 0.6}
+desarrollado	{"ud.verb": 1.0}
+desarrollar	{"ud.verb": 1.0}
+desarrollo	{"ud.noun": 1.0}
+descubierto	{"ud.verb": 1.0}
+desde	{"ud.adp": 1.0}
+designado	{"ud.verb": 1.0}
+después	{"ud.adv": 0.92, "ud.adj": 0.08}
+destaca	{"ud.verb": 1.0}
+destacar	{"ud.verb": 1.0}
+destacó	{"ud.verb": 1.0}
+deuda	{"ud.noun": 1.0}
+diario	{"ud.noun": 0.8, "ud.adj": 0.2}
+dice	{"ud.verb": 1.0}
+dicha	{"ud.det": 1.0}
+dicho	{"ud.verb": 0.25, "ud.det": 0.75}
+diciembre	{"ud.propn": 1.0}
+diego	{"ud.propn": 1.0}
+diez	{"ud.num": 0.75, "ud.propn": 0.25}
+diferentes	{"ud.adj": 1.0}
+dificultades	{"ud.noun": 1.0}
+dijo	{"ud.verb": 1.0}
+dinamarca	{"ud.propn": 1.0}
+dio	{"ud.verb": 1.0}
+dios	{"ud.propn": 0.75, "ud.noun": 0.25}
+diputados	{"ud.propn": 0.5, "ud.noun": 0.5}
+dirección	{"ud.noun": 1.0}
+directamente	{"ud.adv": 1.0}
+directiva	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+director	{"ud.noun": 1.0}
+dirigida	{"ud.verb": 1.0}
+dirigido	{"ud.verb": 1.0}
+dirigir	{"ud.verb": 1.0}
+disco	{"ud.noun": 1.0}
+discos	{"ud.noun": 1.0}
+diseño	{"ud.noun": 1.0}
+dispositivo	{"ud.noun": 1.0}
+distintas	{"ud.adj": 0.6666666666666666, "ud.det": 0.3333333333333333}
+distintos	{"ud.adj": 1.0}
+distrito	{"ud.noun": 1.0}
+divisiones	{"ud.noun": 1.0}
+división	{"ud.noun": 1.0}
+doble	{"ud.adj": 1.0}
+domingo	{"ud.propn": 1.0}
+don	{"ud.propn": 0.75, "ud.noun": 0.25}
+donde	{"ud.adv": 1.0}
+dos	{"ud.num": 0.9454545454545454, "ud.propn": 0.01818181818181818, "ud.noun": 0.01818181818181818, "ud.adp": 0.01818181818181818}
+duda	{"ud.noun": 1.0}
+durante	{"ud.adp": 1.0}
+década	{"ud.noun": 1.0}
+décadas	{"ud.noun": 1.0}
+día	{"ud.noun": 0.9130434782608695, "ud.propn": 0.08695652173913043}
+días	{"ud.noun": 1.0}
+e	{"ud.cconj": 0.9523809523809523, "ud.x": 0.047619047619047616}
+economía	{"ud.noun": 1.0}
+económica	{"ud.adj": 1.0}
+edad	{"ud.noun": 1.0}
+edición	{"ud.noun": 1.0}
+edificios	{"ud.noun": 1.0}
+eduardo	{"ud.propn": 1.0}
+eje	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+ejecutivo	{"ud.adj": 0.3333333333333333, "ud.propn": 0.16666666666666666, "ud.noun": 0.5}
+ejemplo	{"ud.noun": 1.0}
+ejército	{"ud.noun": 1.0}
+el	{"ud.det": 1.0}
+elección	{"ud.noun": 1.0}
+elegido	{"ud.verb": 1.0}
+elementos	{"ud.noun": 1.0}
+ella	{"ud.pron": 1.0}
+ellas	{"ud.pron": 1.0}
+ello	{"ud.pron": 1.0}
+ellos	{"ud.pron": 1.0}
+embargo	{"ud.noun": 1.0}
+emperador	{"ud.noun": 0.8, "ud.propn": 0.2}
+empezado	{"ud.verb": 1.0}
+empieza	{"ud.verb": 1.0}
+empleados	{"ud.noun": 1.0}
+empresa	{"ud.noun": 1.0}
+empresas	{"ud.noun": 1.0}
+en	{"ud.adp": 0.998193315266486, "ud.x": 0.0018066847335140017}
+encima	{"ud.adv": 1.0}
+encontrar	{"ud.verb": 1.0}
+encuentra	{"ud.verb": 1.0}
+encuentran	{"ud.verb": 1.0}
+encuentro	{"ud.noun": 1.0}
+energía	{"ud.noun": 1.0}
+enero	{"ud.propn": 1.0}
+enrique	{"ud.propn": 1.0}
+enseñanza	{"ud.noun": 1.0}
+entonces	{"ud.adv": 1.0}
+entrada	{"ud.noun": 1.0}
+entre	{"ud.adp": 1.0}
+episodio	{"ud.noun": 1.0}
+equipo	{"ud.noun": 0.95, "ud.propn": 0.05}
+equipos	{"ud.noun": 1.0}
+era	{"ud.verb": 0.2916666666666667, "ud.aux": 0.6458333333333334, "ud.propn": 0.041666666666666664, "ud.noun": 0.020833333333333332}
+eran	{"ud.aux": 0.7419354838709677, "ud.verb": 0.25806451612903225}
+es	{"ud.aux": 0.8958333333333334, "ud.verb": 0.10416666666666667}
+esa	{"ud.det": 0.9333333333333333, "ud.pron": 0.06666666666666667}
+escocia	{"ud.propn": 1.0}
+escribió	{"ud.verb": 1.0}
+escrito	{"ud.verb": 1.0}
+escritor	{"ud.noun": 1.0}
+escritos	{"ud.noun": 1.0}
+escudo	{"ud.noun": 1.0}
+escuela	{"ud.noun": 0.625, "ud.propn": 0.375}
+ese	{"ud.det": 0.9583333333333334, "ud.pron": 0.041666666666666664}
+eso	{"ud.pron": 1.0}
+esos	{"ud.det": 0.8, "ud.pron": 0.2}
+espacio	{"ud.noun": 1.0}
+españa	{"ud.propn": 1.0}
+español	{"ud.adj": 0.9090909090909091, "ud.noun": 0.09090909090909091}
+española	{"ud.adj": 1.0}
+españoles	{"ud.adj": 0.6, "ud.noun": 0.4}
+especial	{"ud.adj": 0.875, "ud.noun": 0.125}
+especialmente	{"ud.adv": 1.0}
+especias	{"ud.noun": 1.0}
+especie	{"ud.noun": 1.0}
+especies	{"ud.noun": 1.0}
+espera	{"ud.verb": 0.75, "ud.noun": 0.25}
+esperanza	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+esquinas	{"ud.noun": 1.0}
+esta	{"ud.det": 0.8214285714285714, "ud.verb": 0.03571428571428571, "ud.pron": 0.05357142857142857, "ud.aux": 0.08928571428571429}
+estaba	{"ud.aux": 0.7727272727272727, "ud.verb": 0.22727272727272727}
+estaban	{"ud.aux": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+establecido	{"ud.verb": 1.0}
+establecimiento	{"ud.noun": 1.0}
+estaciones	{"ud.noun": 1.0}
+estación	{"ud.noun": 0.8888888888888888, "ud.propn": 0.1111111111111111}
+estadio	{"ud.noun": 1.0}
+estado	{"ud.noun": 0.8387096774193549, "ud.propn": 0.0967741935483871, "ud.aux": 0.03225806451612903, "ud.verb": 0.03225806451612903}
+estados	{"ud.propn": 0.7894736842105263, "ud.noun": 0.21052631578947367}
+estadounidense	{"ud.adj": 1.0}
+estadounidenses	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+estar	{"ud.verb": 0.2857142857142857, "ud.aux": 0.7142857142857143}
+estas	{"ud.det": 1.0}
+estatal	{"ud.adj": 1.0}
+este	{"ud.det": 0.9125, "ud.pron": 0.05, "ud.noun": 0.0375}
+estilo	{"ud.noun": 1.0}
+esto	{"ud.pron": 1.0}
+estos	{"ud.det": 1.0}
+estoy	{"ud.aux": 0.8, "ud.verb": 0.2}
+estructura	{"ud.noun": 1.0}
+estudiantes	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+estudio	{"ud.noun": 0.9, "ud.propn": 0.1}
+estudios	{"ud.noun": 1.0}
+estuve	{"ud.aux": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+estuvo	{"ud.aux": 1.0}
+está	{"ud.aux": 0.7105263157894737, "ud.verb": 0.2894736842105263}
+están	{"ud.aux": 0.7333333333333333, "ud.verb": 0.26666666666666666}
+etapas	{"ud.noun": 1.0}
+etc.	{"ud.x": 1.0}
+europa	{"ud.propn": 1.0}
+europeo	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+euros	{"ud.noun": 1.0}
+eventos	{"ud.noun": 1.0}
+evitar	{"ud.verb": 1.0}
+existe	{"ud.verb": 1.0}
+existen	{"ud.verb": 1.0}
+experiencia	{"ud.noun": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+explicó	{"ud.verb": 1.0}
+expresión	{"ud.noun": 1.0}
+exterior	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+f	{"ud.x": 1.0}
+falleció	{"ud.verb": 1.0}
+falta	{"ud.noun": 1.0}
+familia	{"ud.noun": 1.0}
+familias	{"ud.noun": 1.0}
+famoso	{"ud.adj": 1.0}
+fc	{"ud.propn": 1.0}
+febrero	{"ud.propn": 1.0}
+fecha	{"ud.noun": 1.0}
+federación	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+federal	{"ud.adj": 1.0}
+federico	{"ud.propn": 1.0}
+felipe	{"ud.propn": 1.0}
+feria	{"ud.propn": 1.0}
+ferrocarril	{"ud.noun": 0.5, "ud.adj": 0.25, "ud.propn": 0.25}
+ferroviaria	{"ud.adj": 1.0}
+ficción	{"ud.noun": 1.0}
+fichaje	{"ud.noun": 1.0}
+fiesta	{"ud.noun": 0.75, "ud.propn": 0.25}
+fin	{"ud.noun": 1.0}
+final	{"ud.noun": 0.6, "ud.adj": 0.3333333333333333, "ud.propn": 0.06666666666666667}
+finales	{"ud.noun": 1.0}
+finalmente	{"ud.adv": 1.0}
+fines	{"ud.noun": 1.0}
+firma	{"ud.noun": 1.0}
+firmar	{"ud.verb": 1.0}
+firme	{"ud.adj": 1.0}
+flores	{"ud.propn": 0.75, "ud.noun": 0.25}
+flota	{"ud.noun": 1.0}
+fondo	{"ud.propn": 0.25, "ud.noun": 0.75}
+fondos	{"ud.noun": 1.0}
+forma	{"ud.noun": 0.875, "ud.verb": 0.125}
+formación	{"ud.noun": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+formar	{"ud.verb": 1.0}
+formó	{"ud.verb": 1.0}
+fox	{"ud.propn": 1.0}
+francesa	{"ud.adj": 1.0}
+francia	{"ud.propn": 1.0}
+francisco	{"ud.propn": 1.0}
+franklin	{"ud.propn": 1.0}
+frecuencia	{"ud.noun": 1.0}
+frecuentemente	{"ud.adv": 1.0}
+frente	{"ud.noun": 1.0}
+fue	{"ud.aux": 0.9767441860465116, "ud.x": 0.007751937984496124, "ud.verb": 0.015503875968992248}
+fuentes	{"ud.noun": 1.0}
+fuera	{"ud.adv": 0.5, "ud.aux": 0.5}
+fueron	{"ud.aux": 0.9259259259259259, "ud.verb": 0.07407407407407407}
+fuerte	{"ud.adj": 0.8, "ud.propn": 0.2}
+fuertes	{"ud.adj": 1.0}
+fuerza	{"ud.noun": 1.0}
+fuerzas	{"ud.noun": 1.0}
+funcionó	{"ud.verb": 1.0}
+fundador	{"ud.adj": 0.5, "ud.noun": 0.5}
+fundó	{"ud.verb": 1.0}
+futuro	{"ud.noun": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+fácil	{"ud.adj": 1.0}
+fútbol	{"ud.propn": 0.375, "ud.noun": 0.625}
+gabinete	{"ud.noun": 1.0}
+ganadería	{"ud.noun": 1.0}
+ganado	{"ud.noun": 0.5, "ud.verb": 0.5}
+ganar	{"ud.verb": 1.0}
+ganó	{"ud.verb": 1.0}
+gastronomía	{"ud.noun": 1.0}
+general	{"ud.adj": 0.4117647058823529, "ud.noun": 0.23529411764705882, "ud.propn": 0.35294117647058826}
+generalmente	{"ud.adv": 1.0}
+george	{"ud.propn": 1.0}
+gestión	{"ud.noun": 1.0}
+get	{"ud.propn": 1.0}
+giovanni	{"ud.propn": 1.0}
+gira	{"ud.noun": 0.875, "ud.verb": 0.125}
+gobernador	{"ud.noun": 1.0}
+gobierno	{"ud.noun": 0.9523809523809523, "ud.propn": 0.047619047619047616}
+golfo	{"ud.propn": 0.75, "ud.noun": 0.25}
+gracias	{"ud.noun": 0.7777777777777778, "ud.propn": 0.2222222222222222}
+gran	{"ud.adj": 0.7567567567567568, "ud.propn": 0.24324324324324326}
+grande	{"ud.propn": 0.16666666666666666, "ud.adj": 0.5, "ud.noun": 0.3333333333333333}
+grandes	{"ud.propn": 0.25, "ud.adj": 0.75}
+graves	{"ud.adj": 1.0}
+griego	{"ud.adj": 0.6, "ud.noun": 0.4}
+grupo	{"ud.noun": 0.9166666666666666, "ud.propn": 0.08333333333333333}
+grupos	{"ud.noun": 1.0}
+guardiola	{"ud.propn": 1.0}
+guerra	{"ud.noun": 0.5454545454545454, "ud.propn": 0.45454545454545453}
+guitarra	{"ud.noun": 1.0}
+género	{"ud.noun": 1.0}
+gómez	{"ud.propn": 1.0}
+ha	{"ud.aux": 1.0}
+hab	{"ud.noun": 0.6, "ud.x": 0.4}
+haber	{"ud.noun": 0.14285714285714285, "ud.aux": 0.7142857142857143, "ud.verb": 0.14285714285714285}
+habita	{"ud.verb": 1.0}
+habitan	{"ud.verb": 1.0}
+habitantes	{"ud.noun": 1.0}
+habla	{"ud.verb": 0.8, "ud.noun": 0.2}
+habría	{"ud.aux": 1.0}
+había	{"ud.verb": 0.30303030303030304, "ud.aux": 0.696969696969697}
+habían	{"ud.aux": 1.0}
+hace	{"ud.verb": 1.0}
+hacer	{"ud.verb": 1.0}
+hacia	{"ud.adp": 1.0}
+haciendo	{"ud.verb": 1.0}
+hamilton	{"ud.propn": 1.0}
+han	{"ud.aux": 1.0}
+hasta	{"ud.adp": 1.0}
+hay	{"ud.verb": 0.8947368421052632, "ud.aux": 0.10526315789473684}
+hecho	{"ud.noun": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+hemos	{"ud.aux": 1.0}
+hermano	{"ud.noun": 1.0}
+hidrógeno	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+hielo	{"ud.noun": 1.0}
+hija	{"ud.noun": 1.0}
+hijo	{"ud.noun": 1.0}
+hijos	{"ud.noun": 1.0}
+historia	{"ud.noun": 0.8, "ud.propn": 0.2}
+histórica	{"ud.adj": 1.0}
+histórico	{"ud.adj": 1.0}
+hizo	{"ud.verb": 1.0}
+hogar	{"ud.noun": 1.0}
+hojas	{"ud.noun": 1.0}
+hombre	{"ud.noun": 1.0}
+hombres	{"ud.noun": 1.0}
+hora	{"ud.noun": 1.0}
+horas	{"ud.noun": 1.0}
+hotel	{"ud.noun": 0.875, "ud.propn": 0.125}
+hoy	{"ud.adv": 1.0}
+huelva	{"ud.propn": 1.0}
+humedad	{"ud.noun": 1.0}
+huracán	{"ud.noun": 1.0}
+i	{"ud.num": 0.6666666666666666, "ud.propn": 0.16666666666666666, "ud.x": 0.16666666666666666}
+idea	{"ud.noun": 1.0}
+ideal	{"ud.propn": 0.2, "ud.adj": 0.8}
+ideas	{"ud.noun": 1.0}
+idioma	{"ud.noun": 1.0}
+iglesia	{"ud.noun": 0.5, "ud.propn": 0.5}
+igual	{"ud.adj": 0.8333333333333334, "ud.adv": 0.16666666666666666}
+ii	{"ud.num": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+iii	{"ud.num": 0.8, "ud.propn": 0.2}
+imagen	{"ud.noun": 1.0}
+imperial	{"ud.adj": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+importancia	{"ud.noun": 1.0}
+importante	{"ud.adj": 1.0}
+importantes	{"ud.adj": 1.0}
+incluso	{"ud.adv": 1.0}
+incluye	{"ud.verb": 1.0}
+incluyendo	{"ud.verb": 1.0}
+incremento	{"ud.noun": 1.0}
+independiente	{"ud.adj": 1.0}
+india	{"ud.propn": 0.8571428571428571, "ud.adj": 0.14285714285714285}
+indios	{"ud.adj": 0.4, "ud.noun": 0.6}
+industria	{"ud.noun": 0.8, "ud.propn": 0.2}
+indígenas	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+influencia	{"ud.noun": 1.0}
+información	{"ud.noun": 1.0}
+informó	{"ud.verb": 1.0}
+infraestructura	{"ud.noun": 1.0}
+inglaterra	{"ud.propn": 1.0}
+inglés	{"ud.noun": 0.8, "ud.adj": 0.13333333333333333, "ud.propn": 0.06666666666666667}
+ingreso	{"ud.noun": 1.0}
+ingresos	{"ud.noun": 1.0}
+inicial	{"ud.adj": 1.0}
+iniciativa	{"ud.noun": 1.0}
+inicio	{"ud.noun": 1.0}
+inmediatamente	{"ud.adv": 1.0}
+instancia	{"ud.noun": 1.0}
+instituto	{"ud.propn": 1.0}
+intenta	{"ud.verb": 1.0}
+interior	{"ud.adj": 0.25, "ud.noun": 0.75}
+internacional	{"ud.propn": 0.14285714285714285, "ud.adj": 0.8571428571428571}
+internas	{"ud.adj": 0.75, "ud.noun": 0.25}
+internet	{"ud.propn": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+interpretado	{"ud.verb": 1.0}
+interpretar	{"ud.verb": 1.0}
+intervención	{"ud.noun": 1.0}
+invasión	{"ud.noun": 1.0}
+investigaciones	{"ud.noun": 1.0}
+investigación	{"ud.noun": 1.0}
+invierno	{"ud.noun": 1.0}
+ir	{"ud.verb": 1.0}
+isla	{"ud.propn": 0.2727272727272727, "ud.noun": 0.7272727272727273}
+islas	{"ud.noun": 0.7142857142857143, "ud.propn": 0.2857142857142857}
+isleños	{"ud.noun": 0.4, "ud.adj": 0.6}
+israel	{"ud.propn": 1.0}
+italia	{"ud.propn": 1.0}
+italiana	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+italiano	{"ud.adj": 0.75, "ud.noun": 0.25}
+izquierda	{"ud.noun": 0.4, "ud.adj": 0.6}
+james	{"ud.propn": 1.0}
+japón	{"ud.propn": 1.0}
+jardín	{"ud.propn": 0.25, "ud.noun": 0.75}
+javier	{"ud.propn": 1.0}
+jefe	{"ud.noun": 1.0}
+jersey	{"ud.propn": 1.0}
+jesús	{"ud.propn": 1.0}
+john	{"ud.propn": 1.0}
+josé	{"ud.propn": 1.0}
+joven	{"ud.propn": 0.1111111111111111, "ud.noun": 0.4444444444444444, "ud.adj": 0.4444444444444444}
+juan	{"ud.propn": 1.0}
+juego	{"ud.noun": 1.0}
+jugador	{"ud.noun": 1.0}
+jugadores	{"ud.noun": 1.0}
+jugó	{"ud.verb": 1.0}
+julio	{"ud.propn": 1.0}
+junio	{"ud.propn": 1.0}
+juniors	{"ud.propn": 1.0}
+junta	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+junto	{"ud.adv": 0.4, "ud.adj": 0.6}
+justicia	{"ud.noun": 1.0}
+kent	{"ud.propn": 1.0}
+km	{"ud.noun": 0.6111111111111112, "ud.sym": 0.3888888888888889}
+la	{"ud.det": 0.9761727475800447, "ud.pron": 0.023827252419955324}
+lado	{"ud.noun": 1.0}
+lanzado	{"ud.verb": 1.0}
+larga	{"ud.adj": 1.0}
+largo	{"ud.noun": 0.4, "ud.adj": 0.5, "ud.propn": 0.1}
+las	{"ud.det": 0.9719298245614035, "ud.pron": 0.028070175438596492}
+lateral	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+latina	{"ud.propn": 0.75, "ud.adj": 0.25}
+le	{"ud.pron": 1.0}
+legal	{"ud.adj": 0.75, "ud.propn": 0.25}
+legislación	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+les	{"ud.pron": 1.0}
+letra	{"ud.noun": 1.0}
+ley	{"ud.noun": 1.0}
+leyes	{"ud.noun": 1.0}
+liberado	{"ud.verb": 1.0}
+liberales	{"ud.noun": 1.0}
+libertad	{"ud.noun": 0.8, "ud.propn": 0.2}
+libre	{"ud.adj": 0.8333333333333334, "ud.propn": 0.16666666666666666}
+libro	{"ud.noun": 1.0}
+libros	{"ud.noun": 1.0}
+liga	{"ud.propn": 0.125, "ud.noun": 0.875}
+llamada	{"ud.noun": 0.5, "ud.adj": 0.25, "ud.verb": 0.25}
+llamado	{"ud.verb": 1.0}
+llamar	{"ud.verb": 1.0}
+llega	{"ud.verb": 1.0}
+llegada	{"ud.noun": 1.0}
+llegan	{"ud.verb": 1.0}
+llegar	{"ud.verb": 1.0}
+llegaron	{"ud.verb": 1.0}
+llegó	{"ud.verb": 1.0}
+lleva	{"ud.verb": 1.0}
+llevar	{"ud.verb": 1.0}
+lo	{"ud.pron": 1.0}
+local	{"ud.noun": 0.16666666666666666, "ud.adj": 0.6666666666666666, "ud.propn": 0.16666666666666666}
+locales	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+localidad	{"ud.noun": 1.0}
+localizado	{"ud.verb": 1.0}
+lograr	{"ud.verb": 1.0}
+logró	{"ud.verb": 1.0}
+londres	{"ud.propn": 1.0}
+los	{"ud.pron": 0.0507399577167019, "ud.det": 0.9492600422832981}
+lucha	{"ud.noun": 0.75, "ud.verb": 0.25}
+luego	{"ud.adv": 1.0}
+lugar	{"ud.noun": 1.0}
+lugares	{"ud.noun": 1.0}
+luis	{"ud.propn": 1.0}
+luz	{"ud.noun": 1.0}
+líder	{"ud.noun": 1.0}
+límite	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+línea	{"ud.noun": 1.0}
+m	{"ud.sym": 1.0}
+madre	{"ud.noun": 0.4, "ud.propn": 0.6}
+madrid	{"ud.propn": 1.0}
+maestro	{"ud.noun": 1.0}
+mal	{"ud.adj": 0.25, "ud.adv": 0.75}
+mala	{"ud.adj": 1.0}
+mando	{"ud.noun": 1.0}
+manera	{"ud.noun": 1.0}
+mano	{"ud.noun": 1.0}
+manos	{"ud.noun": 1.0}
+manual	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+mar	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+marcado	{"ud.adj": 0.3333333333333333, "ud.verb": 0.3333333333333333, "ud.noun": 0.3333333333333333}
+marino	{"ud.adj": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+martes	{"ud.propn": 1.0}
+martinica	{"ud.propn": 1.0}
+martín	{"ud.propn": 1.0}
+marzo	{"ud.propn": 1.0}
+maría	{"ud.propn": 1.0}
+mas	{"ud.propn": 0.25, "ud.adv": 0.75}
+mauricio	{"ud.propn": 1.0}
+mayo	{"ud.propn": 1.0}
+mayor	{"ud.adj": 1.0}
+mayores	{"ud.adj": 1.0}
+mayoría	{"ud.noun": 1.0}
+mañana	{"ud.noun": 1.0}
+me	{"ud.pron": 1.0}
+media	{"ud.num": 0.2857142857142857, "ud.adj": 0.2857142857142857, "ud.propn": 0.2857142857142857, "ud.noun": 0.14285714285714285}
+mediados	{"ud.noun": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+mediante	{"ud.adp": 1.0}
+medida	{"ud.noun": 1.0}
+medina	{"ud.propn": 1.0}
+medio	{"ud.noun": 0.3333333333333333, "ud.propn": 0.1111111111111111, "ud.adj": 0.4444444444444444, "ud.num": 0.1111111111111111}
+medios	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+medir	{"ud.verb": 1.0}
+mejor	{"ud.noun": 0.07692307692307693, "ud.adv": 0.23076923076923078, "ud.adj": 0.6923076923076923}
+mejores	{"ud.noun": 0.25, "ud.adj": 0.75}
+memoria	{"ud.noun": 1.0}
+menor	{"ud.adj": 0.5, "ud.propn": 0.25, "ud.noun": 0.25}
+menos	{"ud.adv": 1.0}
+mercado	{"ud.noun": 1.0}
+mes	{"ud.noun": 1.0}
+meses	{"ud.noun": 1.0}
+metros	{"ud.noun": 1.0}
+mexicana	{"ud.adj": 1.0}
+mexicano	{"ud.adj": 1.0}
+mi	{"ud.det": 1.0}
+miembro	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+miembros	{"ud.noun": 1.0}
+mientras	{"ud.adv": 0.5217391304347826, "ud.sconj": 0.21739130434782608, "ud.cconj": 0.2608695652173913}
+miguel	{"ud.propn": 1.0}
+mil	{"ud.num": 1.0}
+miles	{"ud.noun": 1.0}
+militares	{"ud.adj": 0.75, "ud.noun": 0.25}
+millas	{"ud.noun": 1.0}
+millones	{"ud.noun": 1.0}
+millón	{"ud.noun": 1.0}
+ministro	{"ud.noun": 1.0}
+ministros	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+minutos	{"ud.noun": 1.0}
+mis	{"ud.det": 1.0}
+misma	{"ud.adj": 0.8, "ud.noun": 0.2}
+mismo	{"ud.adj": 0.782608695652174, "ud.pron": 0.043478260869565216, "ud.noun": 0.17391304347826086}
+misuri	{"ud.propn": 1.0}
+mitad	{"ud.noun": 1.0}
+mm	{"ud.x": 1.0}
+modelo	{"ud.noun": 1.0}
+modelos	{"ud.noun": 1.0}
+modo	{"ud.noun": 1.0}
+momento	{"ud.noun": 1.0}
+momentos	{"ud.noun": 1.0}
+monopolio	{"ud.noun": 1.0}
+montaña	{"ud.noun": 0.75, "ud.propn": 0.25}
+monte	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+motivo	{"ud.noun": 1.0}
+motor	{"ud.noun": 1.0}
+movimiento	{"ud.noun": 1.0}
+muchas	{"ud.det": 0.6666666666666666, "ud.pron": 0.3333333333333333}
+mucho	{"ud.adv": 0.14285714285714285, "ud.det": 0.14285714285714285, "ud.pron": 0.5714285714285714, "ud.adj": 0.14285714285714285}
+muchos	{"ud.pron": 0.16666666666666666, "ud.det": 0.8333333333333334}
+muerte	{"ud.noun": 1.0}
+muerto	{"ud.adj": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+mujer	{"ud.noun": 1.0}
+mujeres	{"ud.noun": 1.0}
+mundial	{"ud.noun": 0.14285714285714285, "ud.propn": 0.5714285714285714, "ud.adj": 0.2857142857142857}
+mundo	{"ud.propn": 0.09090909090909091, "ud.noun": 0.9090909090909091}
+municipio	{"ud.noun": 1.0}
+murió	{"ud.verb": 1.0}
+museo	{"ud.propn": 0.5714285714285714, "ud.noun": 0.42857142857142855}
+musical	{"ud.adj": 1.0}
+musicales	{"ud.adj": 1.0}
+muy	{"ud.adv": 1.0}
+m³	{"ud.noun": 1.0}
+más	{"ud.adv": 1.0}
+máxima	{"ud.adj": 1.0}
+máximo	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+médanos	{"ud.noun": 0.3333333333333333, "ud.propn": 0.6666666666666666}
+méxico	{"ud.propn": 1.0}
+mí	{"ud.pron": 1.0}
+mínima	{"ud.adj": 0.75, "ud.noun": 0.25}
+música	{"ud.noun": 1.0}
+n	{"ud.x": 0.75, "ud.noun": 0.25}
+nacido	{"ud.verb": 1.0}
+nacional	{"ud.adj": 0.55, "ud.propn": 0.45}
+nació	{"ud.verb": 1.0}
+nada	{"ud.pron": 1.0}
+nadie	{"ud.pron": 1.0}
+nativa	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+nativos	{"ud.noun": 0.75, "ud.adj": 0.25}
+natural	{"ud.adj": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+naturaleza	{"ud.noun": 1.0}
+nave	{"ud.noun": 1.0}
+nba	{"ud.propn": 1.0}
+necesario	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+necesarios	{"ud.adj": 1.0}
+negro	{"ud.adj": 0.6666666666666666, "ud.propn": 0.16666666666666666, "ud.noun": 0.16666666666666666}
+ni	{"ud.cconj": 0.9166666666666666, "ud.sconj": 0.08333333333333333}
+ningún	{"ud.det": 1.0}
+nivel	{"ud.noun": 1.0}
+nixon	{"ud.propn": 1.0}
+niños	{"ud.noun": 1.0}
+no	{"ud.adv": 0.9851851851851852, "ud.propn": 0.014814814814814815}
+noche	{"ud.noun": 0.8, "ud.propn": 0.2}
+nombrado	{"ud.verb": 1.0}
+nombre	{"ud.noun": 1.0}
+normal	{"ud.adj": 1.0}
+normandía	{"ud.propn": 1.0}
+norte	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+nos	{"ud.pron": 1.0}
+nosotros	{"ud.pron": 1.0}
+noviembre	{"ud.propn": 1.0}
+nuestros	{"ud.det": 1.0}
+nueva	{"ud.noun": 0.07142857142857142, "ud.propn": 0.7142857142857143, "ud.adj": 0.21428571428571427}
+nuevas	{"ud.adj": 0.8333333333333334, "ud.noun": 0.16666666666666666}
+nueve	{"ud.num": 1.0}
+nuevo	{"ud.adj": 0.9444444444444444, "ud.propn": 0.05555555555555555}
+numerosas	{"ud.adj": 1.0}
+nunca	{"ud.adv": 1.0}
+número	{"ud.noun": 0.9230769230769231, "ud.verb": 0.07692307692307693}
+o	{"ud.cconj": 0.98989898989899, "ud.det": 0.010101010101010102}
+objetivo	{"ud.noun": 1.0}
+obra	{"ud.noun": 1.0}
+obras	{"ud.noun": 1.0}
+obtener	{"ud.verb": 1.0}
+obtenido	{"ud.verb": 1.0}
+obtuvo	{"ud.verb": 1.0}
+ocasiones	{"ud.noun": 1.0}
+occidental	{"ud.adj": 0.75, "ud.propn": 0.25}
+ocho	{"ud.num": 1.0}
+octubre	{"ud.propn": 1.0}
+ocupó	{"ud.verb": 1.0}
+oeste	{"ud.noun": 1.0}
+of	{"ud.x": 0.16666666666666666, "ud.propn": 0.5, "ud.adp": 0.3333333333333333}
+oferta	{"ud.noun": 1.0}
+oficial	{"ud.noun": 0.14285714285714285, "ud.adj": 0.8571428571428571}
+oficialmente	{"ud.adv": 1.0}
+oficina	{"ud.noun": 0.9, "ud.propn": 0.1}
+ofrece	{"ud.verb": 1.0}
+ofrecen	{"ud.verb": 1.0}
+ofreció	{"ud.verb": 1.0}
+ohio	{"ud.propn": 1.0}
+on	{"ud.adp": 0.3333333333333333, "ud.propn": 0.6666666666666666}
+opción	{"ud.noun": 1.0}
+operación	{"ud.noun": 0.5, "ud.propn": 0.5}
+oportunidad	{"ud.noun": 1.0}
+orden	{"ud.noun": 1.0}
+organizaciones	{"ud.noun": 1.0}
+organización	{"ud.noun": 0.9, "ud.propn": 0.1}
+oriental	{"ud.adj": 1.0}
+origen	{"ud.noun": 1.0}
+original	{"ud.adj": 0.75, "ud.noun": 0.25}
+oro	{"ud.noun": 0.75, "ud.propn": 0.25}
+orquesta	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+ortiz	{"ud.propn": 1.0}
+otra	{"ud.det": 0.42857142857142855, "ud.pron": 0.5714285714285714}
+otras	{"ud.det": 0.9130434782608695, "ud.pron": 0.08695652173913043}
+otro	{"ud.det": 0.7222222222222222, "ud.pron": 0.2777777777777778}
+otros	{"ud.pron": 0.14285714285714285, "ud.det": 0.8571428571428571}
+p.	{"ud.propn": 1.0}
+pacientes	{"ud.noun": 1.0}
+pacífico	{"ud.propn": 1.0}
+padre	{"ud.noun": 1.0}
+padres	{"ud.noun": 1.0}
+palabra	{"ud.noun": 1.0}
+palacio	{"ud.noun": 0.3333333333333333, "ud.propn": 0.6666666666666666}
+pan	{"ud.noun": 1.0}
+papel	{"ud.noun": 1.0}
+para	{"ud.adp": 0.8722222222222222, "ud.sconj": 0.12222222222222222, "ud.cconj": 0.005555555555555556}
+paraguay	{"ud.propn": 1.0}
+parece	{"ud.verb": 1.0}
+parecido	{"ud.adj": 0.3333333333333333, "ud.noun": 0.3333333333333333, "ud.verb": 0.3333333333333333}
+parecía	{"ud.verb": 1.0}
+parejas	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+parlamento	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+parque	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+parte	{"ud.noun": 1.0}
+partes	{"ud.noun": 0.75, "ud.propn": 0.25}
+participó	{"ud.verb": 1.0}
+particular	{"ud.adj": 1.0}
+partido	{"ud.noun": 0.75, "ud.propn": 0.25}
+partidos	{"ud.noun": 1.0}
+partir	{"ud.verb": 1.0}
+parís	{"ud.propn": 1.0}
+pasado	{"ud.verb": 0.16666666666666666, "ud.adj": 0.5, "ud.noun": 0.3333333333333333}
+pasando	{"ud.verb": 1.0}
+pasar	{"ud.verb": 1.0}
+paso	{"ud.noun": 1.0}
+pasó	{"ud.verb": 1.0}
+patinaje	{"ud.noun": 1.0}
+país	{"ud.noun": 0.9, "ud.propn": 0.1}
+países	{"ud.noun": 0.8, "ud.propn": 0.2}
+pedidos	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+pedro	{"ud.propn": 1.0}
+película	{"ud.noun": 1.0}
+películas	{"ud.noun": 1.0}
+pensar	{"ud.verb": 1.0}
+pequeña	{"ud.adj": 1.0}
+pequeño	{"ud.adj": 1.0}
+pequeños	{"ud.adj": 1.0}
+per	{"ud.adp": 0.75, "ud.x": 0.25}
+perfectamente	{"ud.adv": 1.0}
+permite	{"ud.verb": 1.0}
+permitió	{"ud.verb": 1.0}
+pero	{"ud.cconj": 0.9636363636363636, "ud.noun": 0.03636363636363636}
+persona	{"ud.noun": 1.0}
+personaje	{"ud.noun": 1.0}
+personal	{"ud.adj": 0.25, "ud.noun": 0.625, "ud.propn": 0.125}
+personas	{"ud.noun": 1.0}
+pertenece	{"ud.verb": 1.0}
+perteneciente	{"ud.adj": 0.875, "ud.verb": 0.125}
+pertenecían	{"ud.verb": 1.0}
+perú	{"ud.propn": 1.0}
+pesar	{"ud.noun": 1.0}
+pese	{"ud.verb": 1.0}
+pesos	{"ud.noun": 1.0}
+petición	{"ud.noun": 1.0}
+pidió	{"ud.verb": 1.0}
+pie	{"ud.noun": 1.0}
+piedra	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+pies	{"ud.noun": 1.0}
+pintor	{"ud.noun": 1.0}
+planta	{"ud.noun": 1.0}
+plataforma	{"ud.noun": 1.0}
+platos	{"ud.noun": 1.0}
+plaza	{"ud.noun": 1.0}
+plazas	{"ud.noun": 1.0}
+poblacional	{"ud.adj": 1.0}
+población	{"ud.noun": 1.0}
+poco	{"ud.adv": 0.21428571428571427, "ud.det": 0.21428571428571427, "ud.pron": 0.5714285714285714}
+poder	{"ud.aux": 0.375, "ud.noun": 0.625}
+poderes	{"ud.noun": 1.0}
+podrán	{"ud.aux": 1.0}
+podría	{"ud.aux": 1.0}
+podía	{"ud.aux": 1.0}
+poesía	{"ud.noun": 1.0}
+política	{"ud.noun": 0.5714285714285714, "ud.adj": 0.42857142857142855}
+político	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+poner	{"ud.verb": 1.0}
+popular	{"ud.adj": 0.8, "ud.propn": 0.2}
+populares	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+por	{"ud.adp": 0.9971014492753624, "ud.sconj": 0.002898550724637681}
+porque	{"ud.sconj": 1.0}
+posibilidad	{"ud.noun": 1.0}
+posible	{"ud.adj": 1.0}
+posteriormente	{"ud.adv": 1.0}
+precio	{"ud.noun": 1.0}
+premio	{"ud.noun": 1.0}
+presencia	{"ud.noun": 1.0}
+presenta	{"ud.verb": 1.0}
+presentan	{"ud.verb": 1.0}
+presentes	{"ud.adj": 1.0}
+presidente	{"ud.noun": 1.0}
+presupuesto	{"ud.noun": 1.0}
+pretende	{"ud.verb": 1.0}
+primer	{"ud.propn": 0.043478260869565216, "ud.adj": 0.9565217391304348}
+primera	{"ud.adj": 0.95, "ud.noun": 0.05}
+primero	{"ud.noun": 0.6666666666666666, "ud.adv": 0.3333333333333333}
+primeros	{"ud.noun": 0.14285714285714285, "ud.adj": 0.8571428571428571}
+principal	{"ud.adj": 0.9166666666666666, "ud.propn": 0.08333333333333333}
+principales	{"ud.noun": 0.14285714285714285, "ud.adj": 0.8571428571428571}
+principalmente	{"ud.adv": 1.0}
+principio	{"ud.noun": 1.0}
+privado	{"ud.adj": 1.0}
+probable	{"ud.adj": 1.0}
+problema	{"ud.noun": 1.0}
+problemas	{"ud.noun": 1.0}
+proceso	{"ud.noun": 1.0}
+producción	{"ud.noun": 1.0}
+produce	{"ud.verb": 1.0}
+producido	{"ud.verb": 1.0}
+producto	{"ud.noun": 1.0}
+productos	{"ud.noun": 1.0}
+produjo	{"ud.verb": 1.0}
+profesional	{"ud.adj": 1.0}
+profundidad	{"ud.noun": 1.0}
+programa	{"ud.noun": 1.0}
+programas	{"ud.noun": 1.0}
+prohibido	{"ud.adj": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+pronto	{"ud.adv": 1.0}
+propia	{"ud.adj": 1.0}
+propias	{"ud.adj": 1.0}
+propiedades	{"ud.noun": 1.0}
+propio	{"ud.adj": 1.0}
+propios	{"ud.adj": 1.0}
+provincia	{"ud.noun": 1.0}
+provincias	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+proyecto	{"ud.noun": 1.0}
+prueba	{"ud.noun": 1.0}
+práctica	{"ud.noun": 1.0}
+prácticamente	{"ud.adv": 1.0}
+príncipe	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+próximo	{"ud.adj": 1.0}
+publicado	{"ud.verb": 1.0}
+pudieron	{"ud.aux": 1.0}
+pudo	{"ud.aux": 0.8, "ud.verb": 0.2}
+pueblo	{"ud.noun": 1.0}
+pueda	{"ud.aux": 1.0}
+puede	{"ud.aux": 1.0}
+pueden	{"ud.aux": 1.0}
+puente	{"ud.noun": 1.0}
+puertas	{"ud.noun": 1.0}
+puerto	{"ud.noun": 0.5, "ud.propn": 0.5}
+pues	{"ud.sconj": 0.6666666666666666, "ud.cconj": 0.3333333333333333}
+puesto	{"ud.verb": 0.75, "ud.noun": 0.25}
+punta	{"ud.propn": 0.2, "ud.noun": 0.8}
+punto	{"ud.noun": 1.0}
+puntos	{"ud.noun": 1.0}
+pérdida	{"ud.noun": 1.0}
+pública	{"ud.adj": 1.0}
+público	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+públicos	{"ud.adj": 1.0}
+que	{"ud.sconj": 0.8198757763975155, "ud.pron": 0.10093167701863354, "ud.cconj": 0.07763975155279502, "ud.x": 0.0015527950310559005}
+quedar	{"ud.verb": 1.0}
+quedarse	{"ud._": 1.0}
+quedó	{"ud.verb": 1.0}
+quien	{"ud.pron": 1.0}
+quienes	{"ud.noun": 0.5, "ud.pron": 0.5}
+quiere	{"ud.verb": 1.0}
+quieren	{"ud.verb": 1.0}
+quizás	{"ud.adv": 1.0}
+qué	{"ud.pron": 1.0}
+razas	{"ud.noun": 1.0}
+razón	{"ud.noun": 1.0}
+raíz	{"ud.noun": 1.0}
+real	{"ud.propn": 0.6, "ud.adj": 0.4}
+realidad	{"ud.noun": 1.0}
+realiza	{"ud.verb": 1.0}
+realizan	{"ud.verb": 1.0}
+realizar	{"ud.verb": 1.0}
+realizó	{"ud.verb": 1.0}
+recibe	{"ud.verb": 1.0}
+recibió	{"ud.verb": 1.0}
+reciente	{"ud.adj": 1.0}
+records	{"ud.propn": 1.0}
+red	{"ud.propn": 0.125, "ud.noun": 0.875}
+reducir	{"ud.verb": 1.0}
+reformas	{"ud.noun": 1.0}
+región	{"ud.noun": 1.0}
+regresó	{"ud.verb": 1.0}
+regular	{"ud.verb": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+reinado	{"ud.noun": 1.0}
+reino	{"ud.propn": 0.6, "ud.noun": 0.4}
+relaciones	{"ud.noun": 1.0}
+relación	{"ud.noun": 1.0}
+relativamente	{"ud.adv": 1.0}
+religiosa	{"ud.adj": 1.0}
+renault	{"ud.propn": 1.0}
+representa	{"ud.verb": 1.0}
+representado	{"ud.verb": 1.0}
+república	{"ud.noun": 0.5, "ud.propn": 0.5}
+reservas	{"ud.noun": 1.0}
+residiendo	{"ud.verb": 1.0}
+respecto	{"ud.noun": 1.0}
+responsable	{"ud.noun": 0.75, "ud.adj": 0.25}
+restauración	{"ud.noun": 1.0}
+restaurante	{"ud.propn": 0.2, "ud.noun": 0.8}
+resto	{"ud.noun": 1.0}
+resultado	{"ud.noun": 1.0}
+reunión	{"ud.noun": 1.0}
+revista	{"ud.noun": 0.8, "ud.propn": 0.2}
+revolución	{"ud.propn": 0.16666666666666666, "ud.noun": 0.8333333333333334}
+rey	{"ud.noun": 0.6428571428571429, "ud.propn": 0.35714285714285715}
+robert	{"ud.propn": 1.0}
+rock	{"ud.propn": 0.42857142857142855, "ud.noun": 0.5714285714285714}
+roger	{"ud.propn": 1.0}
+rojo	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+roma	{"ud.propn": 1.0}
+romano	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+rompe	{"ud.verb": 1.0}
+roosevelt	{"ud.propn": 1.0}
+rosa	{"ud.propn": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+royal	{"ud.propn": 1.0}
+rusia	{"ud.propn": 1.0}
+ruso	{"ud.noun": 0.42857142857142855, "ud.adj": 0.42857142857142855, "ud.part": 0.14285714285714285}
+ruta	{"ud.propn": 0.75, "ud.noun": 0.25}
+rápida	{"ud.adj": 1.0}
+río	{"ud.noun": 0.8571428571428571, "ud.verb": 0.07142857142857142, "ud.propn": 0.07142857142857142}
+sabe	{"ud.verb": 1.0}
+sabor	{"ud.noun": 1.0}
+saga	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+saint	{"ud.propn": 1.0}
+sala	{"ud.noun": 1.0}
+sale	{"ud.verb": 1.0}
+salen	{"ud.verb": 1.0}
+salsa	{"ud.noun": 1.0}
+san	{"ud.propn": 1.0}
+sangre	{"ud.noun": 1.0}
+santa	{"ud.adj": 0.1111111111111111, "ud.propn": 0.8888888888888888}
+santiago	{"ud.propn": 1.0}
+se	{"ud.pron": 1.0}
+sea	{"ud.aux": 0.25, "ud.verb": 0.75}
+secretario	{"ud.propn": 0.2, "ud.noun": 0.8}
+secreto	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+sector	{"ud.noun": 1.0}
+sectores	{"ud.noun": 1.0}
+sede	{"ud.noun": 1.0}
+segunda	{"ud.propn": 0.3076923076923077, "ud.noun": 0.15384615384615385, "ud.adj": 0.5384615384615384}
+segundo	{"ud.adj": 0.9, "ud.noun": 0.1}
+seguridad	{"ud.propn": 0.4, "ud.noun": 0.6}
+seguro	{"ud.adj": 0.3333333333333333, "ud.noun": 0.3333333333333333, "ud.propn": 0.3333333333333333}
+según	{"ud.adp": 0.8846153846153846, "ud.sconj": 0.11538461538461539}
+seis	{"ud.num": 1.0}
+selección	{"ud.noun": 1.0}
+sello	{"ud.noun": 1.0}
+semana	{"ud.noun": 1.0}
+semanas	{"ud.noun": 1.0}
+senegal	{"ud.propn": 1.0}
+sentido	{"ud.noun": 1.0}
+septiembre	{"ud.propn": 1.0}
+ser	{"ud.aux": 0.86, "ud.verb": 0.06, "ud.x": 0.02, "ud.noun": 0.06}
+serie	{"ud.noun": 0.9166666666666666, "ud.propn": 0.08333333333333333}
+servicio	{"ud.noun": 1.0}
+servicios	{"ud.noun": 1.0}
+será	{"ud.aux": 0.7777777777777778, "ud.verb": 0.2222222222222222}
+sería	{"ud.aux": 0.9, "ud.verb": 0.1}
+señal	{"ud.noun": 1.0}
+señaló	{"ud.verb": 1.0}
+show	{"ud.noun": 1.0}
+si	{"ud.sconj": 0.896551724137931, "ud.x": 0.034482758620689655, "ud.adv": 0.034482758620689655, "ud.cconj": 0.034482758620689655}
+sido	{"ud.aux": 0.9473684210526315, "ud.verb": 0.05263157894736842}
+siempre	{"ud.adv": 1.0}
+siendo	{"ud.aux": 1.0}
+siglo	{"ud.noun": 1.0}
+siglos	{"ud.noun": 1.0}
+sigue	{"ud.verb": 1.0}
+siguiendo	{"ud.verb": 1.0}
+siguiente	{"ud.adj": 0.75, "ud.noun": 0.25}
+siguientes	{"ud.adj": 1.0}
+similares	{"ud.adj": 1.0}
+simplemente	{"ud.adv": 1.0}
+simón	{"ud.propn": 1.0}
+sin	{"ud.adp": 1.0}
+sino	{"ud.cconj": 0.9166666666666666, "ud.adv": 0.08333333333333333}
+sistema	{"ud.noun": 1.0}
+sistemas	{"ud.noun": 1.0}
+sitio	{"ud.noun": 1.0}
+situación	{"ud.noun": 1.0}
+situada	{"ud.verb": 0.8888888888888888, "ud.noun": 0.1111111111111111}
+situado	{"ud.verb": 0.8, "ud.adj": 0.2}
+sobre	{"ud.adp": 1.0}
+social	{"ud.adj": 1.0}
+sociedad	{"ud.noun": 1.0}
+solamente	{"ud.adv": 1.0}
+soldados	{"ud.noun": 1.0}
+solo	{"ud.adv": 0.7692307692307693, "ud.adj": 0.23076923076923078}
+son	{"ud.aux": 0.9302325581395349, "ud.verb": 0.06976744186046512}
+soviética	{"ud.propn": 0.75, "ud.adj": 0.25}
+su	{"ud.det": 1.0}
+sudáfrica	{"ud.propn": 1.0}
+suele	{"ud.verb": 1.0}
+suelos	{"ud.noun": 1.0}
+sueño	{"ud.noun": 1.0}
+superficie	{"ud.noun": 1.0}
+superior	{"ud.propn": 0.25, "ud.adj": 0.75}
+suplemento	{"ud.noun": 1.0}
+supuesto	{"ud.verb": 0.25, "ud.adj": 0.25, "ud.noun": 0.5}
+sur	{"ud.propn": 0.2857142857142857, "ud.noun": 0.6190476190476191, "ud.adp": 0.09523809523809523}
+suroeste	{"ud.noun": 1.0}
+sus	{"ud.det": 1.0}
+sustitución	{"ud.noun": 1.0}
+séptima	{"ud.noun": 0.5, "ud.adj": 0.5}
+símbolo	{"ud.noun": 1.0}
+sólo	{"ud.adv": 1.0}
+tal	{"ud.adj": 0.6, "ud.adv": 0.3, "ud.pron": 0.1}
+tallo	{"ud.noun": 1.0}
+tamaño	{"ud.noun": 1.0}
+tambien	{"ud.adv": 1.0}
+también	{"ud.adv": 1.0}
+tan	{"ud.adv": 1.0}
+tanto	{"ud.pron": 0.68, "ud.det": 0.12, "ud.adv": 0.16, "ud.cconj": 0.04}
+tarde	{"ud.adv": 0.7894736842105263, "ud.noun": 0.15789473684210525, "ud.propn": 0.05263157894736842}
+tarjeta	{"ud.noun": 1.0}
+te	{"ud.pron": 1.0}
+teclados	{"ud.noun": 1.0}
+tecnología	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+telefónica	{"ud.adj": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+televisión	{"ud.propn": 0.2, "ud.noun": 0.8}
+tema	{"ud.noun": 0.9, "ud.propn": 0.1}
+temas	{"ud.noun": 1.0}
+temporada	{"ud.noun": 1.0}
+temporadas	{"ud.noun": 1.0}
+tener	{"ud.verb": 1.0}
+tenga	{"ud.verb": 0.6666666666666666, "ud.aux": 0.3333333333333333}
+tengan	{"ud.verb": 1.0}
+teniendo	{"ud.verb": 1.0}
+tenía	{"ud.verb": 0.9523809523809523, "ud.aux": 0.047619047619047616}
+tenían	{"ud.verb": 1.0}
+tercer	{"ud.adj": 1.0}
+tercera	{"ud.adj": 0.875, "ud.propn": 0.125}
+teresa	{"ud.propn": 1.0}
+terminar	{"ud.verb": 1.0}
+territorio	{"ud.noun": 1.0}
+the	{"ud.propn": 0.5714285714285714, "ud.det": 0.38095238095238093, "ud.x": 0.047619047619047616}
+tiempo	{"ud.noun": 1.0}
+tienda	{"ud.noun": 1.0}
+tiene	{"ud.verb": 1.0}
+tienen	{"ud.verb": 1.0}
+tierra	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+tierras	{"ud.noun": 1.0}
+tipo	{"ud.noun": 1.0}
+tipos	{"ud.noun": 1.0}
+tocar	{"ud.verb": 1.0}
+toda	{"ud.det": 1.0}
+todas	{"ud.det": 1.0}
+todavía	{"ud.adv": 1.0}
+todo	{"ud.pron": 0.5161290322580645, "ud.det": 0.4838709677419355}
+todos	{"ud.det": 0.8888888888888888, "ud.pron": 0.1111111111111111}
+tomada	{"ud.verb": 1.0}
+tomar	{"ud.verb": 1.0}
+top	{"ud.propn": 0.8, "ud.x": 0.2}
+torno	{"ud.noun": 1.0}
+torre	{"ud.propn": 0.4, "ud.noun": 0.6}
+total	{"ud.adj": 0.5833333333333334, "ud.noun": 0.4166666666666667}
+totalmente	{"ud.adv": 1.0}
+tour	{"ud.propn": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+township	{"ud.propn": 1.0}
+trabajadores	{"ud.noun": 1.0}
+trabajar	{"ud.verb": 1.0}
+trabajo	{"ud.noun": 0.8571428571428571, "ud.propn": 0.14285714285714285}
+trabajos	{"ud.noun": 1.0}
+tramo	{"ud.noun": 1.0}
+transporte	{"ud.noun": 0.6666666666666666, "ud.propn": 0.3333333333333333}
+tras	{"ud.adp": 1.0}
+trasladó	{"ud.verb": 1.0}
+trata	{"ud.verb": 1.0}
+trato	{"ud.noun": 0.75, "ud.verb": 0.25}
+través	{"ud.noun": 1.0}
+tres	{"ud.num": 0.92, "ud.propn": 0.04, "ud.noun": 0.04}
+turquía	{"ud.propn": 1.0}
+tuvieron	{"ud.verb": 0.6666666666666666, "ud.aux": 0.3333333333333333}
+tuvo	{"ud.verb": 0.7272727272727273, "ud.aux": 0.2727272727272727}
+tv	{"ud.propn": 1.0}
+técnico	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+títulos	{"ud.noun": 1.0}
+ubicación	{"ud.noun": 1.0}
+ubicada	{"ud.verb": 1.0}
+ubicado	{"ud.verb": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+un	{"ud.det": 0.9806094182825484, "ud.num": 0.019390581717451522}
+una	{"ud.det": 0.9399293286219081, "ud.num": 0.014134275618374558, "ud.pron": 0.045936395759717315}
+unas	{"ud.det": 1.0}
+une	{"ud.verb": 1.0}
+unidades	{"ud.noun": 1.0}
+unido	{"ud.propn": 0.8333333333333334, "ud.verb": 0.16666666666666666}
+unidos	{"ud.propn": 0.875, "ud.verb": 0.0625, "ud.adj": 0.0625}
+uniforme	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+unir	{"ud.verb": 1.0}
+universidad	{"ud.noun": 0.2, "ud.propn": 0.8}
+unión	{"ud.propn": 0.5, "ud.noun": 0.5}
+uno	{"ud.pron": 1.0}
+unos	{"ud.det": 0.9090909090909091, "ud.pron": 0.09090909090909091}
+uruguay	{"ud.propn": 1.0}
+usado	{"ud.verb": 1.0}
+uso	{"ud.noun": 1.0}
+utiliza	{"ud.verb": 1.0}
+v.	{"ud.num": 0.3333333333333333, "ud.x": 0.3333333333333333, "ud.adp": 0.3333333333333333}
+va	{"ud.aux": 0.625, "ud.verb": 0.375}
+valencia	{"ud.propn": 1.0}
+valle	{"ud.propn": 0.75, "ud.noun": 0.25}
+valor	{"ud.noun": 1.0}
+varias	{"ud.det": 1.0}
+variedad	{"ud.noun": 1.0}
+varios	{"ud.pron": 0.047619047619047616, "ud.det": 0.9523809523809523}
+ve	{"ud.verb": 1.0}
+veces	{"ud.noun": 1.0}
+vecinas	{"ud.adj": 1.0}
+vega	{"ud.noun": 0.6, "ud.propn": 0.4}
+velocidad	{"ud.noun": 1.0}
+venta	{"ud.propn": 0.25, "ud.noun": 0.75}
+ver	{"ud.verb": 1.0}
+verano	{"ud.noun": 1.0}
+verdad	{"ud.noun": 1.0}
+verdadero	{"ud.adj": 1.0}
+verde	{"ud.adj": 1.0}
+versiones	{"ud.noun": 1.0}
+versión	{"ud.noun": 1.0}
+vez	{"ud.noun": 1.0}
+viaje	{"ud.noun": 1.0}
+vicente	{"ud.propn": 1.0}
+victoria	{"ud.noun": 0.75, "ud.propn": 0.25}
+vida	{"ud.noun": 1.0}
+video	{"ud.noun": 1.0}
+viejo	{"ud.propn": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+viene	{"ud.verb": 1.0}
+virgen	{"ud.propn": 0.4444444444444444, "ud.noun": 0.5555555555555556}
+visitar	{"ud.verb": 1.0}
+vista	{"ud.noun": 1.0}
+vive	{"ud.verb": 1.0}
+viviendas	{"ud.noun": 1.0}
+vivir	{"ud.verb": 1.0}
+vivo	{"ud.noun": 0.5, "ud.adj": 0.25, "ud.verb": 0.25}
+volver	{"ud.verb": 1.0}
+volvió	{"ud.verb": 1.0}
+voz	{"ud.noun": 0.6, "ud.propn": 0.4}
+vuelta	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+vuelve	{"ud.verb": 1.0}
+washington	{"ud.propn": 1.0}
+web	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+west	{"ud.x": 0.25, "ud.propn": 0.75}
+world	{"ud.propn": 1.0}
+x	{"ud.propn": 0.25, "ud.x": 0.5, "ud.num": 0.25}
+y	{"ud.cconj": 1.0}
+ya	{"ud.x": 0.0975609756097561, "ud.adv": 0.9024390243902439}
+yo	{"ud.pron": 1.0}
+york	{"ud.propn": 1.0}
+zaragoza	{"ud.propn": 1.0}
+zona	{"ud.noun": 0.9230769230769231, "ud.propn": 0.07692307692307693}
+ª	{"ud.sym": 1.0}
+«	{"ud.punct": 1.0}
+²	{"ud.sym": 0.8518518518518519, "ud.num": 0.1111111111111111, "ud.x": 0.037037037037037035}
+º	{"ud.sym": 1.0}
+»	{"ud.punct": 1.0}
+¿	{"ud.punct": 1.0}
+ácido	{"ud.propn": 0.5, "ud.noun": 0.5}
+áfrica	{"ud.propn": 1.0}
+álbum	{"ud.noun": 0.9090909090909091, "ud.propn": 0.09090909090909091}
+árabes	{"ud.propn": 0.25, "ud.noun": 0.5, "ud.adj": 0.25}
+área	{"ud.noun": 1.0}
+áreas	{"ud.noun": 1.0}
+átomo	{"ud.noun": 1.0}
+él	{"ud.pron": 1.0}
+época	{"ud.noun": 1.0}
+éste	{"ud.pron": 0.8, "ud.det": 0.2}
+éxito	{"ud.noun": 1.0}
+órdenes	{"ud.noun": 1.0}
+última	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+último	{"ud.adj": 0.45454545454545453, "ud.noun": 0.5454545454545454}
+últimos	{"ud.adj": 1.0}
+única	{"ud.adj": 0.8571428571428571, "ud.noun": 0.14285714285714285}
+único	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}

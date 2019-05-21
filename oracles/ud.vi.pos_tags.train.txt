@@ -1,0 +1,1112 @@
+!	{"ud.punct": 1.0}
+"	{"ud.punct": 1.0}
+%	{"ud.num": 0.125, "ud.noun": 0.875}
+&	{"ud.sconj": 0.14285714285714285, "ud.noun": 0.5714285714285714, "ud.x": 0.2857142857142857}
+,	{"ud.punct": 1.0}
+-	{"ud.punct": 1.0}
+.	{"ud.punct": 1.0}
+...	{"ud.punct": 1.0}
+1	{"ud.num": 1.0}
+10	{"ud.num": 1.0}
+11	{"ud.num": 1.0}
+12	{"ud.num": 1.0}
+13	{"ud.num": 1.0}
+15	{"ud.num": 1.0}
+2	{"ud.num": 1.0}
+20	{"ud.num": 1.0}
+2003	{"ud.num": 1.0}
+2004	{"ud.num": 1.0}
+23	{"ud.num": 1.0}
+3	{"ud.num": 1.0}
+30	{"ud.num": 1.0}
+39	{"ud.num": 1.0}
+4	{"ud.num": 1.0}
+40	{"ud.num": 1.0}
+5	{"ud.num": 1.0}
+500	{"ud.num": 1.0}
+7	{"ud.num": 1.0}
+8	{"ud.num": 1.0}
+84 . 4	{"ud.num": 1.0}
+9	{"ud.num": 1.0}
+90	{"ud.num": 1.0}
+:	{"ud.punct": 1.0}
+?	{"ud.punct": 1.0}
+ai	{"ud.propn": 1.0}
+an toàn	{"ud.adj": 0.6666666666666666, "ud.noun": 0.16666666666666666, "ud.verb": 0.16666666666666666}
+anh	{"ud.noun": 1.0}
+anh em	{"ud.noun": 1.0}
+anh ta	{"ud.noun": 1.0}
+anh trai	{"ud.noun": 1.0}
+ba	{"ud.num": 1.0}
+ba gác	{"ud.noun": 1.0}
+ban	{"ud.noun": 1.0}
+ban đầu	{"ud.noun": 1.0}
+bao	{"ud.noun": 1.0}
+bao giờ	{"ud.propn": 1.0}
+bao nhiêu	{"ud.propn": 1.0}
+biên bản	{"ud.noun": 1.0}
+biến	{"ud.verb": 1.0}
+biết	{"ud.verb": 1.0}
+biểu hiện	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+biện pháp	{"ud.noun": 1.0}
+bom	{"ud.noun": 1.0}
+buông	{"ud.verb": 1.0}
+buồn	{"ud.adj": 0.5, "ud.verb": 0.5}
+buồng	{"ud.noun": 1.0}
+buổi	{"ud.noun": 1.0}
+bà	{"ud.noun": 0.989010989010989, "ud.propn": 0.01098901098901099}
+bà con	{"ud.noun": 1.0}
+bài	{"ud.noun": 1.0}
+bàn	{"ud.verb": 1.0}
+bày tỏ	{"ud.verb": 1.0}
+bác	{"ud.noun": 1.0}
+bác sĩ	{"ud.noun": 1.0}
+bán	{"ud.verb": 1.0}
+báo	{"ud.noun": 0.7692307692307693, "ud.verb": 0.23076923076923078}
+báo cáo	{"ud.verb": 0.8, "ud.noun": 0.2}
+bây giờ	{"ud.propn": 0.875, "ud.noun": 0.125}
+bên	{"ud.noun": 0.8484848484848485, "ud.adp": 0.15151515151515152}
+bêtông	{"ud.noun": 1.0}
+bình	{"ud.noun": 1.0}
+bình dương	{"ud.noun": 1.0}
+bình thường	{"ud.adj": 1.0}
+bình triệu	{"ud.noun": 1.0}
+bình yên	{"ud.adj": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+bí mật	{"ud.noun": 0.75, "ud.adj": 0.25}
+bóng	{"ud.noun": 1.0}
+bù loong	{"ud.noun": 1.0}
+bùn	{"ud.noun": 1.0}
+băn khoăn	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+băng	{"ud.noun": 1.0}
+bưu điện	{"ud.noun": 1.0}
+bước	{"ud.noun": 0.4, "ud.verb": 0.6}
+bạn	{"ud.noun": 1.0}
+bạn bè	{"ud.noun": 1.0}
+bản	{"ud.noun": 1.0}
+bảng	{"ud.noun": 1.0}
+bảo	{"ud.verb": 1.0}
+bảo hiểm	{"ud.noun": 0.7777777777777778, "ud.verb": 0.2222222222222222}
+bảo vệ	{"ud.verb": 0.9, "ud.noun": 0.1}
+bảy	{"ud.num": 1.0}
+bấm	{"ud.verb": 1.0}
+bất cứ	{"ud.x": 1.0}
+bất ngờ	{"ud.adj": 1.0}
+bắt	{"ud.verb": 1.0}
+bắt đầu	{"ud.verb": 1.0}
+bằng	{"ud.adp": 0.7619047619047619, "ud.noun": 0.23809523809523808}
+bể	{"ud.verb": 1.0}
+bệnh	{"ud.noun": 1.0}
+bệnh viện	{"ud.noun": 1.0}
+bị	{"ud.verb": 1.0}
+bị cáo	{"ud.noun": 1.0}
+bọn	{"ud.noun": 1.0}
+bỏ	{"ud.verb": 1.0}
+bố	{"ud.noun": 1.0}
+bố mẹ	{"ud.noun": 1.0}
+bốn	{"ud.num": 1.0}
+bỗng	{"ud.x": 1.0}
+bộ	{"ud.noun": 1.0}
+bộ máy	{"ud.noun": 1.0}
+bộ phận	{"ud.noun": 1.0}
+bộ trưởng	{"ud.noun": 1.0}
+bộ đội	{"ud.noun": 1.0}
+bờ	{"ud.noun": 1.0}
+bởi	{"ud.adp": 0.7777777777777778, "ud.cconj": 0.2222222222222222}
+cao	{"ud.adj": 1.0}
+cha	{"ud.noun": 1.0}
+chia	{"ud.verb": 1.0}
+chia sẻ	{"ud.verb": 1.0}
+chia tay	{"ud.verb": 1.0}
+chiếc	{"ud.noun": 1.0}
+chiến tranh	{"ud.noun": 1.0}
+chiều	{"ud.noun": 1.0}
+cho	{"ud.adp": 0.6015625, "ud.verb": 0.3828125, "ud.x": 0.015625}
+cho phép	{"ud.verb": 1.0}
+chung	{"ud.adj": 1.0}
+chuyển	{"ud.verb": 1.0}
+chuyện	{"ud.noun": 1.0}
+chuông	{"ud.noun": 1.0}
+cháu	{"ud.noun": 1.0}
+cháy	{"ud.verb": 0.8571428571428571, "ud.noun": 0.14285714285714285}
+chân	{"ud.noun": 1.0}
+chén	{"ud.noun": 1.0}
+chìm xuồng	{"ud.x": 1.0}
+chính	{"ud.part": 0.8181818181818182, "ud.x": 0.09090909090909091, "ud.adj": 0.09090909090909091}
+chính phủ	{"ud.noun": 1.0}
+chính quyền	{"ud.noun": 1.0}
+chính sách	{"ud.noun": 1.0}
+chính đáng	{"ud.adj": 1.0}
+chú trọng	{"ud.verb": 1.0}
+chúng	{"ud.propn": 1.0}
+chúng ta	{"ud.propn": 1.0}
+chúng tôi	{"ud.propn": 0.9615384615384616, "ud.noun": 0.038461538461538464}
+chăm sóc	{"ud.verb": 1.0}
+chưa	{"ud.x": 1.0}
+chương trình	{"ud.noun": 1.0}
+chạy	{"ud.verb": 1.0}
+chảy	{"ud.verb": 1.0}
+chấm dứt	{"ud.verb": 1.0}
+chấp nhận	{"ud.verb": 1.0}
+chất độc	{"ud.noun": 1.0}
+chậm	{"ud.adj": 1.0}
+chắc	{"ud.adj": 1.0}
+chắc chắn	{"ud.verb": 0.2857142857142857, "ud.adj": 0.7142857142857143}
+chẳng	{"ud.x": 1.0}
+chặt	{"ud.adj": 1.0}
+chết	{"ud.verb": 1.0}
+chỉ	{"ud.x": 0.9642857142857143, "ud.verb": 0.017857142857142856, "ud.noun": 0.017857142857142856}
+chị	{"ud.noun": 1.0}
+chịu	{"ud.verb": 1.0}
+chọn	{"ud.verb": 1.0}
+chống	{"ud.verb": 1.0}
+chồng	{"ud.noun": 1.0}
+chỗ	{"ud.noun": 1.0}
+chờ	{"ud.verb": 1.0}
+chở	{"ud.verb": 1.0}
+chợ	{"ud.noun": 1.0}
+chợt	{"ud.x": 1.0}
+chục	{"ud.num": 1.0}
+chủ	{"ud.noun": 1.0}
+chủ trương	{"ud.noun": 0.9285714285714286, "ud.verb": 0.07142857142857142}
+chủ tịch	{"ud.noun": 1.0}
+chứng cứ	{"ud.noun": 1.0}
+chứng kiến	{"ud.verb": 1.0}
+chứng minh	{"ud.verb": 1.0}
+chữ	{"ud.noun": 1.0}
+con	{"ud.noun": 0.963855421686747, "ud.adj": 0.03614457831325301}
+con gái	{"ud.noun": 1.0}
+con người	{"ud.noun": 1.0}
+csgt	{"ud.noun": 1.0}
+cuốc	{"ud.noun": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+cuối	{"ud.noun": 0.75, "ud.adj": 0.25}
+cuối cùng	{"ud.adj": 1.0}
+cuộc	{"ud.noun": 1.0}
+cuộc sống	{"ud.noun": 1.0}
+cuộc đời	{"ud.noun": 1.0}
+cà phê	{"ud.noun": 1.0}
+càng	{"ud.x": 1.0}
+cá	{"ud.noun": 1.0}
+các	{"ud.det": 1.0}
+cách	{"ud.noun": 0.5882352941176471, "ud.verb": 0.4117647058823529}
+cách mạng	{"ud.noun": 1.0}
+cái	{"ud.noun": 1.0}
+cán bộ	{"ud.noun": 1.0}
+cát	{"ud.noun": 1.0}
+cân nhắc	{"ud.verb": 1.0}
+câu	{"ud.noun": 1.0}
+câu chuyện	{"ud.noun": 1.0}
+cây	{"ud.noun": 1.0}
+còn	{"ud.verb": 0.2786885245901639, "ud.cconj": 0.26229508196721313, "ud.x": 0.45901639344262296}
+có	{"ud.verb": 0.9400921658986175, "ud.x": 0.059907834101382486}
+có lẽ	{"ud.x": 1.0}
+có mặt	{"ud.verb": 1.0}
+có thể	{"ud.x": 0.9259259259259259, "ud.adj": 0.07407407407407407}
+cô	{"ud.noun": 1.0}
+cô ta	{"ud.propn": 0.4, "ud.noun": 0.6}
+công an	{"ud.noun": 1.0}
+công bố	{"ud.verb": 1.0}
+công khai	{"ud.adj": 1.0}
+công nhân	{"ud.noun": 1.0}
+công trình	{"ud.noun": 1.0}
+công ty	{"ud.noun": 1.0}
+công tác	{"ud.noun": 1.0}
+công việc	{"ud.noun": 1.0}
+công văn	{"ud.noun": 1.0}
+cù lao	{"ud.noun": 1.0}
+cùi tay	{"ud.noun": 1.0}
+cùng	{"ud.adj": 0.6363636363636364, "ud.cconj": 0.2727272727272727, "ud.x": 0.030303030303030304, "ud.adp": 0.06060606060606061}
+căn	{"ud.noun": 1.0}
+cũ	{"ud.adj": 1.0}
+cũng	{"ud.x": 1.0}
+cơ hội	{"ud.noun": 1.0}
+cơ quan	{"ud.noun": 1.0}
+cơ sở	{"ud.noun": 1.0}
+cơm	{"ud.noun": 1.0}
+cưa	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+cạnh	{"ud.noun": 1.0}
+cạp	{"ud.noun": 0.5, "ud.verb": 0.5}
+cả	{"ud.propn": 0.65625, "ud.part": 0.34375}
+cảm tình	{"ud.noun": 1.0}
+cảng	{"ud.noun": 1.0}
+cảnh	{"ud.noun": 1.0}
+cảnh giác	{"ud.verb": 1.0}
+cảnh sát	{"ud.noun": 1.0}
+cấm	{"ud.verb": 1.0}
+cấp	{"ud.verb": 0.36363636363636365, "ud.noun": 0.6363636363636364}
+cầm	{"ud.verb": 1.0}
+cần	{"ud.verb": 1.0}
+cần cẩu	{"ud.noun": 1.0}
+cần thiết	{"ud.adj": 1.0}
+cầu	{"ud.noun": 1.0}
+cầu thang	{"ud.noun": 1.0}
+cầu đường	{"ud.noun": 1.0}
+cắt	{"ud.verb": 1.0}
+cố định	{"ud.adj": 1.0}
+cổ phần hóa	{"ud.verb": 1.0}
+cộng	{"ud.verb": 1.0}
+cụ thể	{"ud.adj": 1.0}
+của	{"ud.adp": 0.9955357142857143, "ud.noun": 0.004464285714285714}
+cứ	{"ud.x": 1.0}
+cứu	{"ud.verb": 1.0}
+cửa	{"ud.noun": 1.0}
+cửa hàng	{"ud.noun": 1.0}
+cựu chiến binh	{"ud.noun": 1.0}
+da cam	{"ud.noun": 1.0}
+di động	{"ud.verb": 0.25, "ud.noun": 0.75}
+diễn	{"ud.verb": 1.0}
+dn	{"ud.noun": 1.0}
+do	{"ud.adp": 0.6875, "ud.cconj": 0.3125}
+doanh nghiệp	{"ud.noun": 1.0}
+du học	{"ud.verb": 1.0}
+duy nhất	{"ud.adj": 1.0}
+dài	{"ud.adj": 1.0}
+dám	{"ud.verb": 1.0}
+dân	{"ud.noun": 1.0}
+dây	{"ud.noun": 1.0}
+dòng	{"ud.noun": 1.0}
+dù	{"ud.cconj": 1.0}
+dùng	{"ud.verb": 1.0}
+dư luận	{"ud.noun": 1.0}
+dưới	{"ud.adp": 0.7083333333333334, "ud.noun": 0.2916666666666667}
+dường như	{"ud.x": 1.0}
+dạy	{"ud.verb": 1.0}
+dấu	{"ud.noun": 1.0}
+dần	{"ud.x": 1.0}
+dẫn	{"ud.verb": 1.0}
+dễ	{"ud.adj": 1.0}
+dịch vụ	{"ud.noun": 1.0}
+dồn	{"ud.verb": 1.0}
+dừng	{"ud.verb": 1.0}
+dự kiến	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+dự thảo	{"ud.noun": 0.75, "ud.verb": 0.25}
+dự án	{"ud.noun": 1.0}
+dựa	{"ud.verb": 1.0}
+em	{"ud.noun": 1.0}
+fax	{"ud.noun": 0.9090909090909091, "ud.verb": 0.09090909090909091}
+g	{"ud.noun": 1.0}
+ghe	{"ud.noun": 1.0}
+ghi	{"ud.verb": 1.0}
+ghi âm	{"ud.verb": 1.0}
+ghé	{"ud.verb": 1.0}
+gia đình	{"ud.noun": 1.0}
+giao	{"ud.verb": 1.0}
+giao lưu	{"ud.verb": 0.75, "ud.noun": 0.25}
+giao thông	{"ud.noun": 1.0}
+già	{"ud.adj": 1.0}
+giá	{"ud.noun": 1.0}
+giám đốc	{"ud.noun": 1.0}
+giáo dục	{"ud.noun": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+giây	{"ud.noun": 1.0}
+giúp	{"ud.verb": 1.0}
+giúp việc	{"ud.verb": 1.0}
+giải pháp	{"ud.noun": 1.0}
+giải quyết	{"ud.verb": 1.0}
+giải tỏa	{"ud.verb": 1.0}
+giấy	{"ud.noun": 1.0}
+giấy tờ	{"ud.noun": 1.0}
+giọng	{"ud.noun": 1.0}
+giọt	{"ud.noun": 1.0}
+giống	{"ud.adj": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+giới thiệu	{"ud.verb": 1.0}
+giờ	{"ud.noun": 1.0}
+giữ	{"ud.verb": 1.0}
+giữa	{"ud.adp": 1.0}
+gái	{"ud.noun": 1.0}
+gánh	{"ud.noun": 0.75, "ud.verb": 0.25}
+gây	{"ud.verb": 1.0}
+gã	{"ud.noun": 1.0}
+gì	{"ud.propn": 0.8823529411764706, "ud.x": 0.08823529411764706, "ud.part": 0.029411764705882353}
+gói	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+gấp	{"ud.adj": 0.5, "ud.verb": 0.5}
+gần	{"ud.adj": 0.9375, "ud.x": 0.0625}
+gặp	{"ud.verb": 1.0}
+gọi	{"ud.verb": 1.0}
+gốc	{"ud.adj": 0.16666666666666666, "ud.noun": 0.8333333333333334}
+gồm	{"ud.verb": 1.0}
+gợi ý	{"ud.verb": 1.0}
+gửi	{"ud.verb": 1.0}
+hai	{"ud.num": 1.0}
+hay	{"ud.cconj": 0.8888888888888888, "ud.verb": 0.05555555555555555, "ud.x": 0.05555555555555555}
+hcm	{"ud.noun": 1.0}
+heo	{"ud.noun": 1.0}
+hiểu	{"ud.verb": 1.0}
+hiện	{"ud.noun": 0.6, "ud.verb": 0.4}
+hiện nay	{"ud.noun": 1.0}
+hoa	{"ud.noun": 1.0}
+hoàn cảnh	{"ud.noun": 1.0}
+hoàn thành	{"ud.verb": 1.0}
+hoàn toàn	{"ud.adj": 1.0}
+hoàn tất	{"ud.verb": 1.0}
+hoạn thư	{"ud.noun": 1.0}
+hoạt động	{"ud.noun": 0.16666666666666666, "ud.verb": 0.8333333333333334}
+hoặc	{"ud.sconj": 0.75, "ud.cconj": 0.25}
+huyện	{"ud.noun": 1.0}
+hà nội	{"ud.noun": 1.0}
+hàng	{"ud.noun": 0.8, "ud.x": 0.2}
+hàng hóa	{"ud.noun": 1.0}
+hành chính	{"ud.adj": 0.25, "ud.noun": 0.75}
+hành vi	{"ud.noun": 1.0}
+hành động	{"ud.verb": 1.0}
+hào	{"ud.noun": 1.0}
+hát	{"ud.verb": 0.8, "ud.noun": 0.2}
+hãng	{"ud.noun": 1.0}
+hãy	{"ud.x": 1.0}
+hình thức	{"ud.noun": 1.0}
+hôm	{"ud.noun": 1.0}
+hôm nay	{"ud.noun": 1.0}
+hđxx	{"ud.noun": 1.0}
+hơi	{"ud.x": 1.0}
+hơn	{"ud.adj": 0.30434782608695654, "ud.x": 0.6956521739130435}
+hơn nữa	{"ud.x": 0.3333333333333333, "ud.cconj": 0.6666666666666666}
+hướng	{"ud.verb": 0.2, "ud.noun": 0.8}
+hướng dẫn	{"ud.verb": 1.0}
+hạn chế	{"ud.verb": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+hạnh	{"ud.noun": 1.0}
+hạnh phúc	{"ud.adj": 0.25, "ud.noun": 0.75}
+hải	{"ud.noun": 1.0}
+hậu	{"ud.adj": 0.25, "ud.noun": 0.75}
+hậu quả	{"ud.noun": 1.0}
+hằng	{"ud.x": 0.75, "ud.noun": 0.25}
+hẹn	{"ud.verb": 1.0}
+hết	{"ud.x": 0.4444444444444444, "ud.verb": 0.4444444444444444, "ud.part": 0.1111111111111111}
+hết sức	{"ud.x": 1.0}
+hệ thống	{"ud.noun": 1.0}
+họ	{"ud.propn": 0.896551724137931, "ud.noun": 0.10344827586206896}
+học	{"ud.verb": 0.9411764705882353, "ud.noun": 0.058823529411764705}
+học sinh	{"ud.noun": 1.0}
+hỏi	{"ud.verb": 1.0}
+hồ sơ	{"ud.noun": 1.0}
+hồi	{"ud.noun": 1.0}
+hồng	{"ud.noun": 1.0}
+hộ	{"ud.noun": 1.0}
+hộ chiếu	{"ud.noun": 1.0}
+hội	{"ud.noun": 1.0}
+hội nghị	{"ud.noun": 1.0}
+hội đồng	{"ud.noun": 1.0}
+hợp tác	{"ud.verb": 1.0}
+hợp đồng	{"ud.noun": 1.0}
+hứa	{"ud.verb": 1.0}
+im lặng	{"ud.adj": 0.25, "ud.verb": 0.75}
+james	{"ud.noun": 1.0}
+khai	{"ud.verb": 1.0}
+khai thác	{"ud.verb": 1.0}
+khi	{"ud.noun": 1.0}
+khiến	{"ud.verb": 1.0}
+khoa	{"ud.noun": 1.0}
+khoán	{"ud.noun": 1.0}
+khoản	{"ud.noun": 1.0}
+khoảng	{"ud.adj": 0.8181818181818182, "ud.noun": 0.18181818181818182}
+khu	{"ud.noun": 1.0}
+khu vực	{"ud.noun": 1.0}
+khá	{"ud.x": 0.8571428571428571, "ud.adj": 0.14285714285714285}
+khác	{"ud.adj": 1.0}
+khách	{"ud.noun": 1.0}
+khách hàng	{"ud.noun": 1.0}
+khâu	{"ud.noun": 1.0}
+khó	{"ud.adj": 0.9, "ud.verb": 0.1}
+khó khăn	{"ud.adj": 0.5, "ud.noun": 0.5}
+khóa	{"ud.noun": 0.75, "ud.verb": 0.25}
+khói	{"ud.noun": 1.0}
+không	{"ud.x": 1.0}
+không khí	{"ud.noun": 1.0}
+không thể	{"ud.x": 1.0}
+khăn	{"ud.noun": 1.0}
+khả năng	{"ud.noun": 1.0}
+khắc phục	{"ud.verb": 1.0}
+khắp	{"ud.adj": 1.0}
+khẳng định	{"ud.verb": 1.0}
+khỏi	{"ud.verb": 0.875, "ud.x": 0.125}
+khổ	{"ud.adj": 0.8, "ud.noun": 0.2}
+kia	{"ud.propn": 0.9166666666666666, "ud.noun": 0.08333333333333333}
+kinh doanh	{"ud.verb": 1.0}
+kinh nghiệm	{"ud.noun": 1.0}
+kinh phí	{"ud.noun": 1.0}
+kinh tế	{"ud.noun": 1.0}
+kiềng	{"ud.noun": 1.0}
+kiều bào	{"ud.noun": 1.0}
+kiểm tra	{"ud.verb": 1.0}
+kiện	{"ud.verb": 1.0}
+km	{"ud.noun": 1.0}
+kèm	{"ud.verb": 1.0}
+kéo	{"ud.verb": 1.0}
+kéo dài	{"ud.verb": 1.0}
+kêu	{"ud.verb": 1.0}
+ký	{"ud.verb": 1.0}
+kế hoạch	{"ud.noun": 1.0}
+kết quả	{"ud.noun": 1.0}
+kể	{"ud.verb": 1.0}
+kịch bản	{"ud.noun": 1.0}
+kịp	{"ud.adj": 0.8, "ud.verb": 0.2}
+kỹ	{"ud.adj": 1.0}
+lan	{"ud.noun": 1.0}
+lao động	{"ud.noun": 0.9, "ud.verb": 0.1}
+lau	{"ud.verb": 1.0}
+lbkt	{"ud.punct": 1.0}
+liên	{"ud.x": 0.13043478260869565, "ud.noun": 0.8695652173913043}
+liên hệ	{"ud.verb": 1.0}
+liên quan	{"ud.verb": 1.0}
+liên tục	{"ud.adj": 1.0}
+liền	{"ud.x": 0.8, "ud.adj": 0.2}
+liễu	{"ud.noun": 1.0}
+liệu	{"ud.verb": 1.0}
+lo	{"ud.verb": 1.0}
+long	{"ud.noun": 1.0}
+loại	{"ud.noun": 0.8333333333333334, "ud.verb": 0.16666666666666666}
+luân	{"ud.noun": 1.0}
+luôn	{"ud.x": 1.0}
+luật	{"ud.noun": 1.0}
+là	{"ud.aux": 0.8088888888888889, "ud.cconj": 0.17777777777777778, "ud.verb": 0.013333333333333334}
+làm	{"ud.verb": 1.0}
+làm sao	{"ud.x": 1.0}
+làm việc	{"ud.verb": 1.0}
+làm ăn	{"ud.verb": 1.0}
+lào	{"ud.noun": 1.0}
+lá	{"ud.noun": 1.0}
+lái	{"ud.verb": 1.0}
+lâu	{"ud.adj": 1.0}
+lâu lâu	{"ud.x": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+lã thị kim oanh	{"ud.noun": 1.0}
+lãnh tụ	{"ud.noun": 1.0}
+lãnh đạo	{"ud.verb": 0.4, "ud.noun": 0.6}
+lên	{"ud.verb": 0.46938775510204084, "ud.x": 0.40816326530612246, "ud.adp": 0.12244897959183673}
+lên tiếng	{"ud.verb": 1.0}
+lòng	{"ud.noun": 1.0}
+lúc	{"ud.noun": 1.0}
+lý do	{"ud.noun": 1.0}
+lạ	{"ud.adj": 1.0}
+lại	{"ud.x": 0.9716981132075472, "ud.verb": 0.02830188679245283}
+lạnh	{"ud.adj": 1.0}
+lấy	{"ud.verb": 0.96, "ud.x": 0.04}
+lần	{"ud.noun": 1.0}
+lầu	{"ud.noun": 1.0}
+lập	{"ud.verb": 1.0}
+lập tức	{"ud.x": 1.0}
+lật	{"ud.verb": 1.0}
+lắm	{"ud.part": 0.16666666666666666, "ud.x": 0.8333333333333334}
+lặn	{"ud.verb": 1.0}
+lọt	{"ud.verb": 1.0}
+lộ	{"ud.verb": 1.0}
+lớn	{"ud.verb": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+lớp	{"ud.noun": 1.0}
+lời	{"ud.noun": 1.0}
+lửa	{"ud.noun": 1.0}
+lựa chọn	{"ud.verb": 1.0}
+lực lượng	{"ud.noun": 1.0}
+m	{"ud.noun": 1.0}
+m3	{"ud.noun": 1.0}
+ma túy	{"ud.noun": 1.0}
+mai quốc bình	{"ud.noun": 1.0}
+mang	{"ud.verb": 1.0}
+may	{"ud.adj": 1.0}
+minh	{"ud.noun": 1.0}
+mong	{"ud.verb": 1.0}
+mua	{"ud.verb": 1.0}
+mua dâm	{"ud.verb": 1.0}
+muốn	{"ud.verb": 1.0}
+mà	{"ud.cconj": 0.9302325581395349, "ud.part": 0.06976744186046512}
+màu	{"ud.noun": 1.0}
+máu	{"ud.noun": 1.0}
+máy	{"ud.noun": 1.0}
+máy fax	{"ud.noun": 1.0}
+máy móc	{"ud.noun": 1.0}
+mãi	{"ud.x": 1.0}
+mãi lộ	{"ud.noun": 1.0}
+mình	{"ud.propn": 0.8653846153846154, "ud.noun": 0.1346153846153846}
+món	{"ud.noun": 1.0}
+mô hình	{"ud.noun": 1.0}
+môi trường	{"ud.noun": 1.0}
+mũ	{"ud.noun": 1.0}
+mũi	{"ud.noun": 1.0}
+mưa	{"ud.verb": 0.5, "ud.noun": 0.5}
+mượn	{"ud.verb": 1.0}
+mại dâm	{"ud.verb": 1.0}
+mạnh	{"ud.adj": 1.0}
+mảnh	{"ud.noun": 1.0}
+mất	{"ud.verb": 1.0}
+mất mát	{"ud.noun": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+mấy	{"ud.det": 0.9230769230769231, "ud.num": 0.07692307692307693}
+mắt	{"ud.noun": 1.0}
+mặc	{"ud.verb": 1.0}
+mặt	{"ud.noun": 1.0}
+mẹ	{"ud.noun": 1.0}
+mẹ con	{"ud.noun": 1.0}
+mọi	{"ud.num": 0.08695652173913043, "ud.det": 0.782608695652174, "ud.noun": 0.13043478260869565}
+mối	{"ud.noun": 1.0}
+mỗi	{"ud.num": 0.6111111111111112, "ud.det": 0.3888888888888889}
+một	{"ud.num": 1.0}
+một cách	{"ud.noun": 1.0}
+một mình	{"ud.x": 1.0}
+một số	{"ud.det": 1.0}
+mới	{"ud.adj": 0.2708333333333333, "ud.x": 0.7291666666666666}
+mời	{"ud.verb": 1.0}
+mở	{"ud.verb": 1.0}
+mở rộng	{"ud.verb": 1.0}
+mức	{"ud.noun": 1.0}
+nam	{"ud.noun": 1.0}
+nay	{"ud.propn": 0.9090909090909091, "ud.noun": 0.09090909090909091}
+ngay	{"ud.part": 0.6086956521739131, "ud.x": 0.391304347826087}
+nghe	{"ud.verb": 1.0}
+nghi vấn	{"ud.verb": 0.5, "ud.noun": 0.5}
+nghiện	{"ud.verb": 1.0}
+nghèo	{"ud.adj": 1.0}
+nghĩ	{"ud.verb": 1.0}
+nghĩa	{"ud.noun": 1.0}
+nghề	{"ud.noun": 1.0}
+nghỉ	{"ud.verb": 1.0}
+nghị quyết	{"ud.noun": 1.0}
+nghị định	{"ud.noun": 1.0}
+ngoài	{"ud.adp": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+ngoài ra	{"ud.cconj": 1.0}
+ngoại giao	{"ud.noun": 1.0}
+ngoại tình	{"ud.verb": 1.0}
+nguyên	{"ud.x": 0.16666666666666666, "ud.noun": 0.8333333333333334}
+nguyên nhân	{"ud.noun": 1.0}
+nguyễn ái quốc	{"ud.noun": 1.0}
+ngành	{"ud.noun": 1.0}
+ngày	{"ud.noun": 0.9848484848484849, "ud.x": 0.015151515151515152}
+ngày mai	{"ud.noun": 1.0}
+ngân hàng	{"ud.noun": 1.0}
+ngân sách	{"ud.noun": 1.0}
+ngã	{"ud.noun": 1.0}
+ngôi	{"ud.noun": 1.0}
+ngõ	{"ud.noun": 1.0}
+người	{"ud.noun": 1.0}
+người nhà	{"ud.noun": 1.0}
+người ta	{"ud.noun": 1.0}
+ngọ	{"ud.noun": 1.0}
+ngồi	{"ud.verb": 1.0}
+ngờ	{"ud.verb": 1.0}
+ngỡ	{"ud.verb": 1.0}
+ngủ	{"ud.verb": 1.0}
+nhanh	{"ud.adj": 1.0}
+nhanh chóng	{"ud.adj": 1.0}
+nhau	{"ud.noun": 0.9375, "ud.propn": 0.0625}
+nhi	{"ud.noun": 1.0}
+nhiều	{"ud.adj": 1.0}
+nhiệm vụ	{"ud.noun": 1.0}
+nhu	{"ud.noun": 1.0}
+nhu cầu	{"ud.noun": 1.0}
+nhà	{"ud.noun": 1.0}
+nhà hàng	{"ud.noun": 1.0}
+nhà nghỉ	{"ud.noun": 1.0}
+nhà nước	{"ud.noun": 1.0}
+nhân chứng	{"ud.noun": 1.0}
+nhân dân	{"ud.noun": 1.0}
+nhân viên	{"ud.noun": 1.0}
+nhân vật	{"ud.noun": 1.0}
+nhã	{"ud.noun": 1.0}
+nhìn	{"ud.verb": 1.0}
+nhóm	{"ud.noun": 1.0}
+như	{"ud.cconj": 0.9692307692307692, "ud.adj": 0.03076923076923077}
+như thế nào	{"ud.x": 1.0}
+như vậy	{"ud.cconj": 0.6666666666666666, "ud.x": 0.3333333333333333}
+nhưng	{"ud.cconj": 1.0}
+nhảy	{"ud.verb": 1.0}
+nhất	{"ud.x": 0.5238095238095238, "ud.adj": 0.23809523809523808, "ud.num": 0.19047619047619047, "ud.noun": 0.047619047619047616}
+nhầm	{"ud.verb": 1.0}
+nhận	{"ud.verb": 1.0}
+nhật	{"ud.noun": 1.0}
+nhật ký	{"ud.noun": 1.0}
+nhắc	{"ud.verb": 1.0}
+nhằm	{"ud.adp": 0.5, "ud.verb": 0.5}
+nhẹ nhàng	{"ud.adj": 1.0}
+nhỏ	{"ud.adj": 0.9444444444444444, "ud.noun": 0.05555555555555555}
+nhớ	{"ud.verb": 1.0}
+nhờ	{"ud.verb": 1.0}
+những	{"ud.det": 1.0}
+nuôi	{"ud.verb": 1.0}
+nvơnn	{"ud.noun": 1.0}
+nào	{"ud.propn": 0.9333333333333333, "ud.cconj": 0.03333333333333333, "ud.part": 0.03333333333333333}
+này	{"ud.propn": 0.990990990990991, "ud.noun": 0.009009009009009009}
+nâng	{"ud.verb": 1.0}
+nên	{"ud.cconj": 0.8, "ud.verb": 0.2}
+nêu	{"ud.verb": 1.0}
+nó	{"ud.propn": 1.0}
+nói	{"ud.verb": 1.0}
+năm	{"ud.noun": 0.7959183673469388, "ud.num": 0.20408163265306123}
+nơi	{"ud.noun": 1.0}
+nước	{"ud.noun": 1.0}
+nước mắt	{"ud.noun": 1.0}
+nước ngoài	{"ud.noun": 1.0}
+nạn nhân	{"ud.noun": 1.0}
+nắm	{"ud.verb": 1.0}
+nằm	{"ud.verb": 1.0}
+nặc danh	{"ud.adj": 1.0}
+nặng	{"ud.adj": 1.0}
+nếu	{"ud.cconj": 1.0}
+nổi	{"ud.x": 1.0}
+nổi bật	{"ud.adj": 1.0}
+nỗi	{"ud.noun": 1.0}
+nội	{"ud.adj": 0.25, "ud.noun": 0.75}
+nộp	{"ud.verb": 1.0}
+nợ	{"ud.noun": 0.5, "ud.verb": 0.5}
+nửa	{"ud.num": 0.6, "ud.det": 0.4}
+nữ	{"ud.noun": 1.0}
+nữa	{"ud.x": 0.8, "ud.part": 0.2}
+pakse	{"ud.noun": 1.0}
+phong	{"ud.noun": 1.0}
+phong trào	{"ud.noun": 1.0}
+phá	{"ud.verb": 1.0}
+phá án	{"ud.verb": 1.0}
+pháp	{"ud.noun": 1.0}
+pháp luật	{"ud.noun": 1.0}
+phát	{"ud.verb": 1.0}
+phát hiện	{"ud.verb": 1.0}
+phát triển	{"ud.verb": 1.0}
+phân cấp	{"ud.verb": 1.0}
+phân tích	{"ud.verb": 1.0}
+phép	{"ud.noun": 1.0}
+phí	{"ud.noun": 1.0}
+phía	{"ud.noun": 0.9285714285714286, "ud.adp": 0.07142857142857142}
+phòng	{"ud.noun": 1.0}
+phó	{"ud.x": 1.0}
+phó chủ tịch	{"ud.noun": 1.0}
+phóng	{"ud.verb": 1.0}
+phú	{"ud.noun": 1.0}
+phút	{"ud.noun": 1.0}
+phương	{"ud.noun": 1.0}
+phương pháp	{"ud.noun": 1.0}
+phương án	{"ud.noun": 1.0}
+phường	{"ud.noun": 1.0}
+phải	{"ud.verb": 0.8877551020408163, "ud.adj": 0.11224489795918367}
+phần	{"ud.noun": 1.0}
+phần mềm	{"ud.noun": 1.0}
+phố	{"ud.noun": 1.0}
+phổ biến	{"ud.verb": 1.0}
+phụ trách	{"ud.verb": 1.0}
+qua	{"ud.verb": 0.4444444444444444, "ud.adp": 0.48148148148148145, "ud.x": 0.07407407407407407}
+qua đời	{"ud.verb": 1.0}
+quan hệ	{"ud.noun": 0.6153846153846154, "ud.verb": 0.38461538461538464}
+quan trọng	{"ud.adj": 1.0}
+quang	{"ud.noun": 1.0}
+quanh	{"ud.noun": 1.0}
+quay	{"ud.verb": 1.0}
+quen	{"ud.verb": 0.8333333333333334, "ud.adj": 0.16666666666666666}
+qui hoạch	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+qui định	{"ud.noun": 0.5, "ud.verb": 0.5}
+quyết tâm	{"ud.verb": 1.0}
+quyết định	{"ud.verb": 0.8333333333333334, "ud.noun": 0.16666666666666666}
+quyền	{"ud.noun": 1.0}
+quá	{"ud.x": 0.8571428571428571, "ud.verb": 0.14285714285714285}
+quán	{"ud.noun": 1.0}
+quê	{"ud.noun": 1.0}
+quê hương	{"ud.noun": 1.0}
+quý	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+quả	{"ud.noun": 0.8333333333333334, "ud.part": 0.16666666666666666}
+quả thật	{"ud.x": 1.0}
+quản lý	{"ud.noun": 0.16666666666666666, "ud.verb": 0.8333333333333334}
+quốc lộ	{"ud.noun": 1.0}
+ra	{"ud.verb": 0.4444444444444444, "ud.x": 0.5277777777777778, "ud.adp": 0.027777777777777776}
+ra sao	{"ud.x": 0.8333333333333334, "ud.verb": 0.16666666666666666}
+rbkt	{"ud.punct": 1.0}
+riêng	{"ud.part": 0.4, "ud.adj": 0.6}
+ruộng	{"ud.noun": 1.0}
+rõ	{"ud.verb": 0.07142857142857142, "ud.adj": 0.9285714285714286}
+rút	{"ud.verb": 1.0}
+rất	{"ud.x": 1.0}
+rằng	{"ud.cconj": 1.0}
+rồi	{"ud.x": 0.2619047619047619, "ud.cconj": 0.7142857142857143, "ud.part": 0.023809523809523808}
+rộng	{"ud.adj": 1.0}
+rộng rãi	{"ud.adj": 1.0}
+rủ	{"ud.verb": 1.0}
+rừng	{"ud.noun": 1.0}
+sai	{"ud.adj": 1.0}
+sai phạm	{"ud.verb": 0.25, "ud.adj": 0.25, "ud.noun": 0.5}
+sang	{"ud.verb": 0.9375, "ud.adp": 0.0625}
+sao	{"ud.propn": 0.8571428571428571, "ud.part": 0.14285714285714285}
+sau	{"ud.noun": 0.3220338983050847, "ud.adp": 0.6101694915254238, "ud.adj": 0.06779661016949153}
+sim	{"ud.noun": 1.0}
+sinh	{"ud.verb": 0.12, "ud.noun": 0.88}
+siết	{"ud.verb": 1.0}
+so	{"ud.verb": 1.0}
+song	{"ud.cconj": 1.0}
+sà lan	{"ud.noun": 1.0}
+sài gòn	{"ud.noun": 1.0}
+sáng	{"ud.adj": 0.18181818181818182, "ud.noun": 0.8181818181818182}
+sát	{"ud.adj": 1.0}
+sáu	{"ud.num": 1.0}
+sâu	{"ud.adj": 1.0}
+sông	{"ud.noun": 1.0}
+sạt lở	{"ud.verb": 1.0}
+sản xuất	{"ud.verb": 0.75, "ud.noun": 0.25}
+sắp	{"ud.x": 1.0}
+sẽ	{"ud.x": 1.0}
+số	{"ud.noun": 1.0}
+số lượng	{"ud.noun": 1.0}
+số phận	{"ud.noun": 1.0}
+sống	{"ud.verb": 0.9375, "ud.noun": 0.0625}
+sớm	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+sở	{"ud.noun": 1.0}
+sợ	{"ud.verb": 1.0}
+sụt giảm	{"ud.verb": 1.0}
+sử dụng	{"ud.verb": 1.0}
+sửa	{"ud.verb": 1.0}
+sự	{"ud.noun": 1.0}
+sự thật	{"ud.noun": 1.0}
+ta	{"ud.propn": 1.0}
+taxi	{"ud.noun": 1.0}
+tay	{"ud.noun": 1.0}
+tham gia	{"ud.verb": 1.0}
+thanh	{"ud.noun": 1.0}
+thanh niên	{"ud.noun": 1.0}
+thanh toán	{"ud.verb": 1.0}
+thay	{"ud.verb": 0.8888888888888888, "ud.part": 0.1111111111111111}
+thay đổi	{"ud.verb": 1.0}
+thcs	{"ud.noun": 1.0}
+theo	{"ud.verb": 0.45454545454545453, "ud.adp": 0.5, "ud.x": 0.045454545454545456}
+theo dõi	{"ud.verb": 1.0}
+thi công	{"ud.verb": 1.0}
+thi hành	{"ud.verb": 1.0}
+thiết kế	{"ud.noun": 1.0}
+thiếu	{"ud.verb": 1.0}
+thiếu sót	{"ud.noun": 1.0}
+thoát	{"ud.verb": 1.0}
+thu	{"ud.verb": 1.0}
+thuê	{"ud.verb": 1.0}
+thuốc	{"ud.noun": 1.0}
+thuốc lá	{"ud.noun": 1.0}
+thuộc	{"ud.verb": 1.0}
+thành	{"ud.verb": 0.7, "ud.noun": 0.3}
+thành công	{"ud.verb": 1.0}
+thành lập	{"ud.verb": 1.0}
+thành niên	{"ud.adj": 1.0}
+thành phố	{"ud.noun": 1.0}
+thái bình	{"ud.noun": 1.0}
+thái mỹ	{"ud.noun": 1.0}
+thái độ	{"ud.noun": 1.0}
+thám tử	{"ud.noun": 1.0}
+tháng	{"ud.noun": 1.0}
+tháo	{"ud.verb": 1.0}
+tháo gỡ	{"ud.verb": 1.0}
+thân	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+thép	{"ud.noun": 1.0}
+thêm	{"ud.verb": 0.7692307692307693, "ud.x": 0.23076923076923078}
+thì	{"ud.cconj": 1.0}
+thôi	{"ud.part": 0.7, "ud.verb": 0.3}
+thông báo	{"ud.verb": 1.0}
+thông cảm	{"ud.verb": 1.0}
+thông tin	{"ud.noun": 0.8333333333333334, "ud.verb": 0.16666666666666666}
+thăm	{"ud.verb": 1.0}
+thư	{"ud.noun": 1.0}
+thưa	{"ud.verb": 1.0}
+thương	{"ud.verb": 1.0}
+thương binh	{"ud.noun": 1.0}
+thường	{"ud.x": 0.75, "ud.adj": 0.25}
+thấm	{"ud.verb": 1.0}
+thấy	{"ud.verb": 1.0}
+thẩm vấn	{"ud.verb": 1.0}
+thậm chí	{"ud.x": 1.0}
+thật	{"ud.x": 0.18181818181818182, "ud.part": 0.6363636363636364, "ud.adj": 0.18181818181818182}
+thắng	{"ud.noun": 1.0}
+thắp	{"ud.verb": 1.0}
+thẳng	{"ud.adj": 1.0}
+thế	{"ud.part": 0.42857142857142855, "ud.propn": 0.5714285714285714}
+thế là	{"ud.cconj": 0.6666666666666666, "ud.x": 0.3333333333333333}
+thế nào	{"ud.propn": 1.0}
+thể hiện	{"ud.verb": 1.0}
+thỏa thuận	{"ud.verb": 1.0}
+thời gian	{"ud.noun": 1.0}
+thời điểm	{"ud.noun": 1.0}
+thợ	{"ud.noun": 1.0}
+thủ phạm	{"ud.noun": 1.0}
+thủ tướng	{"ud.noun": 1.0}
+thủ tục	{"ud.noun": 1.0}
+thứ	{"ud.noun": 1.0}
+thứ trưởng	{"ud.noun": 1.0}
+thừa nhận	{"ud.verb": 1.0}
+thử	{"ud.verb": 1.0}
+thực hiện	{"ud.verb": 1.0}
+thực tế	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+tin	{"ud.verb": 0.4, "ud.noun": 0.6}
+tinh thần	{"ud.noun": 1.0}
+tiêu cực	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+tiến	{"ud.verb": 0.8571428571428571, "ud.noun": 0.14285714285714285}
+tiến hành	{"ud.verb": 1.0}
+tiếng	{"ud.noun": 1.0}
+tiếp	{"ud.verb": 0.7142857142857143, "ud.x": 0.2857142857142857}
+tiếp cận	{"ud.verb": 1.0}
+tiếp thị	{"ud.verb": 0.5, "ud.noun": 0.5}
+tiếp tục	{"ud.verb": 1.0}
+tiền	{"ud.noun": 1.0}
+tiền bạc	{"ud.noun": 1.0}
+to	{"ud.adj": 1.0}
+toàn	{"ud.noun": 1.0}
+toàn bộ	{"ud.det": 1.0}
+toàn diện	{"ud.adj": 1.0}
+tp	{"ud.noun": 1.0}
+tp . hcm	{"ud.noun": 1.0}
+trai	{"ud.noun": 1.0}
+trang	{"ud.noun": 1.0}
+tre	{"ud.noun": 1.0}
+triển khai	{"ud.verb": 1.0}
+triệu	{"ud.num": 1.0}
+trong	{"ud.adp": 0.9016393442622951, "ud.noun": 0.09836065573770492}
+trong sạch	{"ud.noun": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+trung tâm	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+trung ương	{"ud.noun": 1.0}
+truyền thống	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+trách nhiệm	{"ud.noun": 0.9230769230769231, "ud.verb": 0.07692307692307693}
+trái	{"ud.noun": 0.5, "ud.adj": 0.5}
+tránh	{"ud.verb": 1.0}
+trên	{"ud.adp": 0.6415094339622641, "ud.adj": 0.1320754716981132, "ud.noun": 0.22641509433962265}
+trình bày	{"ud.verb": 1.0}
+trình độ	{"ud.noun": 1.0}
+trí thức	{"ud.noun": 1.0}
+trùng	{"ud.verb": 1.0}
+trưa	{"ud.noun": 1.0}
+trước	{"ud.noun": 0.2564102564102564, "ud.adp": 0.5641025641025641, "ud.adj": 0.1794871794871795}
+trước mắt	{"ud.noun": 1.0}
+trường	{"ud.noun": 1.0}
+trường hợp	{"ud.noun": 1.0}
+trạm	{"ud.noun": 1.0}
+trả	{"ud.verb": 1.0}
+trả lời	{"ud.verb": 0.9, "ud.noun": 0.1}
+trả thù	{"ud.verb": 1.0}
+trẻ	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+trị giá	{"ud.verb": 1.0}
+trốn	{"ud.verb": 1.0}
+trồng	{"ud.verb": 1.0}
+trở	{"ud.verb": 1.0}
+trở lại	{"ud.verb": 1.0}
+trở về	{"ud.verb": 1.0}
+trực	{"ud.noun": 0.5, "ud.verb": 0.5}
+trực tiếp	{"ud.adj": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+tuy	{"ud.cconj": 1.0}
+tuy nhiên	{"ud.cconj": 1.0}
+tuyết	{"ud.noun": 1.0}
+tuyệt đối	{"ud.adj": 1.0}
+tuấn	{"ud.noun": 1.0}
+tuần	{"ud.noun": 1.0}
+tuổi	{"ud.noun": 1.0}
+tuổi trẻ	{"ud.noun": 1.0}
+tài chính	{"ud.noun": 1.0}
+tài sản	{"ud.noun": 1.0}
+tài xế	{"ud.noun": 1.0}
+tái	{"ud.x": 1.0}
+tám	{"ud.num": 1.0}
+tâm sự	{"ud.verb": 1.0}
+tân phước	{"ud.noun": 1.0}
+tên	{"ud.noun": 1.0}
+tìm	{"ud.verb": 1.0}
+tình	{"ud.noun": 1.0}
+tình cảm	{"ud.noun": 1.0}
+tình hình	{"ud.noun": 1.0}
+tình nhân	{"ud.noun": 1.0}
+tình trạng	{"ud.noun": 1.0}
+tình yêu	{"ud.noun": 1.0}
+tín dụng	{"ud.noun": 1.0}
+tính	{"ud.verb": 0.5714285714285714, "ud.noun": 0.42857142857142855}
+tòa	{"ud.noun": 1.0}
+tôi	{"ud.propn": 0.9733333333333334, "ud.noun": 0.02666666666666667}
+túi	{"ud.noun": 1.0}
+tăng	{"ud.verb": 1.0}
+tư	{"ud.num": 0.6, "ud.adj": 0.4}
+tươi cười	{"ud.adj": 1.0}
+tương lai	{"ud.noun": 1.0}
+tại	{"ud.adp": 1.0}
+tại sao	{"ud.x": 1.0}
+tạm	{"ud.adj": 1.0}
+tạo	{"ud.verb": 1.0}
+tấm	{"ud.noun": 1.0}
+tấn công	{"ud.verb": 1.0}
+tất cả	{"ud.propn": 0.8, "ud.det": 0.2}
+tận	{"ud.adp": 1.0}
+tập	{"ud.noun": 0.6666666666666666, "ud.verb": 0.3333333333333333}
+tập thể	{"ud.noun": 0.8571428571428571, "ud.adj": 0.14285714285714285}
+tập trung	{"ud.verb": 1.0}
+tắm	{"ud.verb": 1.0}
+tặng	{"ud.verb": 1.0}
+tỉ	{"ud.num": 0.75, "ud.noun": 0.25}
+tỉnh	{"ud.noun": 1.0}
+tố cáo	{"ud.verb": 1.0}
+tối	{"ud.noun": 0.9090909090909091, "ud.adj": 0.09090909090909091}
+tốt	{"ud.adj": 1.0}
+tổ	{"ud.noun": 1.0}
+tổ chức	{"ud.verb": 0.8333333333333334, "ud.noun": 0.16666666666666666}
+tội	{"ud.noun": 1.0}
+tội phạm	{"ud.noun": 1.0}
+tới	{"ud.x": 0.058823529411764705, "ud.verb": 0.5294117647058824, "ud.adp": 0.35294117647058826, "ud.part": 0.058823529411764705}
+tờ	{"ud.noun": 1.0}
+tủ	{"ud.noun": 1.0}
+từ	{"ud.adp": 1.0}
+từng	{"ud.propn": 0.5, "ud.x": 0.4583333333333333, "ud.noun": 0.041666666666666664}
+tử tế	{"ud.adj": 1.0}
+tự	{"ud.propn": 1.0}
+tự nguyện	{"ud.verb": 1.0}
+ubnd	{"ud.noun": 1.0}
+ung thư	{"ud.noun": 1.0}
+uống	{"ud.verb": 1.0}
+vai	{"ud.noun": 1.0}
+vay	{"ud.verb": 1.0}
+vi phạm	{"ud.verb": 1.0}
+viết	{"ud.verb": 1.0}
+việc	{"ud.noun": 1.0}
+việc làm	{"ud.noun": 1.0}
+viện	{"ud.noun": 1.0}
+viện kiểm sát	{"ud.noun": 1.0}
+việt	{"ud.noun": 1.0}
+việt kiều	{"ud.noun": 1.0}
+vn	{"ud.noun": 1.0}
+vui mừng	{"ud.adj": 0.3333333333333333, "ud.verb": 0.6666666666666666}
+và	{"ud.sconj": 0.9523809523809523, "ud.cconj": 0.047619047619047616}
+vài	{"ud.det": 1.0}
+vàng	{"ud.noun": 0.6666666666666666, "ud.adj": 0.3333333333333333}
+vành	{"ud.noun": 1.0}
+vào	{"ud.x": 0.1941747572815534, "ud.verb": 0.3106796116504854, "ud.adp": 0.49514563106796117}
+vá	{"ud.verb": 1.0}
+vì	{"ud.adp": 0.96875, "ud.cconj": 0.03125}
+vì sao	{"ud.x": 1.0}
+vì vậy	{"ud.cconj": 1.0}
+ví	{"ud.verb": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+vòi rồng	{"ud.noun": 1.0}
+vòng	{"ud.noun": 0.6, "ud.verb": 0.4}
+văn hóa	{"ud.noun": 1.0}
+văn phòng	{"ud.noun": 1.0}
+vấn đề	{"ud.noun": 1.0}
+vất vả	{"ud.adj": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+vẫn	{"ud.x": 1.0}
+vận động	{"ud.verb": 1.0}
+vậy	{"ud.propn": 0.8823529411764706, "ud.part": 0.11764705882352941}
+vậy mà	{"ud.cconj": 1.0}
+vắng	{"ud.adj": 1.0}
+vẽ	{"ud.verb": 0.8, "ud.noun": 0.2}
+về	{"ud.adp": 0.4528301886792453, "ud.verb": 0.4716981132075472, "ud.x": 0.07547169811320754}
+vốn	{"ud.noun": 1.0}
+vội	{"ud.adj": 1.0}
+với	{"ud.adp": 0.9489795918367347, "ud.cconj": 0.04081632653061224, "ud.verb": 0.01020408163265306}
+vợ	{"ud.noun": 1.0}
+vợ chồng	{"ud.noun": 1.0}
+vụ	{"ud.noun": 1.0}
+vụ việc	{"ud.noun": 1.0}
+vụ án	{"ud.noun": 1.0}
+vừa	{"ud.x": 0.9375, "ud.adj": 0.0625}
+xa	{"ud.adj": 1.0}
+xe	{"ud.noun": 1.0}
+xe lửa	{"ud.noun": 1.0}
+xe máy	{"ud.noun": 1.0}
+xe tải	{"ud.noun": 1.0}
+xem	{"ud.verb": 0.9333333333333333, "ud.x": 0.06666666666666667}
+xin	{"ud.verb": 1.0}
+xong	{"ud.x": 0.625, "ud.verb": 0.375}
+xuất hiện	{"ud.verb": 1.0}
+xuống	{"ud.verb": 0.4583333333333333, "ud.adp": 0.20833333333333334, "ud.x": 0.3333333333333333}
+xác nhận	{"ud.noun": 0.1111111111111111, "ud.verb": 0.8888888888888888}
+xác định	{"ud.verb": 1.0}
+xây	{"ud.verb": 1.0}
+xây dựng	{"ud.verb": 1.0}
+xã	{"ud.noun": 1.0}
+xã hội	{"ud.noun": 1.0}
+xét xử	{"ud.verb": 1.0}
+xóm	{"ud.noun": 1.0}
+xưởng	{"ud.noun": 1.0}
+xảy	{"ud.verb": 1.0}
+xử	{"ud.verb": 1.0}
+xử lý	{"ud.verb": 1.0}
+y	{"ud.x": 1.0}
+yêu cầu	{"ud.verb": 0.6666666666666666, "ud.noun": 0.3333333333333333}
+yết kiêu	{"ud.noun": 1.0}
+à	{"ud.intj": 0.3333333333333333, "ud.part": 0.6666666666666666}
+ào	{"ud.verb": 1.0}
+ách tắc	{"ud.verb": 1.0}
+áo	{"ud.noun": 1.0}
+ép	{"ud.verb": 1.0}
+ô	{"ud.noun": 0.6666666666666666, "ud.intj": 0.3333333333333333}
+ông	{"ud.noun": 0.9528301886792453, "ud.propn": 0.04716981132075472}
+ông bà	{"ud.noun": 1.0}
+ông ta	{"ud.propn": 0.3333333333333333, "ud.noun": 0.6666666666666666}
+ý kiến	{"ud.noun": 1.0}
+ăn	{"ud.verb": 1.0}
+đang	{"ud.x": 1.0}
+đau	{"ud.adj": 0.6666666666666666, "ud.verb": 0.16666666666666666, "ud.noun": 0.16666666666666666}
+đen	{"ud.adj": 1.0}
+đeo	{"ud.verb": 1.0}
+đi	{"ud.verb": 0.9042553191489362, "ud.x": 0.07446808510638298, "ud.part": 0.02127659574468085}
+đi lại	{"ud.verb": 1.0}
+điều	{"ud.noun": 1.0}
+điều kiện	{"ud.noun": 1.0}
+điều tra	{"ud.verb": 0.9444444444444444, "ud.noun": 0.05555555555555555}
+điểm	{"ud.noun": 1.0}
+điện	{"ud.noun": 0.8, "ud.verb": 0.2}
+điện thoại	{"ud.noun": 1.0}
+điện thoại di động	{"ud.noun": 1.0}
+đoàn	{"ud.noun": 1.0}
+đoạn	{"ud.noun": 1.0}
+đtdđ	{"ud.noun": 1.0}
+đu	{"ud.noun": 1.0}
+đua	{"ud.verb": 1.0}
+đàn ông	{"ud.noun": 1.0}
+đàng hoàng	{"ud.adj": 1.0}
+đào	{"ud.noun": 1.0}
+đá	{"ud.noun": 1.0}
+đám	{"ud.noun": 1.0}
+đáng	{"ud.verb": 1.0}
+đánh	{"ud.verb": 1.0}
+đáp ứng	{"ud.verb": 1.0}
+đâu	{"ud.propn": 0.9090909090909091, "ud.x": 0.09090909090909091}
+đây	{"ud.propn": 0.96, "ud.noun": 0.02, "ud.part": 0.02}
+đã	{"ud.x": 1.0}
+đêm	{"ud.noun": 1.0}
+đòi	{"ud.verb": 1.0}
+đó	{"ud.propn": 1.0}
+đón	{"ud.verb": 1.0}
+đóng	{"ud.verb": 1.0}
+đôi	{"ud.num": 0.8888888888888888, "ud.det": 0.1111111111111111}
+đông	{"ud.adj": 1.0}
+đúng	{"ud.adj": 1.0}
+đăng ký	{"ud.verb": 1.0}
+đơn	{"ud.noun": 1.0}
+đơn vị	{"ud.noun": 1.0}
+đưa	{"ud.verb": 1.0}
+đường	{"ud.noun": 1.0}
+đường dây	{"ud.noun": 1.0}
+đường ống	{"ud.noun": 1.0}
+được	{"ud.verb": 0.6280487804878049, "ud.x": 0.36585365853658536, "ud.part": 0.006097560975609756}
+đại	{"ud.noun": 1.0}
+đại diện	{"ud.noun": 0.4, "ud.verb": 0.6}
+đại học	{"ud.noun": 1.0}
+đảm bảo	{"ud.verb": 1.0}
+đảng	{"ud.noun": 1.0}
+đảng viên	{"ud.noun": 1.0}
+đất	{"ud.noun": 1.0}
+đất nước	{"ud.noun": 1.0}
+đấy	{"ud.part": 0.3333333333333333, "ud.propn": 0.6666666666666666}
+đầu	{"ud.noun": 1.0}
+đầu tiên	{"ud.noun": 0.2, "ud.adj": 0.8}
+đầu tư	{"ud.verb": 1.0}
+đầy	{"ud.adj": 1.0}
+đầy đủ	{"ud.adj": 1.0}
+đặc biệt	{"ud.adj": 1.0}
+đặt	{"ud.verb": 1.0}
+đến	{"ud.verb": 0.35074626865671643, "ud.adp": 0.5671641791044776, "ud.x": 0.04477611940298507, "ud.part": 0.03731343283582089}
+đề cập	{"ud.verb": 1.0}
+đề nghị	{"ud.verb": 0.9, "ud.noun": 0.1}
+đền	{"ud.noun": 1.0}
+đều	{"ud.x": 0.9629629629629629, "ud.adj": 0.037037037037037035}
+để	{"ud.verb": 0.1951219512195122, "ud.adp": 0.7926829268292683, "ud.cconj": 0.012195121951219513}
+địa chỉ	{"ud.noun": 1.0}
+định	{"ud.verb": 1.0}
+đọc	{"ud.verb": 1.0}
+đối tượng	{"ud.noun": 1.0}
+đối với	{"ud.adp": 0.9333333333333333, "ud.x": 0.06666666666666667}
+đồng	{"ud.noun": 1.0}
+đồng nai	{"ud.noun": 1.0}
+đồng nghiệp	{"ud.noun": 1.0}
+đồng ý	{"ud.verb": 1.0}
+đổ	{"ud.verb": 1.0}
+đổi	{"ud.verb": 1.0}
+đổi mới	{"ud.noun": 0.4, "ud.verb": 0.6}
+đội	{"ud.verb": 0.3, "ud.noun": 0.7}
+đời	{"ud.noun": 1.0}
+đỡ	{"ud.verb": 1.0}
+đợi	{"ud.verb": 1.0}
+đủ	{"ud.verb": 0.3333333333333333, "ud.adj": 0.6666666666666666}
+đứa	{"ud.noun": 1.0}
+đứng	{"ud.verb": 1.0}
+ưu đãi	{"ud.verb": 0.5, "ud.adj": 0.5}
+ảnh	{"ud.noun": 1.0}
+ảnh hưởng	{"ud.verb": 1.0}
+ấy	{"ud.propn": 0.9705882352941176, "ud.part": 0.029411764705882353}
+ống	{"ud.noun": 1.0}
+ở	{"ud.adp": 0.7614678899082569, "ud.verb": 0.23853211009174313}
+ủng hộ	{"ud.verb": 1.0}
+–	{"ud.punct": 1.0}
